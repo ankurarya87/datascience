@@ -1,0 +1,276 @@
+,totalRooms,amount,zipcode,zindex,street,longitude,bathrooms,useCode,latitude,finishedSqFt,link,state,city,FIPScounty,lotSizeSqFt
+0,,,11360.0,853400.0,28th Ave,-73.78755,1.0,MultiFamily5Plus,40.77312,,https://www.zillow.com/homedetails/28th-Ave-Bayside-NY-11360/2086056631_zpid/,NY,Bayside,,
+1,,365828.0,11360.0,853400.0,28th Ave,-73.78755,,Townhouse,40.77312,,https://www.zillow.com/homedetails/28th-Ave-Flushing-NY-11360/2086048376_zpid/,NY,Flushing,,
+2,,,11360.0,853400.0,28th Ave,-73.77423,,SingleFamily,40.77557,4410.0,https://www.zillow.com/homedetails/28th-Ave-Flushing-NY-11360/249417099_zpid/,NY,Flushing,36081.0,6724.0
+3,,,11217.0,926500.0,321 Schermerhorn St,-73.981469,,VacantResidentialLand,40.687432,1475.0,https://www.zillow.com/homedetails/321-Schermerhorn-St-Brooklyn-NY-11217/30566322_zpid/,NY,Brooklyn,36047.0,938.0
+4,,1197267.0,11217.0,926500.0,370 Schermerhorn St,-73.98002,,Unknown,40.68664,,https://www.zillow.com/homedetails/370-Schermerhorn-St-Brooklyn-NY-11217/2101048581_zpid/,NY,Brooklyn,,
+5,,722388.0,11217.0,926500.0,360 Schermerhorn St,-73.980233,,Townhouse,40.686633,,https://www.zillow.com/homedetails/360-Schermerhorn-St-Brooklyn-NY-11217/2123588027_zpid/,NY,Brooklyn,,
+6,,1224303.0,11217.0,926500.0,300 Schermerhorn St,-73.982637,,Unknown,40.687415,,https://www.zillow.com/homedetails/300-Schermerhorn-St-Brooklyn-NY-11217/2129309767_zpid/,NY,Brooklyn,,
+7,,1421679.0,11217.0,1234400.0,319 Schermerhorn St #16B,-73.9792,3.0,Condominium,40.6828,1208.0,https://www.zillow.com/homedetails/319-Schermerhorn-St-16B-Brooklyn-NY-11217/2090293298_zpid/,NY,Brooklyn,,
+8,4.0,1555592.0,11217.0,926500.0,319 Schermerhorn St # 19B,-73.981498,2.5,Condominium,40.6875,1219.0,https://www.zillow.com/homedetails/319-Schermerhorn-St-19B-Brooklyn-NY-11217/2091190648_zpid/,NY,Brooklyn,,
+9,4.0,1217614.0,11217.0,926500.0,319 Schermerhorn St # 14C,-73.981498,2.0,Condominium,40.6875,865.0,https://www.zillow.com/homedetails/319-Schermerhorn-St-14C-Brooklyn-NY-11217/2093342718_zpid/,NY,Brooklyn,,
+10,4.0,1217517.0,11217.0,926500.0,319 Schermerhorn St # 13C,-73.981498,2.0,Condominium,40.6875,865.0,https://www.zillow.com/homedetails/319-Schermerhorn-St-13C-Brooklyn-NY-11217/2093342719_zpid/,NY,Brooklyn,,
+11,3.0,764630.0,11217.0,926500.0,319 Schermerhorn St # 8C,-73.981498,1.0,Condominium,40.6875,632.0,https://www.zillow.com/homedetails/319-Schermerhorn-St-8C-Brooklyn-NY-11217/2093342739_zpid/,NY,Brooklyn,,
+12,3.0,766756.0,11217.0,926500.0,319 Schermerhorn St # 9C,-73.981498,1.0,Condominium,40.6875,632.0,https://www.zillow.com/homedetails/319-Schermerhorn-St-9C-Brooklyn-NY-11217/2093658838_zpid/,NY,Brooklyn,,
+13,,1196802.0,11217.0,926500.0,323 Schermerhorn St # 1E,-73.981407,,Unknown,40.687408,,https://www.zillow.com/homedetails/323-Schermerhorn-St-1E-Brooklyn-NY-11217/2096331286_zpid/,NY,Brooklyn,,
+14,,1224303.0,11217.0,926500.0,300 Schermerhorn St # 0,-73.982637,,Unknown,40.687415,,https://www.zillow.com/homedetails/300-Schermerhorn-St-0-Brooklyn-NY-11217/2096672991_zpid/,NY,Brooklyn,,
+15,,1196813.0,11217.0,926500.0,323 Schermerhorn St # B,-73.98141,,Unknown,40.68739,,https://www.zillow.com/homedetails/323-Schermerhorn-St-B-Brooklyn-NY-11217/2100689768_zpid/,NY,Brooklyn,,
+16,,667758.0,11217.0,926500.0,333 Schermerhorn St APT 29C,-73.981039,1.0,MultiFamily2To4,40.687217,,https://www.zillow.com/homedetails/333-Schermerhorn-St-APT-29C-Brooklyn-NY-11217/2085172085_zpid/,NY,Brooklyn,,
+17,,659242.0,11217.0,926500.0,333 Schermerhorn St PH 50C,-73.981039,1.0,MultiFamily2To4,40.687217,,https://www.zillow.com/homedetails/333-Schermerhorn-St-PH-50C-Brooklyn-NY-11217/2089307149_zpid/,NY,Brooklyn,,
+18,5.0,2513972.0,11217.0,926500.0,319 Schermerhorn St APT 21A,-73.981498,4.0,Condominium,40.6875,2150.0,https://www.zillow.com/homedetails/319-Schermerhorn-St-APT-21A-Brooklyn-NY-11217/2088766963_zpid/,NY,Brooklyn,,
+19,4.0,1366780.0,11217.0,926500.0,319 Schermerhorn St APT 6D,-73.981498,2.0,Condominium,40.6875,1115.0,https://www.zillow.com/homedetails/319-Schermerhorn-St-APT-6D-Brooklyn-NY-11217/2086469895_zpid/,NY,Brooklyn,,
+20,,1218223.0,11217.0,926500.0,333 Schermerhorn St PH 54E,-73.981039,2.0,MultiFamily2To4,40.687217,,https://www.zillow.com/homedetails/333-Schermerhorn-St-PH-54E-Brooklyn-NY-11217/2085477769_zpid/,NY,Brooklyn,,
+21,,510039.0,11217.0,926500.0,333 Schermerhorn St APT 33J,-73.981039,1.0,MultiFamily2To4,40.687217,,https://www.zillow.com/homedetails/333-Schermerhorn-St-APT-33J-Brooklyn-NY-11217/2086668748_zpid/,NY,Brooklyn,,
+22,5.0,1850265.0,11217.0,926500.0,319 Schermerhorn St APT 17A,-73.981498,2.0,Condominium,40.6875,1607.0,https://www.zillow.com/homedetails/319-Schermerhorn-St-APT-17A-Brooklyn-NY-11217/2086348864_zpid/,NY,Brooklyn,,
+23,4.0,1450624.0,11217.0,926500.0,319 Schermerhorn St APT 18B,-73.981498,2.0,Condominium,40.6875,1206.0,https://www.zillow.com/homedetails/319-Schermerhorn-St-APT-18B-Brooklyn-NY-11217/2086348863_zpid/,NY,Brooklyn,,
+24,4.0,1422718.0,11217.0,926500.0,319 Schermerhorn St APT 10D,-73.981498,2.0,Condominium,40.6875,1115.0,https://www.zillow.com/homedetails/319-Schermerhorn-St-APT-10D-Brooklyn-NY-11217/2086745114_zpid/,NY,Brooklyn,,
+25,,659381.0,11217.0,926500.0,333 Schermerhorn St APT 45M,-73.981039,1.0,MultiFamily2To4,40.687217,,https://www.zillow.com/homedetails/333-Schermerhorn-St-APT-45M-Brooklyn-NY-11217/2085582033_zpid/,NY,Brooklyn,,
+26,4.0,1395726.0,11217.0,926500.0,319 Schermerhorn St APT 14B,-73.981498,2.0,Condominium,40.6875,1049.0,https://www.zillow.com/homedetails/319-Schermerhorn-St-APT-14B-Brooklyn-NY-11217/2087169212_zpid/,NY,Brooklyn,,
+27,4.0,1544499.0,11217.0,926500.0,319 Schermerhorn St APT 18A,-73.981498,3.0,Condominium,40.6875,1244.0,https://www.zillow.com/homedetails/319-Schermerhorn-St-APT-18A-Brooklyn-NY-11217/2087824668_zpid/,NY,Brooklyn,,
+28,,309915.0,11415.0,,12510 Queens Blvd,-73.826614,1.0,Cooperative,40.711912,1962.0,https://www.zillow.com/homedetails/12510-Queens-Blvd-Kew-Gardens-NY-11415/31943148_zpid/,NY,Kew Gardens,36081.0,2000.0
+29,,308790.0,11415.0,,12430 Queens Blvd,-73.827724,,Cooperative,40.712179,150507.0,https://www.zillow.com/homedetails/12430-Queens-Blvd-Jamaica-NY-11415/32006733_zpid/,NY,Jamaica,36081.0,43200.0
+30,2.0,299889.0,11415.0,,12510 Queens Blvd,-73.826614,,SingleFamily,40.711912,616738.0,https://www.zillow.com/homedetails/12510-Queens-Blvd-Jamaica-NY-11415/64908534_zpid/,NY,Jamaica,36081.0,52776.0
+31,,,11415.0,,12510 Queens Blvd,-73.826614,1.0,MultiFamily2To4,40.711912,950.0,https://www.zillow.com/homedetails/12510-Queens-Blvd-Jamaica-NY-11415/32006740_zpid/,NY,Jamaica,36081.0,52776.0
+32,,,11415.0,,12422 Queens Blvd,-73.827535,,SingleFamily,40.712467,9790.0,https://www.zillow.com/homedetails/12422-Queens-Blvd-Jamaica-NY-11415/143439097_zpid/,NY,Jamaica,36081.0,7700.0
+33,,,11415.0,,12418 Queens Blvd,-73.8277,,Apartment,40.7125,95000.0,https://www.zillow.com/homedetails/12418-Queens-Blvd-Kew-Gardens-NY-11415/2098647409_zpid/,NY,Kew Gardens,,
+34,,,11415.0,,12040 Queens Blvd,-73.855903,1.0,Apartment,40.727508,,https://www.zillow.com/homedetails/12040-Queens-Blvd-Kew-Gardens-NY-11415/2107532201_zpid/,NY,Kew Gardens,,
+35,,341363.0,11415.0,,12520 Queens Blvd,-73.825912,1.0,Condominium,40.712219,,https://www.zillow.com/homedetails/12520-Queens-Blvd-Kew-Gardens-NY-11415/2129065604_zpid/,NY,Kew Gardens,,
+36,,232019.0,11415.0,,12430 Queens Blvd # 5S,-73.827724,,Cooperative,40.712179,,https://www.zillow.com/homedetails/12430-Queens-Blvd-5S-Kew-Gardens-NY-11415/83890000_zpid/,NY,Kew Gardens,36081.0,
+37,,,11415.0,,12418 Queens Blvd # 1,-73.82739,,SingleFamily,40.71283,9472.0,https://www.zillow.com/homedetails/12418-Queens-Blvd-1-Jamaica-NY-11415/123983269_zpid/,NY,Jamaica,36081.0,
+38,,255688.0,11415.0,,12510 Queens Blvd # C2306,-73.826614,,Cooperative,40.711912,419528.0,https://www.zillow.com/homedetails/12510-Queens-Blvd-C2306-Kew-Gardens-NY-11415/245474368_zpid/,NY,Kew Gardens,36081.0,52776.0
+39,,,11415.0,,9221 Queens Blvd # 1,-73.830487,2.0,Apartment,40.714104,,https://www.zillow.com/homedetails/9221-Queens-Blvd-1-Jamaica-NY-11415/2095867778_zpid/,NY,Jamaica,,
+40,,537591.0,11415.0,,12598 Queens Blvd # 5T,-73.825709,,Unknown,40.71195,,https://www.zillow.com/homedetails/12598-Queens-Blvd-5T-Kew-Gardens-NY-11415/2096725570_zpid/,NY,Kew Gardens,,
+41,,230666.0,11415.0,,12510 Queens Blvd # 2611,-73.826614,,Cooperative,40.711912,,https://www.zillow.com/homedetails/12510-Queens-Blvd-2611-Kew-Gardens-NY-11415/2096806253_zpid/,NY,Kew Gardens,,
+42,,549289.0,11415.0,,12510 Queens Blvd # 414,-73.826614,1.0,SingleFamily,40.711912,,https://www.zillow.com/homedetails/12510-Queens-Blvd-414-Kew-Gardens-NY-11415/2096929984_zpid/,NY,Kew Gardens,,
+43,,281740.0,11415.0,,12510 Queens Blvd # 924,-73.826614,1.0,Cooperative,40.711912,,https://www.zillow.com/homedetails/12510-Queens-Blvd-924-Kew-Gardens-NY-11415/2097109005_zpid/,NY,Kew Gardens,,
+44,,239737.0,11415.0,,12510 Queens Blvd # 1019,-73.826614,1.0,Cooperative,40.711912,,https://www.zillow.com/homedetails/12510-Queens-Blvd-1019-Kew-Gardens-NY-11415/2098115498_zpid/,NY,Kew Gardens,,
+45,,514162.0,11415.0,,12510 Queens Blvd # 2205,-73.8267,1.0,Cooperative,40.7119,,https://www.zillow.com/homedetails/12510-Queens-Blvd-2205-Kew-Gardens-NY-11415/2099542041_zpid/,NY,Kew Gardens,,
+46,,329189.0,11415.0,,12510 Queens Blvd # 1,-73.826698,1.0,Cooperative,40.711898,1100.0,https://www.zillow.com/homedetails/12510-Queens-Blvd-1-Kew-Gardens-NY-11415/2100396048_zpid/,NY,Kew Gardens,,
+47,,346149.0,11415.0,,12510 Queens Blvd APT 805,-73.826614,1.0,MultiFamily2To4,40.711912,900.0,https://www.zillow.com/homedetails/12510-Queens-Blvd-APT-805-Kew-Gardens-NY-11415/245457955_zpid/,NY,Kew Gardens,36081.0,52776.0
+48,3.0,214251.0,11415.0,,12510 Queens Blvd APT 2011,-73.826614,1.0,Cooperative,40.711912,419528.0,https://www.zillow.com/homedetails/12510-Queens-Blvd-APT-2011-Kew-Gardens-NY-11415/245462904_zpid/,NY,Kew Gardens,36081.0,52776.0
+49,3.0,279643.0,11415.0,,12510 Queens Blvd APT 2106,-73.826614,1.0,Cooperative,40.711912,419528.0,https://www.zillow.com/homedetails/12510-Queens-Blvd-APT-2106-Kew-Gardens-NY-11415/245435165_zpid/,NY,Kew Gardens,36081.0,52776.0
+50,,255688.0,11415.0,,12510 Queens Blvd APT 1018,-73.826614,,Cooperative,40.711912,419528.0,https://www.zillow.com/homedetails/12510-Queens-Blvd-APT-1018-Kew-Gardens-NY-11415/245416811_zpid/,NY,Kew Gardens,36081.0,52776.0
+51,,255688.0,11415.0,,12510 Queens Blvd APT 806,-73.826614,,Cooperative,40.711912,419528.0,https://www.zillow.com/homedetails/12510-Queens-Blvd-APT-806-Kew-Gardens-NY-11415/245359147_zpid/,NY,Kew Gardens,36081.0,52776.0
+52,,255688.0,11415.0,,12510 Queens Blvd APT 512,-73.826614,,Cooperative,40.711912,419528.0,https://www.zillow.com/homedetails/12510-Queens-Blvd-APT-512-Kew-Gardens-NY-11415/245359256_zpid/,NY,Kew Gardens,36081.0,52776.0
+53,,377726.0,10471.0,,5414 Arlington Ave APT J61,-73.907599,2.0,Cooperative,40.902407,1150.0,https://www.zillow.com/homedetails/5414-Arlington-Ave-APT-J61-Bronx-NY-10471/244461049_zpid/,NY,Bronx,36005.0,98881.0
+54,9.0,1467521.0,10471.0,,5435 Arlington Ave,-73.908252,3.0,SingleFamily,40.903231,2352.0,https://www.zillow.com/homedetails/5435-Arlington-Ave-Bronx-NY-10471/29854592_zpid/,NY,Bronx,36005.0,6380.0
+55,,,10471.0,,5242 Arlington Ave,-73.90815,,SingleFamily,40.90086,,https://www.zillow.com/homedetails/5242-Arlington-Ave-Bronx-NY-10471/112508885_zpid/,NY,Bronx,36005.0,2000.0
+56,,368866.0,10471.0,,5900 Arlington Ave APT 3P,-73.905605,,Cooperative,40.909164,407920.0,https://www.zillow.com/homedetails/5900-Arlington-Ave-APT-3P-Bronx-NY-10471/244475966_zpid/,NY,Bronx,36005.0,234353.0
+57,,368866.0,10471.0,,5900 Arlington Ave APT 15S,-73.905605,,Cooperative,40.909164,407920.0,https://www.zillow.com/homedetails/5900-Arlington-Ave-APT-15S-Bronx-NY-10471/244475146_zpid/,NY,Bronx,36005.0,234353.0
+58,,368866.0,10471.0,,5900 Arlington Ave APT 5B,-73.905605,,Cooperative,40.909164,407920.0,https://www.zillow.com/homedetails/5900-Arlington-Ave-APT-5B-Bronx-NY-10471/244474521_zpid/,NY,Bronx,36005.0,234353.0
+59,,368866.0,10471.0,,5900 Arlington Ave APT 4T,-73.905605,,Cooperative,40.909164,407920.0,https://www.zillow.com/homedetails/5900-Arlington-Ave-APT-4T-Bronx-NY-10471/244473548_zpid/,NY,Bronx,36005.0,234353.0
+60,,368866.0,10471.0,,5900 Arlington Ave APT 6U,-73.905605,,Cooperative,40.909164,407920.0,https://www.zillow.com/homedetails/5900-Arlington-Ave-APT-6U-Bronx-NY-10471/244473248_zpid/,NY,Bronx,36005.0,234353.0
+61,,368866.0,10471.0,,5900 Arlington Ave APT 11B,-73.905605,,Cooperative,40.909164,407920.0,https://www.zillow.com/homedetails/5900-Arlington-Ave-APT-11B-Bronx-NY-10471/244471549_zpid/,NY,Bronx,36005.0,234353.0
+62,,368866.0,10471.0,,5900 Arlington Ave APT 9-P,-73.905605,,Cooperative,40.909164,407920.0,https://www.zillow.com/homedetails/5900-Arlington-Ave-APT-9-P-Bronx-NY-10471/244470936_zpid/,NY,Bronx,36005.0,234353.0
+63,,368866.0,10471.0,,5900 Arlington Ave APT 5P,-73.905605,,Cooperative,40.909164,407920.0,https://www.zillow.com/homedetails/5900-Arlington-Ave-APT-5P-Bronx-NY-10471/244470900_zpid/,NY,Bronx,36005.0,234353.0
+64,,368866.0,10471.0,,5900 Arlington Ave APT 5K,-73.905605,,Cooperative,40.909164,407920.0,https://www.zillow.com/homedetails/5900-Arlington-Ave-APT-5K-Bronx-NY-10471/244470500_zpid/,NY,Bronx,36005.0,234353.0
+65,,368866.0,10471.0,,5900 Arlington Ave APT 15N,-73.905605,,Cooperative,40.909164,407920.0,https://www.zillow.com/homedetails/5900-Arlington-Ave-APT-15N-Bronx-NY-10471/244469102_zpid/,NY,Bronx,36005.0,234353.0
+66,,368866.0,10471.0,,5900 Arlington Ave APT 21X,-73.905605,,Cooperative,40.909164,407920.0,https://www.zillow.com/homedetails/5900-Arlington-Ave-APT-21X-Bronx-NY-10471/244466947_zpid/,NY,Bronx,36005.0,234353.0
+67,,,10471.0,,5655 Arlington Ave,-73.909509,,SingleFamily,40.90615,43512.0,https://www.zillow.com/homedetails/5655-Arlington-Ave-Bronx-NY-10471/112506211_zpid/,NY,Bronx,36005.0,128938.0
+68,,368866.0,10471.0,,5900 Arlington Ave APT 4M,-73.905605,,Cooperative,40.909164,407920.0,https://www.zillow.com/homedetails/5900-Arlington-Ave-APT-4M-Bronx-NY-10471/244465998_zpid/,NY,Bronx,36005.0,234353.0
+69,,368698.0,10471.0,,5900 Arlington Ave APT 12M,-73.905605,,Cooperative,40.909164,407920.0,https://www.zillow.com/homedetails/5900-Arlington-Ave-APT-12M-Bronx-NY-10471/244473845_zpid/,NY,Bronx,36005.0,234353.0
+70,,368698.0,10471.0,,5900 Arlington Ave APT 1A,-73.905605,,Cooperative,40.909164,407920.0,https://www.zillow.com/homedetails/5900-Arlington-Ave-APT-1A-Bronx-NY-10471/244471773_zpid/,NY,Bronx,36005.0,234353.0
+71,,368698.0,10471.0,,5900 Arlington Ave APT 9F,-73.905605,,Cooperative,40.909164,407920.0,https://www.zillow.com/homedetails/5900-Arlington-Ave-APT-9F-Bronx-NY-10471/244464001_zpid/,NY,Bronx,36005.0,234353.0
+72,,368698.0,10471.0,,5900 Arlington Ave APT 15J,-73.905605,,Cooperative,40.909164,407920.0,https://www.zillow.com/homedetails/5900-Arlington-Ave-APT-15J-Bronx-NY-10471/244461254_zpid/,NY,Bronx,36005.0,234353.0
+73,,368698.0,10471.0,,5900 Arlington Ave APT 6F,-73.905605,,Cooperative,40.909164,407920.0,https://www.zillow.com/homedetails/5900-Arlington-Ave-APT-6F-Bronx-NY-10471/244444867_zpid/,NY,Bronx,36005.0,234353.0
+74,,368698.0,10471.0,,5900 Arlington Ave APT 10P,-73.905605,,Cooperative,40.909164,407920.0,https://www.zillow.com/homedetails/5900-Arlington-Ave-APT-10P-Bronx-NY-10471/244444250_zpid/,NY,Bronx,36005.0,234353.0
+75,,368698.0,10471.0,,5900 Arlington Ave APT 6L,-73.905605,,Cooperative,40.909164,407920.0,https://www.zillow.com/homedetails/5900-Arlington-Ave-APT-6L-Bronx-NY-10471/244434837_zpid/,NY,Bronx,36005.0,234353.0
+76,,368698.0,10471.0,,5900 Arlington Ave APT 16V,-73.905605,,Cooperative,40.909164,407920.0,https://www.zillow.com/homedetails/5900-Arlington-Ave-APT-16V-Bronx-NY-10471/244429475_zpid/,NY,Bronx,36005.0,234353.0
+77,,368698.0,10471.0,,5900 Arlington Ave APT 10S,-73.905605,,Cooperative,40.909164,407920.0,https://www.zillow.com/homedetails/5900-Arlington-Ave-APT-10S-Bronx-NY-10471/244426487_zpid/,NY,Bronx,36005.0,234353.0
+78,,,10308.0,491100.0,Arthur Kill Rd,-74.15478,,SingleFamily,40.56444,1104.0,https://www.zillow.com/homedetails/Arthur-Kill-Rd-Staten-Island-NY-10308/250554767_zpid/,NY,STATEN ISLAND,36085.0,918.0
+79,,,10308.0,491100.0,Arthur Kill Rd,-74.156771,,SingleFamily,40.565083,,https://www.zillow.com/homedetails/Arthur-Kill-Rd-Staten-Island-NY-10308/119609109_zpid/,NY,Staten island,36085.0,19358.0
+80,,,10308.0,491100.0,Arthur Kill Rd,-74.15851,,SingleFamily,40.561863,,https://www.zillow.com/homedetails/Arthur-Kill-Rd-Staten-Island-NY-10308/112117382_zpid/,NY,Staten island,36085.0,16895.0
+81,,,10308.0,491100.0,Arthur Kill Rd,-74.155149,,SingleFamily,40.564262,,https://www.zillow.com/homedetails/Arthur-Kill-Rd-Staten-Island-NY-10308/112115898_zpid/,NY,Staten island,36085.0,17764.0
+82,,,10308.0,491100.0,Arthur Kill Rd,-74.156999,,SingleFamily,40.564111,,https://www.zillow.com/homedetails/Arthur-Kill-Rd-Staten-Island-NY-10308/112113882_zpid/,NY,Staten island,36085.0,204435.0
+83,,,10308.0,491100.0,Arthur Kill Rd,-74.157808,,VacantResidentialLand,40.563397,5900.0,https://www.zillow.com/homedetails/Arthur-Kill-Rd-Staten-Island-NY-10308/112113155_zpid/,NY,Staten island,36085.0,1498.0
+84,,,10308.0,491100.0,Arthur Kill Rd,-74.150949,,VacantResidentialLand,40.565648,,https://www.zillow.com/homedetails/Arthur-Kill-Rd-Staten-Island-NY-10308/112112944_zpid/,NY,Staten island,36085.0,1498.0
+85,,,10308.0,491100.0,Arthur Kill Rd,-74.152392,,SingleFamily,40.567171,,https://www.zillow.com/homedetails/Arthur-Kill-Rd-Staten-Island-NY-10308/112117169_zpid/,NY,Staten island,36085.0,1500.0
+86,,,10457.0,,E 181st St,-73.88602,,SingleFamily,40.84788,1320.0,https://www.zillow.com/homedetails/E-181st-St-Bronx-NY-10457/154064114_zpid/,NY,BRONX,36005.0,2793.0
+87,,,10457.0,,E 181st St,-73.88712,1.0,MultiFamily5Plus,40.84842,,https://www.zillow.com/homedetails/E-181st-St-Bronx-NY-10457/2085284733_zpid/,NY,Bronx,,
+88,,,10457.0,,E 181st St,-73.88816,2.0,MultiFamily5Plus,40.84893,,https://www.zillow.com/homedetails/E-181st-St-Bronx-NY-10457/2085241986_zpid/,NY,Bronx,,
+89,,,10457.0,,E 181st St,-73.88954,1.0,MultiFamily5Plus,40.84898,,https://www.zillow.com/homedetails/E-181st-St-Bronx-NY-10457/2103158136_zpid/,NY,Bronx,,
+90,,,11377.0,,58th Ln,-73.90696,,SingleFamily,40.73859,1307.0,https://www.zillow.com/homedetails/58th-Ln-Flushing-NY-11377/245352905_zpid/,NY,Flushing,36081.0,1825.0
+91,,,11385.0,724700.0,6246 Forest Ave,-73.906048,2.0,MultiFamily2To4,40.712032,3480.0,https://www.zillow.com/homedetails/6246-Forest-Ave-Flushing-NY-11385/32006869_zpid/,NY,Flushing,36081.0,3976.0
+92,,1294395.0,11385.0,724700.0,6248 Forest Ave,-73.905991,,Triplex,40.711975,3480.0,https://www.zillow.com/homedetails/6248-Forest-Ave-Flushing-NY-11385/32006870_zpid/,NY,Flushing,36081.0,2420.0
+93,,1292084.0,11385.0,724700.0,6250 Forest Ave,-73.905945,,Triplex,40.711928,3480.0,https://www.zillow.com/homedetails/6250-Forest-Ave-Flushing-NY-11385/32006871_zpid/,NY,Flushing,36081.0,2071.0
+94,,1287928.0,11385.0,724700.0,6252 Forest Ave,-73.905898,,Triplex,40.711882,3480.0,https://www.zillow.com/homedetails/6252-Forest-Ave-Flushing-NY-11385/32006872_zpid/,NY,Flushing,36081.0,1830.0
+95,7.0,901345.0,11385.0,724700.0,6278 Forest Ave,-73.905567,3.0,MultiFamily2To4,40.711297,1560.0,https://www.zillow.com/homedetails/6278-Forest-Ave-Flushing-NY-11385/32006960_zpid/,NY,Flushing,36081.0,2054.0
+96,,1002860.0,11385.0,724700.0,6271 Forest Ave,-73.905075,,Duplex,40.71156,2400.0,https://www.zillow.com/homedetails/6271-Forest-Ave-Flushing-NY-11385/32009276_zpid/,NY,Flushing,36081.0,2867.0
+97,,,11385.0,724700.0,6265 Forest Ave,-73.905151,,SingleFamily,40.711727,2440.0,https://www.zillow.com/homedetails/6265-Forest-Ave-Flushing-NY-11385/32009278_zpid/,NY,Flushing,36081.0,7158.0
+98,,,11385.0,724700.0,6249 Forest Ave,-73.905344,,VacantResidentialLand,40.712148,1628.0,https://www.zillow.com/homedetails/6249-Forest-Ave-Flushing-NY-11385/32009279_zpid/,NY,Flushing,36081.0,17540.0
+99,,1473984.0,11385.0,724700.0,6269 Forest Ave,-73.905104,2.0,MultiFamily2To4,40.711624,3600.0,https://www.zillow.com/homedetails/6269-Forest-Ave-Flushing-NY-11385/32009277_zpid/,NY,Flushing,36081.0,4290.0
+100,,492062.0,11385.0,724700.0,6236 Forest Ave,-73.905979,,SingleFamily,40.712272,600.0,https://www.zillow.com/homedetails/6236-Forest-Ave-Ridgewood-NY-11385/2097653611_zpid/,NY,Ridgewood,,
+101,,651919.0,11385.0,724700.0,6242 Forest Ave,-73.90587,3.0,SingleFamily,40.7122,,https://www.zillow.com/homedetails/6242-Forest-Ave-Ridgewood-NY-11385/2105150442_zpid/,NY,Ridgewood,,
+102,,,11385.0,724700.0,6249 Forest Ave,-73.905344,,Unknown,40.712148,,https://www.zillow.com/homedetails/6249-Forest-Ave-Ridgewood-NY-11385/2139876128_zpid/,NY,Ridgewood,,
+103,,,11385.0,724700.0,Forest Ave,-73.90624,1.0,MultiFamily5Plus,40.70889,1000.0,https://www.zillow.com/homedetails/Forest-Ave-Flushing-NY-11385/2086293154_zpid/,NY,Flushing,,
+104,,,11385.0,724700.0,Forest Ave,-73.901463,1.0,MultiFamily5Plus,40.703079,,https://www.zillow.com/homedetails/Forest-Ave-Ridgewood-NY-11385/2094931941_zpid/,NY,Ridgewood,,
+105,,,11385.0,625800.0,Forest Ave,-73.888337,4.0,MultiFamily2To4,40.698436,3710.0,https://www.zillow.com/homedetails/Forest-Ave-Ridgewood-NY-11385/2109071308_zpid/,NY,Ridgewood,,26.0
+106,7.0,684791.0,11385.0,724700.0,6242 Forest Ave # 2,-73.906107,2.0,MultiFamily2To4,40.712131,900.0,https://www.zillow.com/homedetails/6242-Forest-Ave-2-Ridgewood-NY-11385/2088094457_zpid/,NY,Ridgewood,,
+107,3.0,473616.0,11385.0,724700.0,6238 Forest Ave # 2,-73.906087,1.0,MultiFamily2To4,40.712288,,https://www.zillow.com/homedetails/6238-Forest-Ave-2-Ridgewood-NY-11385/2088618863_zpid/,NY,Ridgewood,,
+108,,,11385.0,724700.0,6229 Forest Ave # 2,-73.905845,2.0,Apartment,40.712818,,https://www.zillow.com/homedetails/6229-Forest-Ave-2-Ridgewood-NY-11385/2096644647_zpid/,NY,Ridgewood,,
+109,,513848.0,11385.0,724700.0,6269 Forest Ave # 2TTTTT,-73.905104,,Unknown,40.711624,,https://www.zillow.com/homedetails/6269-Forest-Ave-2TTTTT-Flushing-NY-11385/2096947654_zpid/,NY,Flushing,,
+110,,,11385.0,724700.0,6269 Forest Ave # 2,-73.905104,2.0,Apartment,40.711624,1200.0,https://www.zillow.com/homedetails/6269-Forest-Ave-2-Flushing-NY-11385/2097014641_zpid/,NY,Flushing,,
+111,,513376.0,11385.0,724700.0,6240 Forest Ave # 2,-73.905936,,Unknown,40.712285,,https://www.zillow.com/homedetails/6240-Forest-Ave-2-Ridgewood-NY-11385/2117938195_zpid/,NY,Ridgewood,,
+112,,711510.0,11385.0,724700.0,6246 Forest Ave APT 3,-73.906048,2.0,MultiFamily2To4,40.712032,1200.0,https://www.zillow.com/homedetails/6246-Forest-Ave-APT-3-Ridgewood-NY-11385/2097741532_zpid/,NY,Ridgewood,,
+113,,519025.0,11385.0,724700.0,6250 Forest Ave APT 3,-73.905945,,Unknown,40.711928,,https://www.zillow.com/homedetails/6250-Forest-Ave-APT-3-Flushing-NY-11385/2087364979_zpid/,NY,Flushing,,
+114,,741257.0,10309.0,,20 Tides Ln,-74.240185,,SingleFamily,40.528841,2490.0,https://www.zillow.com/homedetails/20-Tides-Ln-Staten-Island-NY-10309/79745741_zpid/,NY,Staten Island,36085.0,1520.0
+115,,748967.0,10309.0,,44 Tides Ln,-74.241271,2.5,Townhouse,40.5289,2490.0,https://www.zillow.com/homedetails/44-Tides-Ln-Staten-Island-NY-10309/79741409_zpid/,NY,Staten Island,36085.0,1520.0
+116,,751657.0,10309.0,,32 Tides Ln,-74.240731,,SingleFamily,40.528871,2490.0,https://www.zillow.com/homedetails/32-Tides-Ln-Staten-Island-NY-10309/79733205_zpid/,NY,Staten Island,36085.0,1520.0
+117,,753684.0,10309.0,,24 Tides Ln,-74.240378,,SingleFamily,40.528857,2650.0,https://www.zillow.com/homedetails/24-Tides-Ln-Staten-Island-NY-10309/79738066_zpid/,NY,Staten Island,36085.0,1550.0
+118,,745331.0,10309.0,,28 Tides Ln,-74.240572,,SingleFamily,40.528863,2490.0,https://www.zillow.com/homedetails/28-Tides-Ln-Staten-Island-NY-10309/79745739_zpid/,NY,Staten Island,36085.0,1520.0
+119,,751001.0,10309.0,,40 Tides Ln,-74.241119,2.5,Townhouse,40.528892,2490.0,https://www.zillow.com/homedetails/40-Tides-Ln-Staten-Island-NY-10309/79746913_zpid/,NY,Staten Island,36085.0,1672.0
+120,,754075.0,10309.0,,34 Tides Ln,-74.240814,2.25,SingleFamily,40.528942,2365.0,https://www.zillow.com/homedetails/34-Tides-Ln-Staten-Island-NY-10309/79744021_zpid/,NY,Staten Island,36085.0,2539.0
+121,,749852.0,10309.0,,26 Tides Ln,-74.240476,,SingleFamily,40.528926,2365.0,https://www.zillow.com/homedetails/26-Tides-Ln-Staten-Island-NY-10309/79743688_zpid/,NY,Staten Island,36085.0,1860.0
+122,,752811.0,10309.0,,38 Tides Ln,-74.241023,3.0,Condominium,40.528956,2365.0,https://www.zillow.com/homedetails/38-Tides-Ln-Staten-Island-NY-10309/79740578_zpid/,NY,Staten Island,36085.0,1860.0
+123,,755183.0,10309.0,,36 Tides Ln,-74.240922,,SingleFamily,40.528886,2650.0,https://www.zillow.com/homedetails/36-Tides-Ln-Staten-Island-NY-10309/79738514_zpid/,NY,Staten Island,36085.0,1550.0
+124,,729473.0,10309.0,,22 Tides Ln,-74.240264,2.5,Townhouse,40.528915,2365.0,https://www.zillow.com/homedetails/22-Tides-Ln-Staten-Island-NY-10309/79728239_zpid/,NY,Staten Island,36085.0,1860.0
+125,,747941.0,10309.0,564100.0,46 Tides Ln,-74.21898,3.0,SingleFamily,40.5304,2700.0,https://www.zillow.com/homedetails/46-Tides-Ln-Staten-Island-NY-10309/79737013_zpid/,NY,Staten Island,36085.0,1860.0
+126,,,11205.0,861500.0,Walworth St,-73.95444,,VacantResidentialLand,40.697374,,https://www.zillow.com/homedetails/Walworth-St-Brooklyn-NY-11205/142840910_zpid/,NY,Brooklyn,36047.0,13613.0
+127,,,11205.0,861500.0,Walworth St,-73.954788,,VacantResidentialLand,40.695865,,https://www.zillow.com/homedetails/Walworth-St-Brooklyn-NY-11205/142841266_zpid/,NY,Brooklyn,36047.0,2500.0
+128,,,11220.0,554200.0,58th St,-74.00836,,SingleFamily,40.63662,4164.0,https://www.zillow.com/homedetails/58th-St-Brooklyn-NY-11220/250527195_zpid/,NY,BROOKLYN,36047.0,2003.0
+129,,,11220.0,554200.0,58th St,-74.01729,,Duplex,40.64202,2550.0,https://www.zillow.com/homedetails/58th-St-Brooklyn-NY-11220/250314007_zpid/,NY,BROOKLYN,36047.0,1803.0
+130,,,10461.0,,Herschell St,-73.84235,,Duplex,40.8361,1890.0,https://www.zillow.com/homedetails/Herschell-St-Bronx-NY-10461/250554914_zpid/,NY,BRONX,36005.0,2466.0
+131,,,10461.0,,Herschell St,-73.84508,,Duplex,40.83698,1783.0,https://www.zillow.com/homedetails/Herschell-St-Bronx-NY-10461/250527242_zpid/,NY,BRONX,36005.0,3558.0
+132,,842661.0,10314.0,534900.0,56 President St,-74.135618,,Duplex,40.60395,2110.0,https://www.zillow.com/homedetails/56-President-St-Staten-Island-NY-10314/32291620_zpid/,NY,Staten Island,36085.0,3920.0
+133,,842499.0,10314.0,534900.0,52 President St,-74.135771,,Duplex,40.603938,2110.0,https://www.zillow.com/homedetails/52-President-St-Staten-Island-NY-10314/32291619_zpid/,NY,Staten Island,36085.0,3920.0
+134,,842185.0,10314.0,534900.0,40 President St,-74.136208,,Duplex,40.603904,2110.0,https://www.zillow.com/homedetails/40-President-St-Staten-Island-NY-10314/32291616_zpid/,NY,Staten Island,36085.0,3920.0
+135,,,10314.0,534900.0,36 President St,-74.136353,1.0,Apartment,40.603893,600.0,https://www.zillow.com/homedetails/36-President-St-Staten-Island-NY-10314/32291615_zpid/,NY,Staten Island,36085.0,3920.0
+136,,842353.0,10314.0,534900.0,28 President St,-74.13663,,Duplex,40.603871,2110.0,https://www.zillow.com/homedetails/28-President-St-Staten-Island-NY-10314/32291613_zpid/,NY,Staten Island,36085.0,3920.0
+137,,679486.0,10314.0,534900.0,20 President St,-74.136922,2.0,SingleFamily,40.603848,1643.0,https://www.zillow.com/homedetails/20-President-St-Staten-Island-NY-10314/32291611_zpid/,NY,Staten Island,36085.0,4120.0
+138,,844856.0,10314.0,534900.0,8 President St,-74.137348,,Duplex,40.603808,2318.0,https://www.zillow.com/homedetails/8-President-St-Staten-Island-NY-10314/32291608_zpid/,NY,Staten Island,36085.0,4326.0
+139,,900680.0,10314.0,534900.0,1 President St,-74.137561,4.0,SingleFamily,40.604236,2652.0,https://www.zillow.com/homedetails/1-President-St-Staten-Island-NY-10314/32291578_zpid/,NY,Staten Island,36085.0,4100.0
+140,,688677.0,10314.0,534900.0,60 President St,-74.13546,,SingleFamily,40.603963,1910.0,https://www.zillow.com/homedetails/60-President-St-Staten-Island-NY-10314/32291621_zpid/,NY,Staten Island,36085.0,4214.0
+141,,842449.0,10314.0,534900.0,48 President St,-74.135914,,Duplex,40.603927,2110.0,https://www.zillow.com/homedetails/48-President-St-Staten-Island-NY-10314/32291618_zpid/,NY,Staten Island,36085.0,3920.0
+142,,842112.0,10314.0,534900.0,44 President St,-74.136056,,Duplex,40.603916,2110.0,https://www.zillow.com/homedetails/44-President-St-Staten-Island-NY-10314/32291617_zpid/,NY,Staten Island,36085.0,3920.0
+143,,842414.0,10314.0,534900.0,32 President St,-74.136488,,Duplex,40.603882,2110.0,https://www.zillow.com/homedetails/32-President-St-Staten-Island-NY-10314/32291614_zpid/,NY,Staten Island,36085.0,3920.0
+144,,842225.0,10314.0,534900.0,24 President St,-74.136779,,Duplex,40.603859,2110.0,https://www.zillow.com/homedetails/24-President-St-Staten-Island-NY-10314/32291612_zpid/,NY,Staten Island,36085.0,3920.0
+145,,846040.0,10314.0,534900.0,16 President St,-74.13706,,Duplex,40.603834,2318.0,https://www.zillow.com/homedetails/16-President-St-Staten-Island-NY-10314/32291610_zpid/,NY,Staten Island,36085.0,4120.0
+146,,830472.0,10314.0,534900.0,12 President St,-74.137203,3.0,MultiFamily2To4,40.603819,2318.0,https://www.zillow.com/homedetails/12-President-St-Staten-Island-NY-10314/32291609_zpid/,NY,Staten Island,36085.0,4120.0
+147,,847370.0,10314.0,534900.0,2 President St,-74.137504,,Duplex,40.603794,2318.0,https://www.zillow.com/homedetails/2-President-St-Staten-Island-NY-10314/32291607_zpid/,NY,Staten Island,36085.0,4182.0
+148,8.0,868801.0,10314.0,534900.0,5 President St,-74.13741,3.0,SingleFamily,40.604248,2424.0,https://www.zillow.com/homedetails/5-President-St-Staten-Island-NY-10314/32291577_zpid/,NY,Staten Island,36085.0,4000.0
+149,,874192.0,10314.0,534900.0,9 President St,-74.137264,,SingleFamily,40.60426,2424.0,https://www.zillow.com/homedetails/9-President-St-Staten-Island-NY-10314/32291576_zpid/,NY,Staten Island,36085.0,4000.0
+150,,,10314.0,534900.0,13 President St,-74.13712,,SingleFamily,40.604271,2704.0,https://www.zillow.com/homedetails/13-President-St-Staten-Island-NY-10314/32291575_zpid/,NY,Staten Island,36085.0,4000.0
+151,,847866.0,10314.0,534900.0,17 President St,-74.136978,,Duplex,40.604283,2296.0,https://www.zillow.com/homedetails/17-President-St-Staten-Island-NY-10314/32291574_zpid/,NY,Staten Island,36085.0,4000.0
+152,,830051.0,10314.0,534900.0,21 President St,-74.136836,,Duplex,40.604309,2296.0,https://www.zillow.com/homedetails/21-President-St-Staten-Island-NY-10314/32291573_zpid/,NY,Staten Island,36085.0,4440.0
+153,,796242.0,10314.0,534900.0,25 President St,-74.136696,,Duplex,40.60433,1960.0,https://www.zillow.com/homedetails/25-President-St-Staten-Island-NY-10314/32291572_zpid/,NY,Staten Island,36085.0,4800.0
+154,,844736.0,10314.0,534900.0,29 President St,-74.136553,,Duplex,40.604341,2160.0,https://www.zillow.com/homedetails/29-President-St-Staten-Island-NY-10314/32291571_zpid/,NY,Staten Island,36085.0,4800.0
+155,,863032.0,10314.0,534900.0,33 President St,-74.136407,,Duplex,40.604347,2476.0,https://www.zillow.com/homedetails/33-President-St-Staten-Island-NY-10314/32291570_zpid/,NY,Staten Island,36085.0,4830.0
+156,,763849.0,10314.0,534900.0,37 President St,-74.136254,,Duplex,40.604357,1892.0,https://www.zillow.com/homedetails/37-President-St-Staten-Island-NY-10314/32291569_zpid/,NY,Staten Island,36085.0,4871.0
+157,,,10456.0,353000.0,Fulton Ave,-73.906059,,SingleFamily,40.828791,,https://www.zillow.com/homedetails/Fulton-Ave-Bronx-NY-10456/112508794_zpid/,NY,Bronx,36005.0,1885.0
+158,,,10456.0,353000.0,Fulton Ave,-73.905925,,SingleFamily,40.828972,,https://www.zillow.com/homedetails/Fulton-Ave-Bronx-NY-10456/112505857_zpid/,NY,Bronx,36005.0,11822.0
+159,,,10456.0,353000.0,Fulton Ave,-73.906071,,SingleFamily,40.828748,,https://www.zillow.com/homedetails/Fulton-Ave-Bronx-NY-10456/112504895_zpid/,NY,Bronx,36005.0,1900.0
+160,,,10456.0,353000.0,Fulton Ave,-73.903819,,SingleFamily,40.83084,,https://www.zillow.com/homedetails/Fulton-Ave-Bronx-NY-10456/112504645_zpid/,NY,Bronx,36005.0,158.0
+161,,,10456.0,353000.0,Fulton Ave,-73.906253,,SingleFamily,40.82849,,https://www.zillow.com/homedetails/Fulton-Ave-Bronx-NY-10456/244424367_zpid/,NY,Bronx,36005.0,4658.0
+162,,,10456.0,861500.0,1473 Fulton Ave APT 8,-73.942323,1.0,Apartment,40.680116,,https://www.zillow.com/homedetails/1473-Fulton-Ave-APT-8-Bronx-NY-10456/2091472802_zpid/,NY,Bronx,,
+163,,,11433.0,446300.0,178th St,-73.77576,,SingleFamily,40.69718,1552.0,https://www.zillow.com/homedetails/178th-St-Jamaica-NY-11433/249299723_zpid/,NY,JAMAICA,36081.0,3000.0
+164,,,11433.0,446300.0,178th St,-73.77447,,Duplex,40.69603,1400.0,https://www.zillow.com/homedetails/178th-St-Jamaica-NY-11433/247904292_zpid/,NY,JAMAICA,36081.0,4000.0
+165,,545187.0,10033.0,,24-42 Bennett Ave APT 42B,-73.936317,1.0,Cooperative,40.851521,,https://www.zillow.com/homedetails/24-42-Bennett-Ave-APT-42B-New-York-NY-10033/219711179_zpid/,NY,New York,36061.0,
+166,,,10033.0,,114 Bennett Ave,-73.935188,,SingleFamily,40.853974,14214.0,https://www.zillow.com/homedetails/114-Bennett-Ave-New-York-NY-10033/97535093_zpid/,NY,New York,36061.0,5000.0
+167,,950974.0,10033.0,,114 Bennett Ave APT 2B,-73.935188,,Condominium,40.853974,1642.0,https://www.zillow.com/homedetails/114-Bennett-Ave-APT-2B-New-York-NY-10033/65322007_zpid/,NY,New York,36061.0,
+168,,961640.0,10033.0,,114 Bennett Ave APT 2A,-73.935139,,Condominium,40.853831,1597.0,https://www.zillow.com/homedetails/114-Bennett-Ave-APT-2A-New-York-NY-10033/145595477_zpid/,NY,New york,36061.0,
+169,,961640.0,10033.0,,114 Bennett Ave APT 2A,-73.935139,,Condominium,40.853831,1597.0,https://www.zillow.com/homedetails/114-Bennett-Ave-APT-2A-New-York-NY-10033/145595476_zpid/,NY,New york,36061.0,
+170,,424438.0,10033.0,,44 Bennett Ave APT 4E,-73.936382,1.0,MultiFamily2To4,40.851954,650.0,https://www.zillow.com/homedetails/44-Bennett-Ave-APT-4E-New-York-NY-10033/2086206016_zpid/,NY,New York,,
+171,,979177.0,10033.0,,114 Bennett Ave PENTHOUSE B,-73.935188,,Condominium,40.853974,1646.0,https://www.zillow.com/homedetails/114-Bennett-Ave-PENTHOUSE-B-New-York-NY-10033/65322012_zpid/,NY,New York,36061.0,
+172,,269162.0,10033.0,,120 Bennett Ave APT 4G,-73.935035,,Cooperative,40.854274,,https://www.zillow.com/homedetails/120-Bennett-Ave-APT-4G-New-York-NY-10033/119913323_zpid/,NY,New York,36061.0,
+173,,,10033.0,,44 Bennett Ave # 4E2,-73.936382,1.0,MultiFamily2To4,40.851954,650.0,https://www.zillow.com/homedetails/44-Bennett-Ave-4E2-New-York-NY-10033/2085136535_zpid/,NY,New York,,
+174,,590673.0,10033.0,,100 Bennett Ave,-73.935595,,Cooperative,40.853372,66990.0,https://www.zillow.com/homedetails/100-Bennett-Ave-New-York-NY-10033/31554009_zpid/,NY,New York,36061.0,15750.0
+175,,486075.0,10033.0,,120 Bennett Ave,-73.935035,1.0,Cooperative,40.854274,80600.0,https://www.zillow.com/homedetails/120-Bennett-Ave-New-York-NY-10033/31554010_zpid/,NY,New York,36061.0,18358.0
+176,,611443.0,10033.0,,24 Bennett Ave,-73.936429,,Cooperative,40.851496,75522.0,https://www.zillow.com/homedetails/24-Bennett-Ave-New-York-NY-10033/31554005_zpid/,NY,New York,36061.0,17400.0
+177,,348094.0,10033.0,,24 Bennett Ave APT 32B,-73.936429,,Cooperative,40.851496,,https://www.zillow.com/homedetails/24-Bennett-Ave-APT-32B-New-York-NY-10033/72536402_zpid/,NY,New York,36061.0,
+178,3.0,,10033.0,,24 Bennett Ave APT 33A,-73.936429,1.0,Cooperative,40.851496,680.0,https://www.zillow.com/homedetails/24-Bennett-Ave-APT-33A-New-York-NY-10033/72536403_zpid/,NY,New York,36061.0,
+179,3.0,396735.0,10033.0,,24 Bennett Ave APT 41B,-73.936429,1.0,Cooperative,40.851496,700.0,https://www.zillow.com/homedetails/24-Bennett-Ave-APT-41B-New-York-NY-10033/72536404_zpid/,NY,New York,36061.0,
+180,4.0,803270.0,10033.0,,24 Bennett Ave APT 52A,-73.936429,1.0,SingleFamily,40.851496,,https://www.zillow.com/homedetails/24-Bennett-Ave-APT-52A-New-York-NY-10033/72536405_zpid/,NY,New York,36061.0,
+181,,310870.0,10033.0,,100 Bennett Ave APT 1B,-73.935595,,Cooperative,40.853372,,https://www.zillow.com/homedetails/100-Bennett-Ave-APT-1B-New-York-NY-10033/72536423_zpid/,NY,New York,36061.0,
+182,4.0,423757.0,10033.0,,100 Bennett Ave APT 2C,-73.935595,1.0,Cooperative,40.853372,,https://www.zillow.com/homedetails/100-Bennett-Ave-APT-2C-New-York-NY-10033/72536424_zpid/,NY,New York,36061.0,
+183,,310870.0,10033.0,,100 Bennett Ave APT 2F,-73.935595,,Cooperative,40.853372,,https://www.zillow.com/homedetails/100-Bennett-Ave-APT-2F-New-York-NY-10033/72536425_zpid/,NY,New York,36061.0,
+184,4.0,791229.0,10033.0,,100 Bennett Ave APT 3J,-73.935595,1.5,Cooperative,40.853372,1100.0,https://www.zillow.com/homedetails/100-Bennett-Ave-APT-3J-New-York-NY-10033/72536426_zpid/,NY,New York,36061.0,
+185,,310870.0,10033.0,,100 Bennett Ave APT 5C,-73.935595,,Cooperative,40.853372,,https://www.zillow.com/homedetails/100-Bennett-Ave-APT-5C-New-York-NY-10033/72536427_zpid/,NY,New York,36061.0,
+186,,310870.0,10033.0,,100 Bennett Ave APT 6H,-73.935595,,Cooperative,40.853372,,https://www.zillow.com/homedetails/100-Bennett-Ave-APT-6H-New-York-NY-10033/72536428_zpid/,NY,New York,36061.0,
+187,4.0,444207.0,10033.0,,120 Bennett Ave APT 1D,-73.935035,1.0,Cooperative,40.854274,900.0,https://www.zillow.com/homedetails/120-Bennett-Ave-APT-1D-New-York-NY-10033/72536430_zpid/,NY,New York,36061.0,
+188,,308033.0,10033.0,,120 Bennett Ave APT 1E,-73.935035,1.0,Cooperative,40.854274,,https://www.zillow.com/homedetails/120-Bennett-Ave-APT-1E-New-York-NY-10033/72536431_zpid/,NY,New York,36061.0,
+189,2.0,258969.0,10033.0,,120 Bennett Ave APT 1J,-73.935035,1.0,Cooperative,40.854274,375.0,https://www.zillow.com/homedetails/120-Bennett-Ave-APT-1J-New-York-NY-10033/72536432_zpid/,NY,New York,36061.0,
+190,,,10301.0,,25 Silver Ct,-74.101237,3.0,SingleFamily,40.62567,2507.0,https://www.zillow.com/homedetails/25-Silver-Ct-Staten-Island-NY-10301/32277914_zpid/,NY,Staten Island,36085.0,8055.0
+191,9.0,1079338.0,10301.0,,20 Silver Ct,-74.100959,5.0,SingleFamily,40.625167,3682.0,https://www.zillow.com/homedetails/20-Silver-Ct-Staten-Island-NY-10301/79732923_zpid/,NY,Staten Island,36085.0,5549.0
+192,,970586.0,10301.0,,31 Silver Ct,-74.101489,3.0,SingleFamily,40.625643,2774.0,https://www.zillow.com/homedetails/31-Silver-Ct-Staten-Island-NY-10301/32277913_zpid/,NY,Staten Island,36085.0,7484.0
+193,,491017.0,10301.0,,43 Silver Ct,-74.102,,SingleFamily,40.625587,1190.0,https://www.zillow.com/homedetails/43-Silver-Ct-Staten-Island-NY-10301/32277910_zpid/,NY,Staten Island,36085.0,4440.0
+194,,638723.0,10301.0,,47 Silver Ct,-74.102144,,SingleFamily,40.625571,1782.0,https://www.zillow.com/homedetails/47-Silver-Ct-Staten-Island-NY-10301/32277909_zpid/,NY,Staten Island,36085.0,4329.0
+195,,894967.0,10301.0,,48 Silver Ct,-74.101999,2.25,SingleFamily,40.625057,1910.0,https://www.zillow.com/homedetails/48-Silver-Ct-Staten-Island-NY-10301/32277874_zpid/,NY,Staten Island,36085.0,8215.0
+196,,,10301.0,,11 Silver Ct,-74.100864,,SingleFamily,40.62571,,https://www.zillow.com/homedetails/11-Silver-Ct-Staten-Island-NY-10301/112116990_zpid/,NY,Staten island,36085.0,1000.0
+197,,642950.0,10301.0,,11 Silver Ct,-74.100864,,SingleFamily,40.62571,1716.0,https://www.zillow.com/homedetails/11-Silver-Ct-Staten-Island-NY-10301/32277916_zpid/,NY,Staten Island,36085.0,4995.0
+198,,857417.0,10301.0,,17 Silver Ct,-74.101026,,SingleFamily,40.625693,2647.0,https://www.zillow.com/homedetails/17-Silver-Ct-Staten-Island-NY-10301/32277915_zpid/,NY,Staten Island,36085.0,4995.0
+199,,717270.0,10301.0,,35 Silver Ct,-74.101696,,SingleFamily,40.62562,1837.0,https://www.zillow.com/homedetails/35-Silver-Ct-Staten-Island-NY-10301/32277912_zpid/,NY,Staten Island,36085.0,5550.0
+200,,619600.0,10301.0,,39 Silver Ct,-74.101856,,SingleFamily,40.625603,1616.0,https://www.zillow.com/homedetails/39-Silver-Ct-Staten-Island-NY-10301/32277911_zpid/,NY,Staten Island,36085.0,4440.0
+201,8.0,969193.0,10301.0,,38 Silver Ct,-74.101722,4.0,SingleFamily,40.625086,2573.0,https://www.zillow.com/homedetails/38-Silver-Ct-Staten-Island-NY-10301/32277873_zpid/,NY,Staten Island,36085.0,8325.0
+202,14.0,1062173.0,10301.0,,32 Silver Ct,-74.101496,2.5,SingleFamily,40.625111,3230.0,https://www.zillow.com/homedetails/32-Silver-Ct-Staten-Island-NY-10301/32277872_zpid/,NY,Staten Island,36085.0,5550.0
+203,,776950.0,10301.0,,28 Silver Ct,-74.101316,,SingleFamily,40.62513,2074.0,https://www.zillow.com/homedetails/28-Silver-Ct-Staten-Island-NY-10301/32277871_zpid/,NY,Staten Island,36085.0,5550.0
+204,,695978.0,10301.0,,24 Silver Ct,-74.101137,3.0,SingleFamily,40.62515,1288.0,https://www.zillow.com/homedetails/24-Silver-Ct-Staten-Island-NY-10301/32277870_zpid/,NY,Staten Island,36085.0,5550.0
+205,,1307929.0,10301.0,,14 Silver Ct,-74.100739,5.0,SingleFamily,40.625209,3800.0,https://www.zillow.com/homedetails/14-Silver-Ct-Staten-Island-NY-10301/32277869_zpid/,NY,Staten Island,36085.0,8888.0
+206,,612170.0,10301.0,,6 Silver Ct,-74.100465,,SingleFamily,40.625273,980.0,https://www.zillow.com/homedetails/6-Silver-Ct-Staten-Island-NY-10301/32277868_zpid/,NY,Staten Island,36085.0,4970.0
+207,,905798.0,10301.0,,25 Silver Ct,-74.101237,,SingleFamily,40.62567,2507.0,https://www.zillow.com/homedetails/25-Silver-Ct-Staten-Island-NY-10301/217912684_zpid/,NY,Staten Island,36085.0,8055.0
+208,,905798.0,10301.0,,25 Silver Ct,-74.101237,,SingleFamily,40.62567,2507.0,https://www.zillow.com/homedetails/25-Silver-Ct-Staten-Island-NY-10301/217912685_zpid/,NY,Staten Island,36085.0,8055.0
+209,,911259.0,11358.0,,Northern Blvd,-73.79302,2.0,Townhouse,40.75776,2000.0,https://www.zillow.com/homedetails/Northern-Blvd-Flushing-NY-11358/2085712316_zpid/,NY,Flushing,,
+210,,482107.0,11358.0,,Northern Blvd,-73.79302,2.0,Townhouse,40.75776,1000.0,https://www.zillow.com/homedetails/Northern-Blvd-Flushing-NY-11358/2085509162_zpid/,NY,Flushing,,
+211,,1392258.0,11230.0,,11230 Bay Ave,-73.966096,2.0,SingleFamily,40.622751,1424.0,https://www.zillow.com/homedetails/11230-Bay-Ave-Brooklyn-NY-11230/2097834176_zpid/,NY,Brooklyn,,
+212,,302245.0,11230.0,849100.0,1375 Ocean Ave APT 5N,-73.956747,1.0,MultiFamily2To4,40.628568,700.0,https://www.zillow.com/homedetails/1375-Ocean-Ave-APT-5N-Brooklyn-NY-11230/245042300_zpid/,NY,Brooklyn,36047.0,22000.0
+213,,314708.0,11230.0,849100.0,1801 Ocean Ave APT 4N,-73.954535,,Cooperative,40.617972,,https://www.zillow.com/homedetails/1801-Ocean-Ave-APT-4N-Brooklyn-NY-11230/79489256_zpid/,NY,Brooklyn,36047.0,
+214,,278839.0,11230.0,,275 Webster Ave APT 1N,-73.970918,1.0,Cooperative,40.633034,,https://www.zillow.com/homedetails/275-Webster-Ave-APT-1N-Brooklyn-NY-11230/79713929_zpid/,NY,Brooklyn,36047.0,
+215,,234740.0,11230.0,,275 Webster Ave APT 2N,-73.970918,1.0,Cooperative,40.633034,600.0,https://www.zillow.com/homedetails/275-Webster-Ave-APT-2N-Brooklyn-NY-11230/79714365_zpid/,NY,Brooklyn,36047.0,
+216,,302495.0,11230.0,,275 Webster Ave APT 5N,-73.970918,,Cooperative,40.633034,,https://www.zillow.com/homedetails/275-Webster-Ave-APT-5N-Brooklyn-NY-11230/79726242_zpid/,NY,Brooklyn,36047.0,
+217,,333190.0,11230.0,849100.0,1801 Ocean Ave APT 6N,-73.954535,1.0,Condominium,40.617972,,https://www.zillow.com/homedetails/1801-Ocean-Ave-APT-6N-Brooklyn-NY-11230/82391207_zpid/,NY,Brooklyn,36047.0,
+218,,306503.0,11230.0,849100.0,1360 Ocean Ave APT 2N,-73.95714,,Cooperative,40.628712,,https://www.zillow.com/homedetails/1360-Ocean-Ave-APT-2N-Brooklyn-NY-11230/89827549_zpid/,NY,Brooklyn,36047.0,
+219,5.0,635603.0,11230.0,,345 Webster Ave APT 1N,-73.968895,2.0,Cooperative,40.634007,975.0,https://www.zillow.com/homedetails/345-Webster-Ave-APT-1N-Brooklyn-NY-11230/119912552_zpid/,NY,Brooklyn,36047.0,
+220,,615124.0,11230.0,,345 Webster Ave APT 4N,-73.968897,1.5,Cooperative,40.634018,1000.0,https://www.zillow.com/homedetails/345-Webster-Ave-APT-4N-Brooklyn-NY-11230/119981438_zpid/,NY,Brooklyn,36047.0,
+221,3.0,278869.0,11230.0,849100.0,1801 Ocean Ave APT 7N,-73.954535,1.0,Cooperative,40.617972,,https://www.zillow.com/homedetails/1801-Ocean-Ave-APT-7N-Brooklyn-NY-11230/122563237_zpid/,NY,Brooklyn,36047.0,
+222,3.0,278869.0,11230.0,849100.0,1801 Ocean Ave APT 2N,-73.954535,1.0,Cooperative,40.617972,,https://www.zillow.com/homedetails/1801-Ocean-Ave-APT-2N-Brooklyn-NY-11230/123117022_zpid/,NY,Brooklyn,36047.0,
+223,,385657.0,11230.0,849100.0,1801 Ocean Ave APT 4N,-73.954535,,Cooperative,40.617972,70884.0,https://www.zillow.com/homedetails/1801-Ocean-Ave-APT-4N-Brooklyn-NY-11230/244990415_zpid/,NY,Brooklyn,36047.0,20920.0
+224,,604236.0,11230.0,,345 Webster Ave APT 6N,-73.968897,,Cooperative,40.634018,158230.0,https://www.zillow.com/homedetails/345-Webster-Ave-APT-6N-Brooklyn-NY-11230/244992096_zpid/,NY,Brooklyn,36047.0,39920.0
+225,,604236.0,11230.0,,345 Webster Ave APT 4N,-73.968897,,Cooperative,40.634018,158230.0,https://www.zillow.com/homedetails/345-Webster-Ave-APT-4N-Brooklyn-NY-11230/244993857_zpid/,NY,Brooklyn,36047.0,39920.0
+226,,385657.0,11230.0,849100.0,1801 Ocean Ave APT 3N,-73.954535,,Cooperative,40.617972,70884.0,https://www.zillow.com/homedetails/1801-Ocean-Ave-APT-3N-Brooklyn-NY-11230/244994333_zpid/,NY,Brooklyn,36047.0,20920.0
+227,,356353.0,11230.0,849100.0,1360 Ocean Ave APT 2N,-73.95714,,Cooperative,40.628712,75852.0,https://www.zillow.com/homedetails/1360-Ocean-Ave-APT-2N-Brooklyn-NY-11230/244994796_zpid/,NY,Brooklyn,36047.0,18192.0
+228,,269018.0,11230.0,,275 Webster Ave APT 1N,-73.970918,,Cooperative,40.633034,73584.0,https://www.zillow.com/homedetails/275-Webster-Ave-APT-1N-Brooklyn-NY-11230/244996426_zpid/,NY,Brooklyn,36047.0,20490.0
+229,,269018.0,11230.0,,275 Webster Ave APT 4N,-73.970918,,Cooperative,40.633034,73584.0,https://www.zillow.com/homedetails/275-Webster-Ave-APT-4N-Brooklyn-NY-11230/244998073_zpid/,NY,Brooklyn,36047.0,20490.0
+230,,385657.0,11230.0,849100.0,1801 Ocean Ave APT 7N,-73.954535,,Cooperative,40.617972,70884.0,https://www.zillow.com/homedetails/1801-Ocean-Ave-APT-7N-Brooklyn-NY-11230/244998156_zpid/,NY,Brooklyn,36047.0,20920.0
+231,,357356.0,11230.0,849100.0,1375 Ocean Ave APT 1N,-73.956747,,Cooperative,40.628568,115200.0,https://www.zillow.com/homedetails/1375-Ocean-Ave-APT-1N-Brooklyn-NY-11230/245000321_zpid/,NY,Brooklyn,36047.0,22000.0
+232,,385657.0,11230.0,849100.0,1801 Ocean Ave APT 6N,-73.954535,,Cooperative,40.617972,70884.0,https://www.zillow.com/homedetails/1801-Ocean-Ave-APT-6N-Brooklyn-NY-11230/245006352_zpid/,NY,Brooklyn,36047.0,20920.0
+233,,385657.0,11230.0,849100.0,1801 Ocean Ave APT 5N,-73.954535,,Cooperative,40.617972,70884.0,https://www.zillow.com/homedetails/1801-Ocean-Ave-APT-5N-Brooklyn-NY-11230/245007042_zpid/,NY,Brooklyn,36047.0,20920.0
+234,,357356.0,11230.0,849100.0,1375 Ocean Ave APT 6N,-73.956747,,Cooperative,40.628568,115200.0,https://www.zillow.com/homedetails/1375-Ocean-Ave-APT-6N-Brooklyn-NY-11230/245011686_zpid/,NY,Brooklyn,36047.0,22000.0
+235,,269018.0,11230.0,,275 Webster Ave APT 3N,-73.970918,,Cooperative,40.633034,73584.0,https://www.zillow.com/homedetails/275-Webster-Ave-APT-3N-Brooklyn-NY-11230/245014169_zpid/,NY,Brooklyn,36047.0,20490.0
+236,,771892.0,11375.0,,8743 69th Ave,-73.85596,,Duplex,40.710815,1216.0,https://www.zillow.com/homedetails/8743-69th-Ave-Flushing-NY-11375/32019913_zpid/,NY,Flushing,36081.0,2317.0
+237,,771150.0,11375.0,,8741 69th Ave,-73.855978,,Duplex,40.710747,1216.0,https://www.zillow.com/homedetails/8741-69th-Ave-Flushing-NY-11375/32019914_zpid/,NY,Flushing,36081.0,2317.0
+238,,757215.0,11375.0,,8737 69th Ave,-73.855996,1.5,SingleFamily,40.710684,1216.0,https://www.zillow.com/homedetails/8737-69th-Ave-Flushing-NY-11375/32019915_zpid/,NY,Flushing,36081.0,2317.0
+239,,732445.0,11375.0,,8735 69th Ave,-73.856013,1.5,SingleFamily,40.710621,1216.0,https://www.zillow.com/homedetails/8735-69th-Ave-Flushing-NY-11375/32019916_zpid/,NY,Flushing,36081.0,2300.0
+240,,729015.0,11375.0,,8733 69th Ave,-73.85603,,SingleFamily,40.710559,1216.0,https://www.zillow.com/homedetails/8733-69th-Ave-Flushing-NY-11375/32019917_zpid/,NY,Flushing,36081.0,2317.0
+241,,728477.0,11375.0,,8731 69th Ave,-73.856047,,SingleFamily,40.7105,1216.0,https://www.zillow.com/homedetails/8731-69th-Ave-Flushing-NY-11375/32019918_zpid/,NY,Flushing,36081.0,2317.0
+242,,727858.0,11375.0,,8729 69th Ave,-73.856064,,SingleFamily,40.710437,1216.0,https://www.zillow.com/homedetails/8729-69th-Ave-Flushing-NY-11375/32019919_zpid/,NY,Flushing,36081.0,2317.0
+243,,726104.0,11375.0,,8727 69th Ave,-73.856081,,SingleFamily,40.710375,1216.0,https://www.zillow.com/homedetails/8727-69th-Ave-Flushing-NY-11375/32019920_zpid/,NY,Flushing,36081.0,2317.0
+244,,757355.0,11375.0,,8723 69th Ave,-73.856099,2.5,SingleFamily,40.710312,1216.0,https://www.zillow.com/homedetails/8723-69th-Ave-Flushing-NY-11375/32019921_zpid/,NY,Flushing,36081.0,2317.0
+245,,725896.0,11375.0,,8721 69th Ave,-73.856117,,SingleFamily,40.710248,1216.0,https://www.zillow.com/homedetails/8721-69th-Ave-Flushing-NY-11375/32019922_zpid/,NY,Flushing,36081.0,2317.0
+246,,829934.0,11375.0,,8719 69th Ave,-73.856134,3.0,MultiFamily2To4,40.710187,1888.0,https://www.zillow.com/homedetails/8719-69th-Ave-Flushing-NY-11375/32019923_zpid/,NY,Flushing,36081.0,2326.0
+247,,725293.0,11375.0,,8717 69th Ave,-73.856149,,SingleFamily,40.71013,1216.0,https://www.zillow.com/homedetails/8717-69th-Ave-Flushing-NY-11375/32019924_zpid/,NY,Flushing,36081.0,2317.0
+248,,725241.0,11375.0,,8715 69th Ave,-73.856165,,SingleFamily,40.710073,1216.0,https://www.zillow.com/homedetails/8715-69th-Ave-Flushing-NY-11375/32019925_zpid/,NY,Flushing,36081.0,2317.0
+249,9.0,766521.0,11375.0,,8711 69th Ave,-73.856181,2.5,SingleFamily,40.710016,1888.0,https://www.zillow.com/homedetails/8711-69th-Ave-Flushing-NY-11375/32019926_zpid/,NY,Flushing,36081.0,2100.0
+250,,728934.0,11375.0,,8709 69th Ave,-73.856179,,SingleFamily,40.709956,1488.0,https://www.zillow.com/homedetails/8709-69th-Ave-Flushing-NY-11375/32019927_zpid/,NY,Flushing,36081.0,2069.0
+251,,720992.0,11375.0,,8707 69th Ave,-73.856165,,SingleFamily,40.709887,1488.0,https://www.zillow.com/homedetails/8707-69th-Ave-Flushing-NY-11375/32019928_zpid/,NY,Flushing,36081.0,1750.0
+252,,720374.0,11375.0,,8705 69th Ave,-73.856143,,SingleFamily,40.709783,1100.0,https://www.zillow.com/homedetails/8705-69th-Ave-Flushing-NY-11375/32019929_zpid/,NY,Flushing,36081.0,4124.0
+253,,784549.0,11375.0,,8704 69th Ave,-73.855659,,SingleFamily,40.709656,1216.0,https://www.zillow.com/homedetails/8704-69th-Ave-Flushing-NY-11375/32019962_zpid/,NY,Flushing,36081.0,2518.0
+254,,792843.0,11375.0,,8706 69th Ave,-73.855672,,SingleFamily,40.709718,1216.0,https://www.zillow.com/homedetails/8706-69th-Ave-Flushing-NY-11375/32019963_zpid/,NY,Flushing,36081.0,2250.0
+255,,797515.0,11375.0,,8708 69th Ave,-73.855657,2.0,SingleFamily,40.709773,1216.0,https://www.zillow.com/homedetails/8708-69th-Ave-Flushing-NY-11375/32019964_zpid/,NY,Flushing,36081.0,2000.0
+256,,854270.0,11375.0,,8710 69th Ave,-73.855641,,SingleFamily,40.709832,1344.0,https://www.zillow.com/homedetails/8710-69th-Ave-Flushing-NY-11375/32019965_zpid/,NY,Flushing,36081.0,2317.0
+257,,788607.0,11375.0,,8712 69th Ave,-73.855623,,SingleFamily,40.709897,1216.0,https://www.zillow.com/homedetails/8712-69th-Ave-Flushing-NY-11375/32019966_zpid/,NY,Flushing,36081.0,2317.0
+258,,761191.0,11375.0,,8714 69th Ave,-73.855606,,Duplex,40.709962,1216.0,https://www.zillow.com/homedetails/8714-69th-Ave-Flushing-NY-11375/32019967_zpid/,NY,Flushing,36081.0,2317.0
+259,,799017.0,11375.0,,8716 69th Ave,-73.855589,,Duplex,40.710023,1216.0,https://www.zillow.com/homedetails/8716-69th-Ave-Flushing-NY-11375/32019968_zpid/,NY,Flushing,36081.0,2317.0
+260,,797107.0,11375.0,,8718 69th Ave,-73.855573,,Duplex,40.710083,1216.0,https://www.zillow.com/homedetails/8718-69th-Ave-Flushing-NY-11375/32019969_zpid/,NY,Flushing,36081.0,2317.0
+261,,,10305.0,456000.0,Tompkins Ave,-74.065865,,SingleFamily,40.605483,,https://www.zillow.com/homedetails/Tompkins-Ave-Staten-Island-NY-10305/112112734_zpid/,NY,Staten island,36085.0,3050.0
+262,,,10305.0,456000.0,Tompkins Ave,-74.066755,,SingleFamily,40.606584,,https://www.zillow.com/homedetails/Tompkins-Ave-Staten-Island-NY-10305/124766204_zpid/,NY,Staten island,36085.0,420.0
+263,,,10305.0,456000.0,Tompkins Ave,-74.07379,,SingleFamily,40.612896,,https://www.zillow.com/homedetails/Tompkins-Ave-Staten-Island-NY-10305/112117924_zpid/,NY,Staten island,36085.0,2475.0
+264,,,10305.0,456000.0,Tompkins Ave,-74.072093,,VacantResidentialLand,40.615416,,https://www.zillow.com/homedetails/Tompkins-Ave-Staten-Island-NY-10305/143737572_zpid/,NY,Staten island,36085.0,201847.0
+265,,,10305.0,456000.0,Tompkins Ave,-74.074734,,VacantResidentialLand,40.61646,,https://www.zillow.com/homedetails/Tompkins-Ave-Staten-Island-NY-10305/143740533_zpid/,NY,Staten island,36085.0,10050.0
+266,,,10305.0,456000.0,Tompkins Ave,-74.072349,,VacantResidentialLand,40.613513,,https://www.zillow.com/homedetails/Tompkins-Ave-Staten-Island-NY-10305/143740701_zpid/,NY,Staten island,36085.0,4263.0
+267,,,10305.0,456000.0,Tompkins Ave,-74.06555,,SingleFamily,40.6051,,https://www.zillow.com/homedetails/Tompkins-Ave-Staten-Island-NY-10305/244594502_zpid/,NY,Staten island,36085.0,1875.0
+268,,,10305.0,456000.0,Tompkins Ave,-74.07062,2.5,MultiFamily5Plus,40.61086,,https://www.zillow.com/homedetails/Tompkins-Ave-Staten-Island-NY-10305/2085461468_zpid/,NY,Staten Island,,
+269,,,11207.0,397600.0,Pitkin Ave,-73.88851,,Duplex,40.67297,1080.0,https://www.zillow.com/homedetails/Pitkin-Ave-Brooklyn-NY-11207/249314545_zpid/,NY,BROOKLYN,36047.0,2500.0
+270,,,11207.0,397600.0,Pitkin Ave,-73.8918,,Triplex,40.67117,3300.0,https://www.zillow.com/homedetails/Pitkin-Ave-Brooklyn-NY-11207/242724785_zpid/,NY,Brooklyn,36047.0,2000.0
+271,,,11207.0,397600.0,Pitkin Ave,-73.89031,,SingleFamily,40.67271,,https://www.zillow.com/homedetails/Pitkin-Ave-Brooklyn-NY-11207/247194167_zpid/,NY,BROOKLYN,36047.0,5000.0
+272,,,11207.0,397600.0,Pitkin Ave,-73.8927,,Duplex,40.67104,1784.0,https://www.zillow.com/homedetails/Pitkin-Ave-Brooklyn-NY-11207/154067508_zpid/,NY,BROOKLYN,36047.0,2500.0
+273,,,11207.0,397600.0,Pitkin Ave,-73.885169,,VacantResidentialLand,40.673245,,https://www.zillow.com/homedetails/Pitkin-Ave-Brooklyn-NY-11207/142892706_zpid/,NY,Brooklyn,36047.0,1800.0
+274,,,11207.0,397600.0,Pitkin Ave,-73.88851,,VacantResidentialLand,40.67297,,https://www.zillow.com/homedetails/Pitkin-Ave-Brooklyn-NY-11207/247859627_zpid/,NY,Brooklyn,36047.0,2500.0

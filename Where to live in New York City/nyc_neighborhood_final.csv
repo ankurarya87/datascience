@@ -1,0 +1,6 @@
+,Neighborhood,Borough,Latitude,Longitude,Residential Property Price median ($),Drive to Midtown Manhattan (mins),Subway to Midtown Manhattan (mins),Drive to JFK Airport (mins),Total Crime Reported 2018
+0,Malba,QUEENS,40.79060155670153,-73.8266775713865,1110734,28,53,22,4
+1,Utopia,QUEENS,40.7335002542976,-73.79671678028356,943645,29,54,23,4
+2,Beechhurst,QUEENS,40.79278140360052,-73.80436451720995,1026172,28,67,22,6
+3,Steinway,QUEENS,40.77592301564293,-73.90228960391681,895391,24,39,25,7
+4,Astoria Heights,QUEENS,40.770317392998244,-73.89467996270581,1158351,23,106,24,8
