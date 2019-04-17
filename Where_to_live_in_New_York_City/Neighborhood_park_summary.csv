@@ -1,0 +1,294 @@
+,Borough,Neighborhood,Venue_Category,Total_Count
+0,BRONX,Wakefield,Park,3
+1,BRONX,Co-op City,Park,5
+2,BRONX,Eastchester,Park,4
+3,BRONX,Fieldston,Park,14
+4,BRONX,Riverdale,Park,16
+5,BRONX,Kingsbridge,Park,17
+6,MANHATTAN,Marble Hill,Park,16
+7,BRONX,Woodlawn,Park,9
+8,BRONX,Norwood,Park,12
+9,BRONX,Williamsbridge,Park,7
+10,BRONX,Baychester,Park,4
+11,BRONX,Pelham Parkway,Park,3
+12,BRONX,City Island,Park,3
+13,BRONX,Bedford Park,Park,11
+14,BRONX,University Heights,Park,12
+15,BRONX,Morris Heights,Park,18
+16,BRONX,Fordham,Park,13
+17,BRONX,East Tremont,Park,18
+18,BRONX,West Farms,Park,11
+19,BRONX,High  Bridge,Park,19
+20,BRONX,Melrose,Park,15
+21,BRONX,Mott Haven,Park,11
+22,BRONX,Port Morris,Park,9
+23,BRONX,Longwood,Park,20
+24,BRONX,Hunts Point,Park,16
+25,BRONX,Morrisania,Park,20
+26,BRONX,Soundview,Park,18
+27,BRONX,Clason Point,Park,12
+28,BRONX,Throgs Neck,Park,6
+29,BRONX,Country Club,Park,6
+30,BRONX,Parkchester,Park,4
+31,BRONX,Westchester Square,Park,6
+32,BRONX,Van Nest,Park,5
+33,BRONX,Morris Park,Park,3
+34,BRONX,Belmont,Park,15
+35,BRONX,Spuyten Duyvil,Park,13
+36,BRONX,North Riverdale,Park,5
+37,BRONX,Pelham Bay,Park,5
+38,BRONX,Schuylerville,Park,4
+39,BRONX,Edgewater Park,Park,6
+40,BRONX,Castle Hill,Park,11
+41,BRONX,Olinville,Park,12
+42,BRONX,Pelham Gardens,Park,2
+43,BRONX,Concourse,Park,13
+44,BRONX,Unionport,Park,7
+45,BRONX,Edenwald,Park,7
+46,BROOKLYN,Bay Ridge,Park,6
+47,BROOKLYN,Bensonhurst,Park,15
+48,BROOKLYN,Sunset Park,Park,8
+49,BROOKLYN,Greenpoint,Park,13
+50,BROOKLYN,Gravesend,Park,8
+51,BROOKLYN,Brighton Beach,Park,8
+52,BROOKLYN,Sheepshead Bay,Park,9
+53,BROOKLYN,Manhattan Terrace,Park,3
+54,BROOKLYN,Flatbush,Park,8
+55,BROOKLYN,Crown Heights,Park,10
+56,BROOKLYN,East Flatbush,Park,8
+57,BROOKLYN,Kensington,Park,3
+58,BROOKLYN,Windsor Terrace,Park,4
+59,BROOKLYN,Prospect Heights,Park,4
+60,BROOKLYN,Brownsville,Park,11
+61,BROOKLYN,Williamsburg,Park,16
+62,BROOKLYN,Bushwick,Park,12
+63,BROOKLYN,Bedford Stuyvesant,Park,12
+64,BROOKLYN,Brooklyn Heights,Park,23
+65,BROOKLYN,Cobble Hill,Park,17
+66,BROOKLYN,Carroll Gardens,Park,14
+67,BROOKLYN,Red Hook,Park,10
+68,BROOKLYN,Gowanus,Park,6
+69,BROOKLYN,Fort Greene,Park,8
+70,BROOKLYN,Park Slope,Park,3
+71,BROOKLYN,Cypress Hills,Park,5
+72,BROOKLYN,East New York,Park,7
+73,BROOKLYN,Starrett City,Park,4
+74,BROOKLYN,Canarsie,Park,4
+75,BROOKLYN,Flatlands,Park,5
+76,BROOKLYN,Mill Island,Park,4
+77,BROOKLYN,Manhattan Beach,Park,4
+78,BROOKLYN,Coney Island,Park,13
+79,BROOKLYN,Bath Beach,Park,14
+80,BROOKLYN,Borough Park,Park,3
+81,BROOKLYN,Dyker Heights,Park,10
+82,BROOKLYN,Gerritsen Beach,Park,10
+83,BROOKLYN,Marine Park,Park,6
+84,BROOKLYN,Clinton Hill,Park,11
+85,BROOKLYN,Sea Gate,Park,8
+86,BROOKLYN,Downtown,Park,13
+87,BROOKLYN,Boerum Hill,Park,8
+88,BROOKLYN,Prospect Lefferts Gardens,Park,9
+89,BROOKLYN,Ocean Hill,Park,18
+90,BROOKLYN,City Line,Park,4
+91,BROOKLYN,Bergen Beach,Park,3
+92,BROOKLYN,Midwood,Park,7
+93,BROOKLYN,Prospect Park South,Park,7
+94,BROOKLYN,Georgetown,Park,4
+95,BROOKLYN,Spring Creek,Park,6
+96,BROOKLYN,East Williamsburg,Park,12
+97,BROOKLYN,North Side,Park,15
+98,BROOKLYN,South Side,Park,18
+99,BROOKLYN,Navy Yard,Park,17
+100,BROOKLYN,Ocean Parkway,Park,4
+101,BROOKLYN,Fort Hamilton,Park,7
+102,MANHATTAN,Chinatown,Park,25
+103,MANHATTAN,Washington Heights,Park,19
+104,MANHATTAN,Inwood,Park,10
+105,MANHATTAN,Hamilton Heights,Park,14
+106,MANHATTAN,Manhattanville,Park,20
+107,MANHATTAN,Central Harlem,Park,15
+108,MANHATTAN,East Harlem,Park,10
+109,MANHATTAN,Upper East Side,Park,12
+110,MANHATTAN,Yorkville,Park,8
+111,MANHATTAN,Lenox Hill,Park,9
+112,MANHATTAN,Roosevelt Island,Park,11
+113,MANHATTAN,Upper West Side,Park,14
+114,MANHATTAN,Lincoln Square,Park,9
+115,MANHATTAN,Clinton,Park,8
+116,MANHATTAN,Midtown,Park,6
+117,MANHATTAN,Murray Hill,Park,9
+118,MANHATTAN,Chelsea,Park,17
+119,MANHATTAN,Greenwich Village,Park,25
+120,MANHATTAN,East Village,Park,18
+121,MANHATTAN,Lower East Side,Park,19
+122,MANHATTAN,Tribeca,Park,22
+123,MANHATTAN,Little Italy,Park,24
+124,MANHATTAN,Soho,Park,25
+125,MANHATTAN,West Village,Park,19
+126,MANHATTAN,Manhattan Valley,Park,14
+127,MANHATTAN,Morningside Heights,Park,18
+128,MANHATTAN,Gramercy,Park,10
+129,MANHATTAN,Battery Park City,Park,17
+130,MANHATTAN,Financial District,Park,19
+131,QUEENS,Astoria,Park,12
+132,QUEENS,Woodside,Park,14
+133,QUEENS,Jackson Heights,Park,10
+134,QUEENS,Elmhurst,Park,11
+135,QUEENS,Howard Beach,Park,5
+136,QUEENS,South Corona,Park,7
+137,QUEENS,Forest Hills,Park,6
+138,QUEENS,Kew Gardens,Park,10
+139,QUEENS,Richmond Hill,Park,6
+140,QUEENS,Downtown Flushing,Park,4
+141,QUEENS,Long Island City,Park,11
+142,QUEENS,Sunnyside,Park,8
+143,QUEENS,East Elmhurst,Park,8
+144,QUEENS,Maspeth,Park,10
+145,QUEENS,Ridgewood,Park,10
+146,QUEENS,Glendale,Park,6
+147,QUEENS,Rego Park,Park,6
+148,QUEENS,Woodhaven,Park,9
+149,QUEENS,Ozone Park,Park,3
+150,QUEENS,South Ozone Park,Park,6
+151,QUEENS,College Point,Park,10
+152,QUEENS,Whitestone,Park,5
+153,QUEENS,Bayside,Park,3
+154,QUEENS,Auburndale,Park,2
+155,QUEENS,Little Neck,Park,7
+156,QUEENS,Douglaston,Park,7
+157,QUEENS,Glen Oaks,Park,3
+158,QUEENS,Bellerose,Park,2
+159,QUEENS,Kew Gardens Hills,Park,14
+160,QUEENS,Fresh Meadows,Park,7
+161,QUEENS,Briarwood,Park,8
+162,QUEENS,Jamaica Center,Park,9
+163,QUEENS,Oakland Gardens,Park,6
+164,QUEENS,Queens Village,Park,3
+165,QUEENS,Hollis,Park,3
+166,QUEENS,South Jamaica,Park,11
+167,QUEENS,St. Albans,Park,6
+168,QUEENS,Rochdale,Park,7
+169,QUEENS,Springfield Gardens,Park,6
+170,QUEENS,Cambria Heights,Park,3
+171,QUEENS,Rosedale,Park,5
+172,QUEENS,Far Rockaway,Park,3
+173,QUEENS,Broad Channel,Park,1
+174,QUEENS,Steinway,Park,12
+175,QUEENS,Beechhurst,Park,6
+176,QUEENS,Bay Terrace,Park,6
+177,QUEENS,Edgemere,Park,2
+178,QUEENS,Arverne,Park,1
+179,QUEENS,Seaside,Park,1
+180,QUEENS,Neponsit,Park,2
+181,QUEENS,Murray Hill,Park,5
+182,QUEENS,Floral Park,Park,2
+183,QUEENS,Holliswood,Park,4
+184,QUEENS,Jamaica Estates,Park,6
+185,QUEENS,Queensboro Hill,Park,11
+186,QUEENS,Hillcrest,Park,5
+187,QUEENS,Ravenswood,Park,14
+188,QUEENS,Lindenwood,Park,5
+189,QUEENS,Laurelton,Park,6
+190,QUEENS,Lefrak City,Park,6
+191,QUEENS,Belle Harbor,Park,3
+192,QUEENS,Rockaway Park,Park,2
+193,QUEENS,Somerville,Park,1
+194,QUEENS,Brookville,Park,4
+195,QUEENS,Bellaire,Park,6
+196,QUEENS,North Corona,Park,8
+197,QUEENS,Forest Hills Gardens,Park,9
+198,STATEN ISLAND,St. George,Park,5
+199,STATEN ISLAND,New Brighton,Park,7
+200,STATEN ISLAND,Stapleton,Park,7
+201,STATEN ISLAND,Rosebank,Park,5
+202,STATEN ISLAND,West Brighton,Park,10
+203,STATEN ISLAND,Grymes Hill,Park,8
+204,STATEN ISLAND,South Beach,Park,2
+205,STATEN ISLAND,Port Richmond,Park,6
+206,STATEN ISLAND,Mariner's Harbor,Park,3
+207,STATEN ISLAND,Port Ivory,Park,7
+208,STATEN ISLAND,Castleton Corners,Park,4
+209,STATEN ISLAND,New Springville,Park,3
+210,STATEN ISLAND,Travis,Park,3
+211,STATEN ISLAND,New Dorp,Park,2
+212,STATEN ISLAND,Oakwood,Park,2
+213,STATEN ISLAND,Great Kills,Park,6
+214,STATEN ISLAND,Eltingville,Park,3
+215,STATEN ISLAND,Annadale,Park,1
+216,STATEN ISLAND,Woodrow,Park,2
+217,STATEN ISLAND,Tottenville,Park,5
+218,STATEN ISLAND,Tompkinsville,Park,8
+219,STATEN ISLAND,Silver Lake,Park,5
+220,STATEN ISLAND,Sunnyside,Park,2
+221,BROOKLYN,Ditmas Park,Park,8
+222,BROOKLYN,Wingate,Park,11
+223,BROOKLYN,Rugby,Park,9
+224,STATEN ISLAND,Park Hill,Park,2
+225,STATEN ISLAND,Westerleigh,Park,4
+226,STATEN ISLAND,Graniteville,Park,7
+227,STATEN ISLAND,Arlington,Park,2
+228,STATEN ISLAND,Arrochar,Park,3
+229,STATEN ISLAND,Grasmere,Park,2
+230,STATEN ISLAND,Old Town,Park,1
+231,STATEN ISLAND,Midland Beach,Park,2
+232,STATEN ISLAND,Grant City,Park,2
+233,STATEN ISLAND,New Dorp Beach,Park,2
+234,STATEN ISLAND,Bay Terrace,Park,6
+235,STATEN ISLAND,Huguenot,Park,4
+236,STATEN ISLAND,Pleasant Plains,Park,1
+237,STATEN ISLAND,Butler Manor,Park,4
+238,STATEN ISLAND,Rossville,Park,7
+239,STATEN ISLAND,Arden Heights,Park,5
+240,STATEN ISLAND,Greenridge,Park,5
+241,STATEN ISLAND,Heartland Village,Park,3
+242,STATEN ISLAND,Chelsea,Park,3
+243,STATEN ISLAND,Bloomfield,Park,1
+244,STATEN ISLAND,Bulls Head,Park,5
+245,MANHATTAN,Carnegie Hill,Park,10
+246,MANHATTAN,Noho,Park,19
+247,MANHATTAN,Civic Center,Park,23
+248,MANHATTAN,Midtown South,Park,9
+249,STATEN ISLAND,Richmond Town,Park,2
+250,STATEN ISLAND,Shore Acres,Park,3
+251,STATEN ISLAND,Clifton,Park,5
+252,STATEN ISLAND,Concord,Park,2
+253,STATEN ISLAND,Emerson Hill,Park,2
+254,STATEN ISLAND,Randall Manor,Park,8
+255,STATEN ISLAND,Howland Hook,Park,6
+256,STATEN ISLAND,Elm Park,Park,5
+257,BROOKLYN,Remsen Village,Park,10
+258,BROOKLYN,New Lots,Park,5
+259,BROOKLYN,Paerdegat Basin,Park,3
+260,BROOKLYN,Mill Basin,Park,5
+261,QUEENS,Jamaica Hills,Park,7
+262,QUEENS,Utopia,Park,9
+263,QUEENS,Pomonok,Park,8
+264,QUEENS,Astoria Heights,Park,9
+265,BRONX,Claremont Village,Park,20
+266,BRONX,Concourse Village,Park,14
+267,BRONX,Mount Eden,Park,16
+268,BRONX,Mount Hope,Park,13
+269,MANHATTAN,Sutton Place,Park,9
+270,QUEENS,Hunters Point,Park,19
+271,MANHATTAN,Turtle Bay,Park,8
+272,MANHATTAN,Tudor City,Park,10
+273,MANHATTAN,Stuyvesant Town,Park,13
+274,MANHATTAN,Flatiron,Park,13
+275,QUEENS,Sunnyside Gardens,Park,11
+276,QUEENS,Blissville,Park,8
+277,BROOKLYN,Fulton Ferry,Park,21
+278,BROOKLYN,Vinegar Hill,Park,27
+279,BROOKLYN,Weeksville,Park,14
+280,BROOKLYN,Broadway Junction,Park,12
+281,BROOKLYN,Dumbo,Park,25
+282,STATEN ISLAND,Willowbrook,Park,3
+283,STATEN ISLAND,Sandy Ground,Park,2
+284,STATEN ISLAND,Egbertville,Park,1
+285,BROOKLYN,Homecrest,Park,5
+286,QUEENS,Middle Village,Park,8
+287,STATEN ISLAND,Prince's Bay,Park,5
+288,STATEN ISLAND,Lighthouse Hill,Park,5
+289,STATEN ISLAND,Richmond Valley,Park,1
+290,QUEENS,Malba,Park,10
+291,BROOKLYN,Highland Park,Park,10
+292,BROOKLYN,Madison,Park,5

@@ -1,0 +1,1444 @@
+,Borough,Neighborhood,Venue_Category,Total_Count
+0,BRONX,Wakefield,Caribbean,12
+1,BRONX,Wakefield,Chinese,5
+2,BRONX,Wakefield,American,2
+3,BRONX,Wakefield,Asian,2
+4,BRONX,Wakefield,Latin American,2
+5,BRONX,Co-op City,Chinese,7
+6,BRONX,Co-op City,Caribbean,4
+7,BRONX,Co-op City,American,2
+8,BRONX,Co-op City,Asian,2
+9,BRONX,Co-op City,Lounge,2
+10,BRONX,Eastchester,Chinese,6
+11,BRONX,Eastchester,Caribbean,4
+12,BRONX,Eastchester,American,1
+13,BRONX,Eastchester,Asian,1
+14,BRONX,Eastchester,Diner,1
+15,BRONX,Fieldston,Chinese,11
+16,BRONX,Fieldston,Pizza,6
+17,BRONX,Fieldston,Diner,3
+18,BRONX,Fieldston,Latin American,3
+19,BRONX,Fieldston,Japanese,2
+20,BRONX,Riverdale,Chinese,12
+21,BRONX,Riverdale,Pizza,6
+22,BRONX,Riverdale,Latin American,3
+23,BRONX,Riverdale,Diner,3
+24,BRONX,Riverdale,Deli / Bodega,2
+25,BRONX,Kingsbridge,Chinese,14
+26,BRONX,Kingsbridge,Diner,5
+27,BRONX,Kingsbridge,Spanish,5
+28,BRONX,Kingsbridge,Mexican,4
+29,BRONX,Kingsbridge,Latin American,3
+30,MANHATTAN,Marble Hill,Chinese,14
+31,MANHATTAN,Marble Hill,Diner,7
+32,MANHATTAN,Marble Hill,Spanish,6
+33,MANHATTAN,Marble Hill,Caribbean,3
+34,MANHATTAN,Marble Hill,Latin American,3
+35,BRONX,Woodlawn,Caribbean,6
+36,BRONX,Woodlawn,Chinese,5
+37,BRONX,Woodlawn,American,2
+38,BRONX,Woodlawn,Bar,2
+39,BRONX,Woodlawn,Indian,2
+40,BRONX,Norwood,Chinese,12
+41,BRONX,Norwood,Mexican,5
+42,BRONX,Norwood,Caribbean,4
+43,BRONX,Norwood,Pizza,3
+44,BRONX,Norwood,Spanish,3
+45,BRONX,Williamsbridge,Caribbean,11
+46,BRONX,Williamsbridge,Chinese,4
+47,BRONX,Williamsbridge,American,2
+48,BRONX,Williamsbridge,Bakery,2
+49,BRONX,Williamsbridge,Latin American,2
+50,BRONX,Baychester,Chinese,6
+51,BRONX,Baychester,Pizza,4
+52,BRONX,Baychester,Caribbean,3
+53,BRONX,Baychester,Italian,2
+54,BRONX,Baychester,Lounge,2
+55,BRONX,Pelham Parkway,Chinese,8
+56,BRONX,Pelham Parkway,Pizza,5
+57,BRONX,Pelham Parkway,Mexican,4
+58,BRONX,Pelham Parkway,Spanish,3
+59,BRONX,Pelham Parkway,American,2
+60,BRONX,City Island,Seafood,9
+61,BRONX,City Island,Chinese,1
+62,BRONX,City Island,Italian,1
+63,BRONX,Bedford Park,Chinese,14
+64,BRONX,Bedford Park,Mexican,6
+65,BRONX,Bedford Park,Caribbean,5
+66,BRONX,Bedford Park,Spanish,5
+67,BRONX,Bedford Park,Diner,4
+68,BRONX,University Heights,Chinese,11
+69,BRONX,University Heights,Spanish,6
+70,BRONX,University Heights,Latin American,5
+71,BRONX,University Heights,Caribbean,4
+72,BRONX,University Heights,Mexican,4
+73,BRONX,Morris Heights,Chinese,12
+74,BRONX,Morris Heights,Latin American,7
+75,BRONX,Morris Heights,Spanish,6
+76,BRONX,Morris Heights,Seafood,3
+77,BRONX,Morris Heights,Caribbean,2
+78,BRONX,Fordham,Chinese,12
+79,BRONX,Fordham,Italian,7
+80,BRONX,Fordham,Spanish,6
+81,BRONX,Fordham,Caribbean,4
+82,BRONX,Fordham,Diner,3
+83,BRONX,East Tremont,Chinese,7
+84,BRONX,East Tremont,Italian,5
+85,BRONX,East Tremont,Pizza,5
+86,BRONX,East Tremont,Spanish,5
+87,BRONX,East Tremont,Caribbean,3
+88,BRONX,West Farms,Chinese,9
+89,BRONX,West Farms,Spanish,6
+90,BRONX,West Farms,Caribbean,5
+91,BRONX,West Farms,Italian,3
+92,BRONX,West Farms,Mexican,3
+93,BRONX,High  Bridge,Chinese,12
+94,BRONX,High  Bridge,Latin American,5
+95,BRONX,High  Bridge,Caribbean,4
+96,BRONX,High  Bridge,Mexican,3
+97,BRONX,High  Bridge,Spanish,3
+98,BRONX,Melrose,Chinese,9
+99,BRONX,Melrose,Spanish,5
+100,BRONX,Melrose,Pizza,4
+101,BRONX,Melrose,Mexican,4
+102,BRONX,Melrose,American,3
+103,BRONX,Mott Haven,Chinese,7
+104,BRONX,Mott Haven,Pizza,7
+105,BRONX,Mott Haven,Mexican,6
+106,BRONX,Mott Haven,Spanish,5
+107,BRONX,Mott Haven,Latin American,3
+108,BRONX,Port Morris,Chinese,8
+109,BRONX,Port Morris,Mexican,6
+110,BRONX,Port Morris,Pizza,6
+111,BRONX,Port Morris,Spanish,6
+112,BRONX,Port Morris,Caribbean,2
+113,BRONX,Longwood,Chinese,8
+114,BRONX,Longwood,Latin American,5
+115,BRONX,Longwood,Spanish,4
+116,BRONX,Longwood,Mexican,3
+117,BRONX,Longwood,Pizza,3
+118,BRONX,Hunts Point,Chinese,5
+119,BRONX,Hunts Point,Latin American,4
+120,BRONX,Hunts Point,Spanish,4
+121,BRONX,Hunts Point,Diner,2
+122,BRONX,Hunts Point,Pizza,2
+123,BRONX,Morrisania,Chinese,10
+124,BRONX,Morrisania,Spanish,5
+125,BRONX,Morrisania,Mexican,4
+126,BRONX,Morrisania,African,3
+127,BRONX,Morrisania,Latin American,3
+128,BRONX,Soundview,Chinese,13
+129,BRONX,Soundview,Spanish,5
+130,BRONX,Soundview,Latin American,4
+131,BRONX,Soundview,Mexican,3
+132,BRONX,Soundview,Caribbean,2
+133,BRONX,Clason Point,Spanish,2
+134,BRONX,Clason Point,Asian,1
+135,BRONX,Clason Point,Chinese,1
+136,BRONX,Throgs Neck,Italian,4
+137,BRONX,Throgs Neck,Chinese,3
+138,BRONX,Throgs Neck,Pizza,3
+139,BRONX,Throgs Neck,Asian,2
+140,BRONX,Throgs Neck,Bar,1
+141,BRONX,Country Club,Chinese,12
+142,BRONX,Country Club,Latin American,4
+143,BRONX,Country Club,Italian,3
+144,BRONX,Country Club,Mexican,3
+145,BRONX,Country Club,Bar,2
+146,BRONX,Parkchester,Chinese,10
+147,BRONX,Parkchester,Caribbean,3
+148,BRONX,Parkchester,Latin American,3
+149,BRONX,Parkchester,Pizza,3
+150,BRONX,Parkchester,Asian,2
+151,BRONX,Westchester Square,Chinese,13
+152,BRONX,Westchester Square,Italian,3
+153,BRONX,Westchester Square,Latin American,3
+154,BRONX,Westchester Square,Pizza,3
+155,BRONX,Westchester Square,Caribbean,2
+156,BRONX,Van Nest,Chinese,12
+157,BRONX,Van Nest,Spanish,5
+158,BRONX,Van Nest,Caribbean,3
+159,BRONX,Van Nest,Latin American,3
+160,BRONX,Van Nest,Mexican,3
+161,BRONX,Morris Park,Chinese,9
+162,BRONX,Morris Park,Pizza,5
+163,BRONX,Morris Park,Italian,3
+164,BRONX,Morris Park,Latin American,3
+165,BRONX,Morris Park,Caribbean,2
+166,BRONX,Belmont,Chinese,8
+167,BRONX,Belmont,Italian,7
+168,BRONX,Belmont,Spanish,6
+169,BRONX,Belmont,Caribbean,4
+170,BRONX,Belmont,Mexican,3
+171,BRONX,Spuyten Duyvil,Chinese,12
+172,BRONX,Spuyten Duyvil,Seafood,4
+173,BRONX,Spuyten Duyvil,Spanish,4
+174,BRONX,Spuyten Duyvil,Diner,3
+175,BRONX,Spuyten Duyvil,Latin American,3
+176,BRONX,North Riverdale,Chinese,6
+177,BRONX,North Riverdale,Mexican,5
+178,BRONX,North Riverdale,Spanish,3
+179,BRONX,North Riverdale,Caribbean,2
+180,BRONX,North Riverdale,American,1
+181,BRONX,Pelham Bay,Chinese,12
+182,BRONX,Pelham Bay,Pizza,4
+183,BRONX,Pelham Bay,Italian,3
+184,BRONX,Pelham Bay,Latin American,2
+185,BRONX,Pelham Bay,Mexican,2
+186,BRONX,Schuylerville,Chinese,8
+187,BRONX,Schuylerville,Italian,3
+188,BRONX,Schuylerville,Latin American,3
+189,BRONX,Schuylerville,Pizza,3
+190,BRONX,Schuylerville,Asian,2
+191,BRONX,Edgewater Park,Chinese,5
+192,BRONX,Edgewater Park,Italian,4
+193,BRONX,Edgewater Park,Pizza,4
+194,BRONX,Edgewater Park,Latin American,3
+195,BRONX,Edgewater Park,Asian,2
+196,BRONX,Castle Hill,Chinese,13
+197,BRONX,Castle Hill,Spanish,4
+198,BRONX,Castle Hill,Pizza,3
+199,BRONX,Castle Hill,Caribbean,2
+200,BRONX,Castle Hill,Indian,2
+201,BRONX,Olinville,Caribbean,9
+202,BRONX,Olinville,Chinese,6
+203,BRONX,Olinville,Spanish,5
+204,BRONX,Olinville,Mexican,4
+205,BRONX,Olinville,American,3
+206,BRONX,Pelham Gardens,Chinese,9
+207,BRONX,Pelham Gardens,Pizza,7
+208,BRONX,Pelham Gardens,Spanish,4
+209,BRONX,Pelham Gardens,Caribbean,3
+210,BRONX,Pelham Gardens,Italian,3
+211,BRONX,Concourse,Chinese,14
+212,BRONX,Concourse,Latin American,5
+213,BRONX,Concourse,Spanish,4
+214,BRONX,Concourse,Mexican,3
+215,BRONX,Concourse,African,2
+216,BRONX,Unionport,Chinese,12
+217,BRONX,Unionport,Spanish,4
+218,BRONX,Unionport,Caribbean,3
+219,BRONX,Unionport,Latin American,3
+220,BRONX,Unionport,Diner,2
+221,BRONX,Edenwald,Caribbean,11
+222,BRONX,Edenwald,Chinese,7
+223,BRONX,Edenwald,Spanish,3
+224,BRONX,Edenwald,Latin American,2
+225,BRONX,Edenwald,Seafood,2
+226,BROOKLYN,Bay Ridge,Middle Eastern,5
+227,BROOKLYN,Bay Ridge,Chinese,4
+228,BROOKLYN,Bay Ridge,Diner,4
+229,BROOKLYN,Bay Ridge,Italian,4
+230,BROOKLYN,Bay Ridge,Mexican,2
+231,BROOKLYN,Bensonhurst,Chinese,20
+232,BROOKLYN,Bensonhurst,Japanese,4
+233,BROOKLYN,Bensonhurst,Cantonese,3
+234,BROOKLYN,Bensonhurst,Diner,3
+235,BROOKLYN,Bensonhurst,Pizza,2
+236,BROOKLYN,Sunset Park,Chinese,14
+237,BROOKLYN,Sunset Park,Mexican,6
+238,BROOKLYN,Sunset Park,Latin American,4
+239,BROOKLYN,Sunset Park,Spanish,3
+240,BROOKLYN,Sunset Park,Pizza,2
+241,BROOKLYN,Greenpoint,Italian,5
+242,BROOKLYN,Greenpoint,Chinese,5
+243,BROOKLYN,Greenpoint,Pizza,3
+244,BROOKLYN,Greenpoint,Polish,3
+245,BROOKLYN,Greenpoint,Thai,3
+246,BROOKLYN,Gravesend,Chinese,10
+247,BROOKLYN,Gravesend,Pizza,4
+248,BROOKLYN,Gravesend,Italian,3
+249,BROOKLYN,Gravesend,Turkish,2
+250,BROOKLYN,Gravesend,Sushi,2
+251,BROOKLYN,Brighton Beach,American,4
+252,BROOKLYN,Brighton Beach,Russian,3
+253,BROOKLYN,Brighton Beach,Eastern European,2
+254,BROOKLYN,Brighton Beach,Sushi,2
+255,BROOKLYN,Brighton Beach,Sandwiches,2
+256,BROOKLYN,Sheepshead Bay,Chinese,7
+257,BROOKLYN,Sheepshead Bay,American,3
+258,BROOKLYN,Sheepshead Bay,Bar,3
+259,BROOKLYN,Sheepshead Bay,Pizza,3
+260,BROOKLYN,Sheepshead Bay,Mediterranean,3
+261,BROOKLYN,Manhattan Terrace,Chinese,7
+262,BROOKLYN,Manhattan Terrace,Sushi,4
+263,BROOKLYN,Manhattan Terrace,Asian,3
+264,BROOKLYN,Manhattan Terrace,Pizza,3
+265,BROOKLYN,Manhattan Terrace,American,2
+266,BROOKLYN,Flatbush,Caribbean,14
+267,BROOKLYN,Flatbush,Chinese,11
+268,BROOKLYN,Flatbush,Indian,4
+269,BROOKLYN,Flatbush,Diner,3
+270,BROOKLYN,Flatbush,Japanese,2
+271,BROOKLYN,Crown Heights,Caribbean,14
+272,BROOKLYN,Crown Heights,Chinese,6
+273,BROOKLYN,Crown Heights,Asian,4
+274,BROOKLYN,Crown Heights,American,3
+275,BROOKLYN,Crown Heights,Sandwiches,2
+276,BROOKLYN,East Flatbush,Caribbean,22
+277,BROOKLYN,East Flatbush,Chinese,9
+278,BROOKLYN,East Flatbush,Bakery,2
+279,BROOKLYN,East Flatbush,Asian,1
+280,BROOKLYN,East Flatbush,Bar,1
+281,BROOKLYN,Kensington,Chinese,6
+282,BROOKLYN,Kensington,Pizza,6
+283,BROOKLYN,Kensington,Mexican,5
+284,BROOKLYN,Kensington,Diner,5
+285,BROOKLYN,Kensington,Indian,3
+286,BROOKLYN,Windsor Terrace,Mexican,6
+287,BROOKLYN,Windsor Terrace,Latin American,4
+288,BROOKLYN,Windsor Terrace,Pizza,4
+289,BROOKLYN,Windsor Terrace,Caribbean,3
+290,BROOKLYN,Windsor Terrace,Chinese,3
+291,BROOKLYN,Prospect Heights,Chinese,11
+292,BROOKLYN,Prospect Heights,Caribbean,5
+293,BROOKLYN,Prospect Heights,Diner,4
+294,BROOKLYN,Prospect Heights,Pizza,3
+295,BROOKLYN,Prospect Heights,African,2
+296,BROOKLYN,Brownsville,Chinese,12
+297,BROOKLYN,Brownsville,Caribbean,10
+298,BROOKLYN,Brownsville,Asian,2
+299,BROOKLYN,Brownsville,Bakery,2
+300,BROOKLYN,Brownsville,Breakfast,2
+301,BROOKLYN,Williamsburg,Latin American,9
+302,BROOKLYN,Williamsburg,Mexican,4
+303,BROOKLYN,Williamsburg,Italian,4
+304,BROOKLYN,Williamsburg,Pizza,4
+305,BROOKLYN,Williamsburg,Chinese,2
+306,BROOKLYN,Bushwick,Chinese,14
+307,BROOKLYN,Bushwick,Mexican,5
+308,BROOKLYN,Bushwick,Spanish,5
+309,BROOKLYN,Bushwick,Latin American,4
+310,BROOKLYN,Bushwick,Caribbean,3
+311,BROOKLYN,Bedford Stuyvesant,Caribbean,11
+312,BROOKLYN,Bedford Stuyvesant,Chinese,11
+313,BROOKLYN,Bedford Stuyvesant,American,3
+314,BROOKLYN,Bedford Stuyvesant,Mexican,3
+315,BROOKLYN,Bedford Stuyvesant,Spanish,3
+316,BROOKLYN,Brooklyn Heights,Diner,4
+317,BROOKLYN,Brooklyn Heights,Indian,3
+318,BROOKLYN,Brooklyn Heights,Chinese,3
+319,BROOKLYN,Brooklyn Heights,Pizza,3
+320,BROOKLYN,Brooklyn Heights,Bar,2
+321,BROOKLYN,Cobble Hill,Indian,4
+322,BROOKLYN,Cobble Hill,Italian,4
+323,BROOKLYN,Cobble Hill,Diner,3
+324,BROOKLYN,Cobble Hill,Pizza,3
+325,BROOKLYN,Cobble Hill,Middle Eastern,3
+326,BROOKLYN,Carroll Gardens,Italian,5
+327,BROOKLYN,Carroll Gardens,Pizza,4
+328,BROOKLYN,Carroll Gardens,Middle Eastern,4
+329,BROOKLYN,Carroll Gardens,Indian,3
+330,BROOKLYN,Carroll Gardens,American,2
+331,BROOKLYN,Red Hook,Italian,4
+332,BROOKLYN,Red Hook,Chinese,3
+333,BROOKLYN,Red Hook,Mexican,3
+334,BROOKLYN,Red Hook,American,2
+335,BROOKLYN,Red Hook,Arcade,1
+336,BROOKLYN,Gowanus,Italian,6
+337,BROOKLYN,Gowanus,Pizza,5
+338,BROOKLYN,Gowanus,Mexican,4
+339,BROOKLYN,Gowanus,American,3
+340,BROOKLYN,Gowanus,Latin American,3
+341,BROOKLYN,Fort Greene,Chinese,5
+342,BROOKLYN,Fort Greene,Pizza,5
+343,BROOKLYN,Fort Greene,Mexican,4
+344,BROOKLYN,Fort Greene,Thai,3
+345,BROOKLYN,Fort Greene,Diner,3
+346,BROOKLYN,Park Slope,Pizza,6
+347,BROOKLYN,Park Slope,Chinese,5
+348,BROOKLYN,Park Slope,Mexican,5
+349,BROOKLYN,Park Slope,Diner,4
+350,BROOKLYN,Park Slope,Thai,4
+351,BROOKLYN,Cypress Hills,Chinese,8
+352,BROOKLYN,Cypress Hills,Latin American,8
+353,BROOKLYN,Cypress Hills,Spanish,6
+354,BROOKLYN,Cypress Hills,Caribbean,5
+355,BROOKLYN,Cypress Hills,Pizza,5
+356,BROOKLYN,East New York,Chinese,12
+357,BROOKLYN,East New York,Caribbean,6
+358,BROOKLYN,East New York,Latin American,6
+359,BROOKLYN,East New York,Spanish,4
+360,BROOKLYN,East New York,Asian,2
+361,BROOKLYN,Starrett City,Chinese,7
+362,BROOKLYN,Starrett City,Caribbean,3
+363,BROOKLYN,Starrett City,Latin American,2
+364,BROOKLYN,Starrett City,Spanish,2
+365,BROOKLYN,Starrett City,Asian,1
+366,BROOKLYN,Canarsie,Caribbean,10
+367,BROOKLYN,Canarsie,Chinese,9
+368,BROOKLYN,Canarsie,Breakfast,2
+369,BROOKLYN,Canarsie,Sandwiches,2
+370,BROOKLYN,Canarsie,Fast Food,1
+371,BROOKLYN,Flatlands,Caribbean,13
+372,BROOKLYN,Flatlands,Chinese,9
+373,BROOKLYN,Flatlands,Italian,4
+374,BROOKLYN,Flatlands,Pizza,2
+375,BROOKLYN,Flatlands,African,1
+376,BROOKLYN,Mill Island,Chinese,2
+377,BROOKLYN,Mill Island,Italian,2
+378,BROOKLYN,Mill Island,Asian,1
+379,BROOKLYN,Mill Island,Breakfast,1
+380,BROOKLYN,Mill Island,Donuts,1
+381,BROOKLYN,Manhattan Beach,Chinese,4
+382,BROOKLYN,Manhattan Beach,Sandwiches,4
+383,BROOKLYN,Manhattan Beach,Pizza,3
+384,BROOKLYN,Manhattan Beach,Eastern European,3
+385,BROOKLYN,Manhattan Beach,Italian,3
+386,BROOKLYN,Coney Island,Pizza,5
+387,BROOKLYN,Coney Island,Chinese,3
+388,BROOKLYN,Coney Island,American,2
+389,BROOKLYN,Coney Island,Asian,1
+390,BROOKLYN,Coney Island,Breakfast,1
+391,BROOKLYN,Bath Beach,Chinese,16
+392,BROOKLYN,Bath Beach,Cantonese,4
+393,BROOKLYN,Bath Beach,Pizza,4
+394,BROOKLYN,Bath Beach,Japanese,3
+395,BROOKLYN,Bath Beach,Eastern European,2
+396,BROOKLYN,Borough Park,Chinese,13
+397,BROOKLYN,Borough Park,Diner,4
+398,BROOKLYN,Borough Park,Pizza,4
+399,BROOKLYN,Borough Park,Mexican,3
+400,BROOKLYN,Borough Park,Café,2
+401,BROOKLYN,Dyker Heights,Chinese,7
+402,BROOKLYN,Dyker Heights,Middle Eastern,5
+403,BROOKLYN,Dyker Heights,Italian,4
+404,BROOKLYN,Dyker Heights,Diner,4
+405,BROOKLYN,Dyker Heights,Pizza,2
+406,BROOKLYN,Gerritsen Beach,Chinese,6
+407,BROOKLYN,Gerritsen Beach,Pizza,4
+408,BROOKLYN,Gerritsen Beach,Sandwiches,3
+409,BROOKLYN,Gerritsen Beach,Italian,2
+410,BROOKLYN,Gerritsen Beach,Japanese,2
+411,BROOKLYN,Marine Park,Chinese,5
+412,BROOKLYN,Marine Park,Italian,5
+413,BROOKLYN,Marine Park,Japanese,5
+414,BROOKLYN,Marine Park,Caribbean,4
+415,BROOKLYN,Marine Park,Diner,2
+416,BROOKLYN,Clinton Hill,Chinese,6
+417,BROOKLYN,Clinton Hill,Pizza,5
+418,BROOKLYN,Clinton Hill,Thai,3
+419,BROOKLYN,Clinton Hill,Mexican,3
+420,BROOKLYN,Clinton Hill,Diner,3
+421,BROOKLYN,Sea Gate,Chinese,2
+422,BROOKLYN,Sea Gate,Pizza,2
+423,BROOKLYN,Downtown,Diner,4
+424,BROOKLYN,Downtown,Pizza,4
+425,BROOKLYN,Downtown,Chinese,3
+426,BROOKLYN,Downtown,Middle Eastern,3
+427,BROOKLYN,Downtown,Mexican,2
+428,BROOKLYN,Boerum Hill,Chinese,4
+429,BROOKLYN,Boerum Hill,Diner,4
+430,BROOKLYN,Boerum Hill,Pizza,3
+431,BROOKLYN,Boerum Hill,Middle Eastern,3
+432,BROOKLYN,Boerum Hill,Italian,3
+433,BROOKLYN,Prospect Lefferts Gardens,Caribbean,11
+434,BROOKLYN,Prospect Lefferts Gardens,Chinese,11
+435,BROOKLYN,Prospect Lefferts Gardens,Bakery,2
+436,BROOKLYN,Prospect Lefferts Gardens,Juice Bar,1
+437,BROOKLYN,Prospect Lefferts Gardens,Latin American,1
+438,BROOKLYN,Ocean Hill,Chinese,12
+439,BROOKLYN,Ocean Hill,Caribbean,8
+440,BROOKLYN,Ocean Hill,Spanish,3
+441,BROOKLYN,Ocean Hill,Asian,2
+442,BROOKLYN,Ocean Hill,Japanese,2
+443,BROOKLYN,City Line,Chinese,9
+444,BROOKLYN,City Line,Latin American,7
+445,BROOKLYN,City Line,Pizza,7
+446,BROOKLYN,City Line,Spanish,5
+447,BROOKLYN,City Line,Caribbean,3
+448,BROOKLYN,Bergen Beach,Chinese,3
+449,BROOKLYN,Bergen Beach,Breakfast,2
+450,BROOKLYN,Bergen Beach,Italian,1
+451,BROOKLYN,Bergen Beach,Japanese,1
+452,BROOKLYN,Bergen Beach,Peruvian,1
+453,BROOKLYN,Midwood,Caribbean,9
+454,BROOKLYN,Midwood,Chinese,9
+455,BROOKLYN,Midwood,Diner,3
+456,BROOKLYN,Midwood,Indian,3
+457,BROOKLYN,Midwood,Steakhouse,2
+458,BROOKLYN,Prospect Park South,Caribbean,13
+459,BROOKLYN,Prospect Park South,Chinese,11
+460,BROOKLYN,Prospect Park South,Pizza,3
+461,BROOKLYN,Prospect Park South,Diner,2
+462,BROOKLYN,Prospect Park South,Indian,2
+463,BROOKLYN,Georgetown,Chinese,10
+464,BROOKLYN,Georgetown,Caribbean,8
+465,BROOKLYN,Georgetown,Italian,7
+466,BROOKLYN,Georgetown,Breakfast,2
+467,BROOKLYN,Georgetown,Japanese,2
+468,BROOKLYN,Spring Creek,Chinese,10
+469,BROOKLYN,Spring Creek,Spanish,5
+470,BROOKLYN,Spring Creek,Latin American,3
+471,BROOKLYN,Spring Creek,Caribbean,2
+472,BROOKLYN,Spring Creek,Asian,1
+473,BROOKLYN,East Williamsburg,Chinese,8
+474,BROOKLYN,East Williamsburg,Latin American,6
+475,BROOKLYN,East Williamsburg,Mexican,4
+476,BROOKLYN,East Williamsburg,Spanish,4
+477,BROOKLYN,East Williamsburg,Italian,2
+478,BROOKLYN,North Side,Latin American,7
+479,BROOKLYN,North Side,Chinese,5
+480,BROOKLYN,North Side,Italian,5
+481,BROOKLYN,North Side,Pizza,3
+482,BROOKLYN,North Side,Diner,3
+483,BROOKLYN,South Side,Latin American,7
+484,BROOKLYN,South Side,Italian,5
+485,BROOKLYN,South Side,Chinese,3
+486,BROOKLYN,South Side,Diner,3
+487,BROOKLYN,South Side,Pizza,3
+488,BROOKLYN,Navy Yard,Diner,6
+489,BROOKLYN,Navy Yard,Chinese,4
+490,BROOKLYN,Navy Yard,Pizza,4
+491,BROOKLYN,Navy Yard,Mexican,4
+492,BROOKLYN,Navy Yard,Bar,2
+493,BROOKLYN,Ocean Parkway,Chinese,10
+494,BROOKLYN,Ocean Parkway,Pizza,4
+495,BROOKLYN,Ocean Parkway,Italian,3
+496,BROOKLYN,Ocean Parkway,Sushi,3
+497,BROOKLYN,Ocean Parkway,Turkish,3
+498,BROOKLYN,Fort Hamilton,American,4
+499,BROOKLYN,Fort Hamilton,Diner,3
+500,BROOKLYN,Fort Hamilton,Middle Eastern,3
+501,BROOKLYN,Fort Hamilton,Chinese,2
+502,BROOKLYN,Fort Hamilton,Greek,2
+503,MANHATTAN,Chinatown,Chinese,20
+504,MANHATTAN,Chinatown,Italian,5
+505,MANHATTAN,Chinatown,Dim Sum,4
+506,MANHATTAN,Chinatown,Shop,3
+507,MANHATTAN,Chinatown,Asian,2
+508,MANHATTAN,Washington Heights,Chinese,9
+509,MANHATTAN,Washington Heights,Latin American,7
+510,MANHATTAN,Washington Heights,Caribbean,5
+511,MANHATTAN,Washington Heights,Spanish,4
+512,MANHATTAN,Washington Heights,Italian,3
+513,MANHATTAN,Inwood,Chinese,7
+514,MANHATTAN,Inwood,Latin American,6
+515,MANHATTAN,Inwood,Lounge,4
+516,MANHATTAN,Inwood,Caribbean,3
+517,MANHATTAN,Inwood,Seafood,3
+518,MANHATTAN,Hamilton Heights,Chinese,13
+519,MANHATTAN,Hamilton Heights,Southern / Soul,4
+520,MANHATTAN,Hamilton Heights,Latin American,4
+521,MANHATTAN,Hamilton Heights,Caribbean,3
+522,MANHATTAN,Hamilton Heights,Diner,3
+523,MANHATTAN,Manhattanville,Chinese,12
+524,MANHATTAN,Manhattanville,Southern / Soul,6
+525,MANHATTAN,Manhattanville,African,3
+526,MANHATTAN,Manhattanville,Latin American,3
+527,MANHATTAN,Manhattanville,Caribbean,3
+528,MANHATTAN,Central Harlem,Chinese,12
+529,MANHATTAN,Central Harlem,Southern / Soul,8
+530,MANHATTAN,Central Harlem,African,3
+531,MANHATTAN,Central Harlem,Pizza,3
+532,MANHATTAN,Central Harlem,Diner,2
+533,MANHATTAN,East Harlem,Chinese,7
+534,MANHATTAN,East Harlem,Mexican,7
+535,MANHATTAN,East Harlem,Italian,4
+536,MANHATTAN,East Harlem,Caribbean,3
+537,MANHATTAN,East Harlem,Diner,3
+538,MANHATTAN,Upper East Side,Italian,10
+539,MANHATTAN,Upper East Side,Diner,6
+540,MANHATTAN,Upper East Side,Pizza,4
+541,MANHATTAN,Upper East Side,American,4
+542,MANHATTAN,Upper East Side,Chinese,3
+543,MANHATTAN,Yorkville,Italian,8
+544,MANHATTAN,Yorkville,Diner,6
+545,MANHATTAN,Yorkville,Pizza,4
+546,MANHATTAN,Yorkville,Chinese,3
+547,MANHATTAN,Yorkville,American,2
+548,MANHATTAN,Lenox Hill,Italian,9
+549,MANHATTAN,Lenox Hill,American,6
+550,MANHATTAN,Lenox Hill,Diner,6
+551,MANHATTAN,Lenox Hill,Japanese,3
+552,MANHATTAN,Lenox Hill,Chinese,3
+553,MANHATTAN,Roosevelt Island,Italian,7
+554,MANHATTAN,Roosevelt Island,Chinese,6
+555,MANHATTAN,Roosevelt Island,Diner,5
+556,MANHATTAN,Roosevelt Island,American,3
+557,MANHATTAN,Roosevelt Island,Spanish,3
+558,MANHATTAN,Upper West Side,Italian,7
+559,MANHATTAN,Upper West Side,Diner,4
+560,MANHATTAN,Upper West Side,Latin American,3
+561,MANHATTAN,Upper West Side,French,3
+562,MANHATTAN,Upper West Side,American,3
+563,MANHATTAN,Lincoln Square,American,8
+564,MANHATTAN,Lincoln Square,Italian,7
+565,MANHATTAN,Lincoln Square,Pub,5
+566,MANHATTAN,Lincoln Square,Diner,3
+567,MANHATTAN,Lincoln Square,Mexican,3
+568,MANHATTAN,Clinton,American,8
+569,MANHATTAN,Clinton,Pub,6
+570,MANHATTAN,Clinton,Italian,5
+571,MANHATTAN,Clinton,Bar,3
+572,MANHATTAN,Clinton,Irish,3
+573,MANHATTAN,Midtown,American,8
+574,MANHATTAN,Midtown,Pub,6
+575,MANHATTAN,Midtown,Italian,4
+576,MANHATTAN,Midtown,Irish,3
+577,MANHATTAN,Midtown,Bar,3
+578,MANHATTAN,Murray Hill,American,7
+579,MANHATTAN,Murray Hill,Pub,5
+580,MANHATTAN,Murray Hill,Italian,4
+581,MANHATTAN,Murray Hill,Irish,3
+582,MANHATTAN,Murray Hill,Bar,3
+583,MANHATTAN,Chelsea,Italian,8
+584,MANHATTAN,Chelsea,American,6
+585,MANHATTAN,Chelsea,Pub,3
+586,MANHATTAN,Chelsea,New American,3
+587,MANHATTAN,Chelsea,Diner,2
+588,MANHATTAN,Greenwich Village,Chinese,9
+589,MANHATTAN,Greenwich Village,Italian,8
+590,MANHATTAN,Greenwich Village,Dim Sum,4
+591,MANHATTAN,Greenwich Village,Middle Eastern,2
+592,MANHATTAN,Greenwich Village,Diner,2
+593,MANHATTAN,East Village,Italian,8
+594,MANHATTAN,East Village,Chinese,5
+595,MANHATTAN,East Village,Shop,4
+596,MANHATTAN,East Village,American,3
+597,MANHATTAN,East Village,Tapas,2
+598,MANHATTAN,Lower East Side,Chinese,14
+599,MANHATTAN,Lower East Side,Shop,4
+600,MANHATTAN,Lower East Side,Dim Sum,4
+601,MANHATTAN,Lower East Side,Italian,4
+602,MANHATTAN,Lower East Side,Pizza,3
+603,MANHATTAN,Tribeca,Chinese,13
+604,MANHATTAN,Tribeca,Italian,8
+605,MANHATTAN,Tribeca,Dim Sum,4
+606,MANHATTAN,Tribeca,American,2
+607,MANHATTAN,Tribeca,Diner,2
+608,MANHATTAN,Little Italy,Chinese,17
+609,MANHATTAN,Little Italy,Italian,6
+610,MANHATTAN,Little Italy,Dim Sum,4
+611,MANHATTAN,Little Italy,Shop,3
+612,MANHATTAN,Little Italy,Seafood,2
+613,MANHATTAN,Soho,Chinese,11
+614,MANHATTAN,Soho,Italian,8
+615,MANHATTAN,Soho,Dim Sum,4
+616,MANHATTAN,Soho,Diner,2
+617,MANHATTAN,Soho,Shop,2
+618,MANHATTAN,West Village,Italian,12
+619,MANHATTAN,West Village,New American,3
+620,MANHATTAN,West Village,Diner,3
+621,MANHATTAN,West Village,American,2
+622,MANHATTAN,West Village,Chinese,2
+623,MANHATTAN,Manhattan Valley,Chinese,6
+624,MANHATTAN,Manhattan Valley,Italian,6
+625,MANHATTAN,Manhattan Valley,Latin American,4
+626,MANHATTAN,Manhattan Valley,Mexican,3
+627,MANHATTAN,Manhattan Valley,Pizza,3
+628,MANHATTAN,Morningside Heights,Chinese,6
+629,MANHATTAN,Morningside Heights,Latin American,4
+630,MANHATTAN,Morningside Heights,African,3
+631,MANHATTAN,Morningside Heights,Southern / Soul,3
+632,MANHATTAN,Morningside Heights,Diner,3
+633,MANHATTAN,Gramercy,Italian,7
+634,MANHATTAN,Gramercy,American,4
+635,MANHATTAN,Gramercy,Tapas,3
+636,MANHATTAN,Gramercy,Middle Eastern,2
+637,MANHATTAN,Gramercy,Caribbean,2
+638,MANHATTAN,Battery Park City,Chinese,15
+639,MANHATTAN,Battery Park City,Italian,5
+640,MANHATTAN,Battery Park City,American,4
+641,MANHATTAN,Battery Park City,Dim Sum,4
+642,MANHATTAN,Battery Park City,Seafood,3
+643,MANHATTAN,Financial District,Chinese,17
+644,MANHATTAN,Financial District,Dim Sum,4
+645,MANHATTAN,Financial District,Italian,4
+646,MANHATTAN,Financial District,American,2
+647,MANHATTAN,Financial District,Seafood,2
+648,QUEENS,Astoria,Mexican,6
+649,QUEENS,Astoria,Italian,5
+650,QUEENS,Astoria,Greek,4
+651,QUEENS,Astoria,Hookah Bar,3
+652,QUEENS,Astoria,Chinese,3
+653,QUEENS,Woodside,Chinese,5
+654,QUEENS,Woodside,Pizza,5
+655,QUEENS,Woodside,Spanish,4
+656,QUEENS,Woodside,Latin American,3
+657,QUEENS,Woodside,Filipino,3
+658,QUEENS,Jackson Heights,Chinese,14
+659,QUEENS,Jackson Heights,Peruvian,4
+660,QUEENS,Jackson Heights,Latin American,3
+661,QUEENS,Jackson Heights,Mexican,3
+662,QUEENS,Jackson Heights,Spanish,3
+663,QUEENS,Elmhurst,Chinese,12
+664,QUEENS,Elmhurst,Mexican,4
+665,QUEENS,Elmhurst,Latin American,3
+666,QUEENS,Elmhurst,Pizza,3
+667,QUEENS,Elmhurst,Korean,2
+668,QUEENS,Howard Beach,Pizza,4
+669,QUEENS,Howard Beach,Chinese,3
+670,QUEENS,Howard Beach,Bar,1
+671,QUEENS,Howard Beach,Nightlife,1
+672,QUEENS,Howard Beach,Sandwiches,1
+673,QUEENS,South Corona,Chinese,9
+674,QUEENS,South Corona,Mexican,5
+675,QUEENS,South Corona,Latin American,4
+676,QUEENS,South Corona,Pizza,4
+677,QUEENS,South Corona,Italian,2
+678,QUEENS,Forest Hills,Chinese,8
+679,QUEENS,Forest Hills,Pizza,5
+680,QUEENS,Forest Hills,Italian,4
+681,QUEENS,Forest Hills,Sandwiches,3
+682,QUEENS,Forest Hills,Japanese,2
+683,QUEENS,Kew Gardens,Chinese,9
+684,QUEENS,Kew Gardens,Pizza,5
+685,QUEENS,Kew Gardens,Indian,5
+686,QUEENS,Kew Gardens,Italian,4
+687,QUEENS,Kew Gardens,Mexican,3
+688,QUEENS,Richmond Hill,Chinese,11
+689,QUEENS,Richmond Hill,Caribbean,6
+690,QUEENS,Richmond Hill,Indian,4
+691,QUEENS,Richmond Hill,Latin American,3
+692,QUEENS,Richmond Hill,South American,2
+693,QUEENS,Downtown Flushing,Chinese,21
+694,QUEENS,Downtown Flushing,Korean,7
+695,QUEENS,Downtown Flushing,Asian,5
+696,QUEENS,Downtown Flushing,Dim Sum,4
+697,QUEENS,Downtown Flushing,Shanghai,2
+698,QUEENS,Long Island City,Chinese,10
+699,QUEENS,Long Island City,Indian,5
+700,QUEENS,Long Island City,Italian,5
+701,QUEENS,Long Island City,Spanish,4
+702,QUEENS,Long Island City,Japanese,2
+703,QUEENS,Sunnyside,Chinese,7
+704,QUEENS,Sunnyside,Pizza,3
+705,QUEENS,Sunnyside,Italian,2
+706,QUEENS,Sunnyside,Indian,2
+707,QUEENS,Sunnyside,Thai,2
+708,QUEENS,East Elmhurst,Chinese,8
+709,QUEENS,East Elmhurst,Latin American,6
+710,QUEENS,East Elmhurst,Pizza,4
+711,QUEENS,East Elmhurst,Mexican,3
+712,QUEENS,East Elmhurst,Asian,2
+713,QUEENS,Maspeth,Chinese,14
+714,QUEENS,Maspeth,Pizza,9
+715,QUEENS,Maspeth,Italian,2
+716,QUEENS,Maspeth,Japanese,2
+717,QUEENS,Maspeth,American,1
+718,QUEENS,Ridgewood,Chinese,9
+719,QUEENS,Ridgewood,Pizza,7
+720,QUEENS,Ridgewood,Latin American,5
+721,QUEENS,Ridgewood,Mexican,3
+722,QUEENS,Ridgewood,Spanish,2
+723,QUEENS,Glendale,Chinese,10
+724,QUEENS,Glendale,Pizza,8
+725,QUEENS,Glendale,Spanish,5
+726,QUEENS,Glendale,Mexican,4
+727,QUEENS,Glendale,Japanese,3
+728,QUEENS,Rego Park,Chinese,11
+729,QUEENS,Rego Park,Pizza,4
+730,QUEENS,Rego Park,Eastern European,3
+731,QUEENS,Rego Park,Japanese,3
+732,QUEENS,Rego Park,Italian,2
+733,QUEENS,Woodhaven,Chinese,8
+734,QUEENS,Woodhaven,Pizza,5
+735,QUEENS,Woodhaven,Mexican,5
+736,QUEENS,Woodhaven,Latin American,4
+737,QUEENS,Woodhaven,Spanish,3
+738,QUEENS,Ozone Park,Chinese,11
+739,QUEENS,Ozone Park,Caribbean,7
+740,QUEENS,Ozone Park,Indian,5
+741,QUEENS,Ozone Park,Pizza,4
+742,QUEENS,Ozone Park,Latin American,3
+743,QUEENS,South Ozone Park,Chinese,9
+744,QUEENS,South Ozone Park,Caribbean,7
+745,QUEENS,South Ozone Park,Bar,2
+746,QUEENS,South Ozone Park,Mexican,2
+747,QUEENS,South Ozone Park,Southern / Soul,2
+748,QUEENS,College Point,Chinese,4
+749,QUEENS,College Point,Pizza,4
+750,QUEENS,College Point,Asian,2
+751,QUEENS,College Point,Korean,2
+752,QUEENS,College Point,Latin American,2
+753,QUEENS,Whitestone,Chinese,6
+754,QUEENS,Whitestone,Pizza,5
+755,QUEENS,Whitestone,Japanese,4
+756,QUEENS,Whitestone,Italian,3
+757,QUEENS,Whitestone,Korean,2
+758,QUEENS,Bayside,Chinese,8
+759,QUEENS,Bayside,Korean,5
+760,QUEENS,Bayside,Asian,4
+761,QUEENS,Bayside,Pizza,4
+762,QUEENS,Bayside,American,2
+763,QUEENS,Auburndale,Korean,20
+764,QUEENS,Auburndale,Chinese,5
+765,QUEENS,Auburndale,Pizza,5
+766,QUEENS,Auburndale,American,2
+767,QUEENS,Auburndale,Indian,2
+768,QUEENS,Little Neck,Chinese,6
+769,QUEENS,Little Neck,Pizza,4
+770,QUEENS,Little Neck,Italian,3
+771,QUEENS,Little Neck,Korean,3
+772,QUEENS,Little Neck,Sushi,2
+773,QUEENS,Douglaston,Chinese,6
+774,QUEENS,Douglaston,Pizza,4
+775,QUEENS,Douglaston,Italian,3
+776,QUEENS,Douglaston,Korean,3
+777,QUEENS,Douglaston,Sushi,2
+778,QUEENS,Glen Oaks,Indian,6
+779,QUEENS,Glen Oaks,Chinese,3
+780,QUEENS,Glen Oaks,Asian,1
+781,QUEENS,Glen Oaks,Diner,1
+782,QUEENS,Glen Oaks,Greek,1
+783,QUEENS,Bellerose,Chinese,11
+784,QUEENS,Bellerose,Indian,5
+785,QUEENS,Bellerose,Asian,2
+786,QUEENS,Bellerose,Pizza,2
+787,QUEENS,Bellerose,American,1
+788,QUEENS,Kew Gardens Hills,Chinese,15
+789,QUEENS,Kew Gardens Hills,Pizza,10
+790,QUEENS,Kew Gardens Hills,Sandwiches,5
+791,QUEENS,Kew Gardens Hills,Italian,3
+792,QUEENS,Kew Gardens Hills,Indian,2
+793,QUEENS,Fresh Meadows,Chinese,8
+794,QUEENS,Fresh Meadows,Pizza,6
+795,QUEENS,Fresh Meadows,Japanese,2
+796,QUEENS,Fresh Meadows,Middle Eastern,2
+797,QUEENS,Fresh Meadows,Sandwiches,2
+798,QUEENS,Briarwood,Chinese,7
+799,QUEENS,Briarwood,Indian,6
+800,QUEENS,Briarwood,Spanish,4
+801,QUEENS,Briarwood,Pizza,4
+802,QUEENS,Briarwood,African,3
+803,QUEENS,Jamaica Center,Chinese,9
+804,QUEENS,Jamaica Center,Indian,7
+805,QUEENS,Jamaica Center,Latin American,4
+806,QUEENS,Jamaica Center,Mexican,3
+807,QUEENS,Jamaica Center,Pizza,3
+808,QUEENS,Oakland Gardens,Chinese,6
+809,QUEENS,Oakland Gardens,Pizza,6
+810,QUEENS,Oakland Gardens,Greek,2
+811,QUEENS,Oakland Gardens,Korean,2
+812,QUEENS,Oakland Gardens,Asian,1
+813,QUEENS,Queens Village,Chinese,10
+814,QUEENS,Queens Village,Caribbean,6
+815,QUEENS,Queens Village,Latin American,3
+816,QUEENS,Queens Village,Pizza,3
+817,QUEENS,Queens Village,Indian,2
+818,QUEENS,Hollis,Caribbean,9
+819,QUEENS,Hollis,Chinese,6
+820,QUEENS,Hollis,Indian,5
+821,QUEENS,Hollis,Latin American,3
+822,QUEENS,Hollis,American,2
+823,QUEENS,South Jamaica,Chinese,8
+824,QUEENS,South Jamaica,Caribbean,6
+825,QUEENS,South Jamaica,African,3
+826,QUEENS,South Jamaica,Latin American,3
+827,QUEENS,South Jamaica,Spanish,2
+828,QUEENS,St. Albans,Caribbean,13
+829,QUEENS,St. Albans,Chinese,6
+830,QUEENS,St. Albans,Seafood,3
+831,QUEENS,St. Albans,Bakery,2
+832,QUEENS,St. Albans,Spanish,2
+833,QUEENS,Rochdale,Chinese,9
+834,QUEENS,Rochdale,Caribbean,8
+835,QUEENS,Rochdale,Pizza,3
+836,QUEENS,Rochdale,Seafood,2
+837,QUEENS,Rochdale,Asian,1
+838,QUEENS,Springfield Gardens,Caribbean,9
+839,QUEENS,Springfield Gardens,Chinese,6
+840,QUEENS,Springfield Gardens,Pizza,2
+841,QUEENS,Springfield Gardens,Spanish,2
+842,QUEENS,Springfield Gardens,Asian,1
+843,QUEENS,Cambria Heights,Caribbean,8
+844,QUEENS,Cambria Heights,Chinese,7
+845,QUEENS,Cambria Heights,Pizza,1
+846,QUEENS,Cambria Heights,Portuguese,1
+847,QUEENS,Cambria Heights,Sandwiches,1
+848,QUEENS,Rosedale,Caribbean,8
+849,QUEENS,Rosedale,American,2
+850,QUEENS,Rosedale,Chinese,2
+851,QUEENS,Rosedale,Pizza,2
+852,QUEENS,Rosedale,Bakery,1
+853,QUEENS,Far Rockaway,Chinese,7
+854,QUEENS,Far Rockaway,Pizza,3
+855,QUEENS,Far Rockaway,Caribbean,2
+856,QUEENS,Far Rockaway,American,1
+857,QUEENS,Far Rockaway,Comfort Food,1
+858,QUEENS,Broad Channel,Chinese,1
+859,QUEENS,Broad Channel,Diner,1
+860,QUEENS,Broad Channel,Pizza,1
+861,QUEENS,Breezy Point,American,1
+862,QUEENS,Steinway,Mexican,5
+863,QUEENS,Steinway,Greek,4
+864,QUEENS,Steinway,Italian,3
+865,QUEENS,Steinway,Hookah Bar,3
+866,QUEENS,Steinway,Middle Eastern,3
+867,QUEENS,Beechhurst,Italian,4
+868,QUEENS,Beechhurst,Chinese,3
+869,QUEENS,Beechhurst,Japanese,2
+870,QUEENS,Beechhurst,Lounge,1
+871,QUEENS,Beechhurst,Pizza,1
+872,QUEENS,Bay Terrace,Chinese,8
+873,QUEENS,Bay Terrace,Asian,2
+874,QUEENS,Bay Terrace,Indian,2
+875,QUEENS,Bay Terrace,Coffee Shop,1
+876,QUEENS,Bay Terrace,Greek,1
+877,QUEENS,Edgemere,Chinese,4
+878,QUEENS,Edgemere,Pizza,2
+879,QUEENS,Edgemere,Asian,1
+880,QUEENS,Arverne,Pizza,2
+881,QUEENS,Arverne,Asian,1
+882,QUEENS,Arverne,Chinese,1
+883,QUEENS,Arverne,Diner,1
+884,QUEENS,Arverne,Food Truck,1
+885,QUEENS,Seaside,Chinese,4
+886,QUEENS,Seaside,Pizza,3
+887,QUEENS,Seaside,Asian,1
+888,QUEENS,Seaside,Caribbean,1
+889,QUEENS,Seaside,Diner,1
+890,QUEENS,Neponsit,Chinese,2
+891,QUEENS,Neponsit,Italian,1
+892,QUEENS,Neponsit,Pizza,1
+893,QUEENS,Murray Hill,Chinese,17
+894,QUEENS,Murray Hill,Korean,13
+895,QUEENS,Murray Hill,Asian,3
+896,QUEENS,Murray Hill,Dim Sum,1
+897,QUEENS,Murray Hill,Food & Drink,1
+898,QUEENS,Floral Park,Indian,6
+899,QUEENS,Floral Park,Chinese,5
+900,QUEENS,Floral Park,Asian,2
+901,QUEENS,Floral Park,Italian,2
+902,QUEENS,Floral Park,American,1
+903,QUEENS,Holliswood,Chinese,9
+904,QUEENS,Holliswood,Caribbean,6
+905,QUEENS,Holliswood,Indian,5
+906,QUEENS,Holliswood,Pizza,4
+907,QUEENS,Holliswood,American,3
+908,QUEENS,Jamaica Estates,Chinese,10
+909,QUEENS,Jamaica Estates,Indian,6
+910,QUEENS,Jamaica Estates,Pizza,5
+911,QUEENS,Jamaica Estates,Latin American,3
+912,QUEENS,Jamaica Estates,Japanese,2
+913,QUEENS,Queensboro Hill,Chinese,25
+914,QUEENS,Queensboro Hill,Asian,4
+915,QUEENS,Queensboro Hill,Dim Sum,2
+916,QUEENS,Queensboro Hill,Indian,2
+917,QUEENS,Queensboro Hill,Korean,2
+918,QUEENS,Hillcrest,Chinese,11
+919,QUEENS,Hillcrest,Pizza,7
+920,QUEENS,Hillcrest,Indian,4
+921,QUEENS,Hillcrest,Middle Eastern,3
+922,QUEENS,Hillcrest,Mexican,2
+923,QUEENS,Ravenswood,Chinese,10
+924,QUEENS,Ravenswood,Mexican,5
+925,QUEENS,Ravenswood,Spanish,4
+926,QUEENS,Ravenswood,Pizza,4
+927,QUEENS,Ravenswood,Indian,2
+928,QUEENS,Lindenwood,Chinese,6
+929,QUEENS,Lindenwood,Pizza,5
+930,QUEENS,Lindenwood,Sandwiches,2
+931,QUEENS,Lindenwood,African,1
+932,QUEENS,Lindenwood,Bar,1
+933,QUEENS,Laurelton,Caribbean,10
+934,QUEENS,Laurelton,Chinese,8
+935,QUEENS,Laurelton,Pizza,4
+936,QUEENS,Laurelton,American,2
+937,QUEENS,Laurelton,Bakery,2
+938,QUEENS,Lefrak City,Chinese,13
+939,QUEENS,Lefrak City,Mexican,5
+940,QUEENS,Lefrak City,Pizza,4
+941,QUEENS,Lefrak City,Seafood,3
+942,QUEENS,Lefrak City,Peruvian,2
+943,QUEENS,Belle Harbor,Chinese,3
+944,QUEENS,Belle Harbor,Italian,1
+945,QUEENS,Belle Harbor,Japanese,1
+946,QUEENS,Belle Harbor,Pizza,1
+947,QUEENS,Rockaway Park,Chinese,3
+948,QUEENS,Rockaway Park,Italian,1
+949,QUEENS,Rockaway Park,Japanese,1
+950,QUEENS,Rockaway Park,Pizza,1
+951,QUEENS,Somerville,Pizza,2
+952,QUEENS,Somerville,Chinese,1
+953,QUEENS,Somerville,Diner,1
+954,QUEENS,Somerville,Food Truck,1
+955,QUEENS,Brookville,Caribbean,7
+956,QUEENS,Brookville,Chinese,2
+957,QUEENS,Brookville,Pizza,2
+958,QUEENS,Brookville,Lounge,1
+959,QUEENS,Brookville,Sandwiches,1
+960,QUEENS,Bellaire,Chinese,9
+961,QUEENS,Bellaire,Pizza,5
+962,QUEENS,Bellaire,Italian,3
+963,QUEENS,Bellaire,Caribbean,1
+964,QUEENS,Bellaire,Filipino,1
+965,QUEENS,North Corona,Latin American,8
+966,QUEENS,North Corona,Chinese,6
+967,QUEENS,North Corona,Mexican,4
+968,QUEENS,North Corona,Pizza,4
+969,QUEENS,North Corona,Spanish,3
+970,QUEENS,Forest Hills Gardens,Chinese,9
+971,QUEENS,Forest Hills Gardens,Italian,6
+972,QUEENS,Forest Hills Gardens,Pizza,5
+973,QUEENS,Forest Hills Gardens,Sandwiches,3
+974,QUEENS,Forest Hills Gardens,Caribbean,2
+975,STATEN ISLAND,St. George,Chinese,6
+976,STATEN ISLAND,St. George,Sri Lankan,3
+977,STATEN ISLAND,St. George,Mexican,2
+978,STATEN ISLAND,St. George,African,1
+979,STATEN ISLAND,St. George,Greek,1
+980,STATEN ISLAND,New Brighton,Chinese,7
+981,STATEN ISLAND,New Brighton,Mexican,4
+982,STATEN ISLAND,New Brighton,Sri Lankan,3
+983,STATEN ISLAND,New Brighton,African,1
+984,STATEN ISLAND,New Brighton,Greek,1
+985,STATEN ISLAND,Stapleton,Chinese,8
+986,STATEN ISLAND,Stapleton,Spanish,4
+987,STATEN ISLAND,Stapleton,Sri Lankan,4
+988,STATEN ISLAND,Stapleton,Mexican,3
+989,STATEN ISLAND,Stapleton,Pizza,3
+990,STATEN ISLAND,Rosebank,Italian,4
+991,STATEN ISLAND,Rosebank,Chinese,3
+992,STATEN ISLAND,Rosebank,Spanish,3
+993,STATEN ISLAND,Rosebank,Mexican,2
+994,STATEN ISLAND,Rosebank,New American,2
+995,STATEN ISLAND,West Brighton,Chinese,5
+996,STATEN ISLAND,West Brighton,Caribbean,1
+997,STATEN ISLAND,West Brighton,Italian,1
+998,STATEN ISLAND,West Brighton,Japanese,1
+999,STATEN ISLAND,West Brighton,Mediterranean,1
+1000,STATEN ISLAND,Grymes Hill,Chinese,8
+1001,STATEN ISLAND,Grymes Hill,Spanish,4
+1002,STATEN ISLAND,Grymes Hill,Sri Lankan,4
+1003,STATEN ISLAND,Grymes Hill,Mexican,3
+1004,STATEN ISLAND,Grymes Hill,Pizza,3
+1005,STATEN ISLAND,Todt Hill,American,1
+1006,STATEN ISLAND,Todt Hill,Asian,1
+1007,STATEN ISLAND,Todt Hill,Chinese,1
+1008,STATEN ISLAND,Todt Hill,Deli / Bodega,1
+1009,STATEN ISLAND,Todt Hill,Japanese,1
+1010,STATEN ISLAND,South Beach,American,2
+1011,STATEN ISLAND,South Beach,Italian,1
+1012,STATEN ISLAND,South Beach,Mexican,1
+1013,STATEN ISLAND,South Beach,Pizza,1
+1014,STATEN ISLAND,Port Richmond,Italian,4
+1015,STATEN ISLAND,Port Richmond,Chinese,3
+1016,STATEN ISLAND,Port Richmond,Caribbean,2
+1017,STATEN ISLAND,Port Richmond,Mexican,2
+1018,STATEN ISLAND,Port Richmond,Pizza,2
+1019,STATEN ISLAND,Mariner's Harbor,Pizza,4
+1020,STATEN ISLAND,Mariner's Harbor,Chinese,3
+1021,STATEN ISLAND,Mariner's Harbor,Italian,3
+1022,STATEN ISLAND,Mariner's Harbor,Mexican,2
+1023,STATEN ISLAND,Mariner's Harbor,Spanish,2
+1024,STATEN ISLAND,Port Ivory,Pizza,3
+1025,STATEN ISLAND,Port Ivory,Chinese,1
+1026,STATEN ISLAND,Port Ivory,Karaoke,1
+1027,STATEN ISLAND,Port Ivory,Mexican,1
+1028,STATEN ISLAND,Port Ivory,Peruvian,1
+1029,STATEN ISLAND,Castleton Corners,Pizza,5
+1030,STATEN ISLAND,Castleton Corners,Chinese,3
+1031,STATEN ISLAND,Castleton Corners,Italian,2
+1032,STATEN ISLAND,Castleton Corners,American,1
+1033,STATEN ISLAND,Castleton Corners,Caribbean,1
+1034,STATEN ISLAND,New Springville,Chinese,2
+1035,STATEN ISLAND,New Springville,Pizza,2
+1036,STATEN ISLAND,New Springville,Asian,1
+1037,STATEN ISLAND,New Springville,Diner,1
+1038,STATEN ISLAND,New Springville,Hookah Bar,1
+1039,STATEN ISLAND,Travis,Italian,2
+1040,STATEN ISLAND,Travis,Spanish,2
+1041,STATEN ISLAND,New Dorp,Pizza,6
+1042,STATEN ISLAND,New Dorp,Asian,3
+1043,STATEN ISLAND,New Dorp,Italian,3
+1044,STATEN ISLAND,New Dorp,Chinese,1
+1045,STATEN ISLAND,New Dorp,Deli / Bodega,1
+1046,STATEN ISLAND,Oakwood,Pizza,4
+1047,STATEN ISLAND,Oakwood,Italian,3
+1048,STATEN ISLAND,Oakwood,Asian,1
+1049,STATEN ISLAND,Oakwood,Japanese,1
+1050,STATEN ISLAND,Oakwood,Russian,1
+1051,STATEN ISLAND,Great Kills,Italian,5
+1052,STATEN ISLAND,Great Kills,Pizza,3
+1053,STATEN ISLAND,Great Kills,Sushi,3
+1054,STATEN ISLAND,Great Kills,Chinese,2
+1055,STATEN ISLAND,Great Kills,Japanese,1
+1056,STATEN ISLAND,Eltingville,Italian,5
+1057,STATEN ISLAND,Eltingville,Pizza,3
+1058,STATEN ISLAND,Eltingville,Sushi,3
+1059,STATEN ISLAND,Eltingville,Chinese,2
+1060,STATEN ISLAND,Eltingville,Asian,1
+1061,STATEN ISLAND,Annadale,Pizza,5
+1062,STATEN ISLAND,Annadale,Sushi,3
+1063,STATEN ISLAND,Annadale,Asian,2
+1064,STATEN ISLAND,Annadale,Chinese,1
+1065,STATEN ISLAND,Annadale,Italian,1
+1066,STATEN ISLAND,Woodrow,Chinese,1
+1067,STATEN ISLAND,Woodrow,Diner,1
+1068,STATEN ISLAND,Tottenville,Pizza,3
+1069,STATEN ISLAND,Tottenville,Chinese,2
+1070,STATEN ISLAND,Tottenville,Italian,2
+1071,STATEN ISLAND,Tottenville,Mexican,2
+1072,STATEN ISLAND,Tottenville,Seafood,2
+1073,STATEN ISLAND,Tompkinsville,Chinese,6
+1074,STATEN ISLAND,Tompkinsville,Mexican,4
+1075,STATEN ISLAND,Tompkinsville,Sri Lankan,4
+1076,STATEN ISLAND,Tompkinsville,Spanish,3
+1077,STATEN ISLAND,Tompkinsville,African,2
+1078,STATEN ISLAND,Silver Lake,Chinese,4
+1079,STATEN ISLAND,Silver Lake,Spanish,3
+1080,STATEN ISLAND,Silver Lake,Pizza,2
+1081,STATEN ISLAND,Silver Lake,Indian,1
+1082,STATEN ISLAND,Silver Lake,Japanese,1
+1083,STATEN ISLAND,Sunnyside,Chinese,3
+1084,STATEN ISLAND,Sunnyside,Indian,1
+1085,STATEN ISLAND,Sunnyside,Pizza,1
+1086,STATEN ISLAND,Sunnyside,Spanish,1
+1087,BROOKLYN,Ditmas Park,Caribbean,12
+1088,BROOKLYN,Ditmas Park,Chinese,12
+1089,BROOKLYN,Ditmas Park,Diner,2
+1090,BROOKLYN,Ditmas Park,Halal,2
+1091,BROOKLYN,Ditmas Park,Indian,2
+1092,BROOKLYN,Wingate,Caribbean,20
+1093,BROOKLYN,Wingate,Chinese,10
+1094,BROOKLYN,Wingate,Bakery,3
+1095,BROOKLYN,Wingate,Sandwiches,2
+1096,BROOKLYN,Wingate,African,1
+1097,BROOKLYN,Rugby,Caribbean,15
+1098,BROOKLYN,Rugby,Chinese,9
+1099,BROOKLYN,Rugby,Bakery,3
+1100,BROOKLYN,Rugby,Sandwiches,3
+1101,BROOKLYN,Rugby,African,1
+1102,STATEN ISLAND,Park Hill,Italian,6
+1103,STATEN ISLAND,Park Hill,Chinese,5
+1104,STATEN ISLAND,Park Hill,Pizza,3
+1105,STATEN ISLAND,Park Hill,American,2
+1106,STATEN ISLAND,Park Hill,Spanish,2
+1107,STATEN ISLAND,Westerleigh,Pizza,6
+1108,STATEN ISLAND,Westerleigh,Italian,5
+1109,STATEN ISLAND,Westerleigh,Chinese,4
+1110,STATEN ISLAND,Westerleigh,Mexican,2
+1111,STATEN ISLAND,Westerleigh,Asian,1
+1112,STATEN ISLAND,Graniteville,Pizza,6
+1113,STATEN ISLAND,Graniteville,Chinese,3
+1114,STATEN ISLAND,Graniteville,Italian,3
+1115,STATEN ISLAND,Graniteville,Japanese,2
+1116,STATEN ISLAND,Graniteville,Spanish,2
+1117,STATEN ISLAND,Arlington,Chinese,2
+1118,STATEN ISLAND,Arlington,Italian,2
+1119,STATEN ISLAND,Arlington,Pizza,2
+1120,STATEN ISLAND,Arlington,Breakfast,1
+1121,STATEN ISLAND,Arlington,Spanish,1
+1122,STATEN ISLAND,Arrochar,Italian,6
+1123,STATEN ISLAND,Arrochar,Chinese,3
+1124,STATEN ISLAND,Arrochar,American,2
+1125,STATEN ISLAND,Arrochar,Pizza,2
+1126,STATEN ISLAND,Arrochar,Mediterranean,1
+1127,STATEN ISLAND,Grasmere,Italian,5
+1128,STATEN ISLAND,Grasmere,Chinese,3
+1129,STATEN ISLAND,Grasmere,American,2
+1130,STATEN ISLAND,Grasmere,Pizza,2
+1131,STATEN ISLAND,Grasmere,Asian,1
+1132,STATEN ISLAND,Old Town,Chinese,4
+1133,STATEN ISLAND,Old Town,Italian,3
+1134,STATEN ISLAND,Old Town,American,2
+1135,STATEN ISLAND,Old Town,Pizza,2
+1136,STATEN ISLAND,Old Town,Asian,1
+1137,STATEN ISLAND,Dongan Hills,Pizza,4
+1138,STATEN ISLAND,Dongan Hills,Asian,3
+1139,STATEN ISLAND,Dongan Hills,Chinese,3
+1140,STATEN ISLAND,Dongan Hills,Italian,3
+1141,STATEN ISLAND,Dongan Hills,American,2
+1142,STATEN ISLAND,Midland Beach,Pizza,7
+1143,STATEN ISLAND,Midland Beach,Asian,2
+1144,STATEN ISLAND,Midland Beach,Chinese,2
+1145,STATEN ISLAND,Midland Beach,Italian,2
+1146,STATEN ISLAND,Midland Beach,Spanish,2
+1147,STATEN ISLAND,Grant City,Pizza,7
+1148,STATEN ISLAND,Grant City,Asian,2
+1149,STATEN ISLAND,Grant City,Chinese,2
+1150,STATEN ISLAND,Grant City,Italian,2
+1151,STATEN ISLAND,Grant City,Spanish,2
+1152,STATEN ISLAND,New Dorp Beach,Pizza,6
+1153,STATEN ISLAND,New Dorp Beach,Asian,2
+1154,STATEN ISLAND,New Dorp Beach,Italian,2
+1155,STATEN ISLAND,New Dorp Beach,Chinese,1
+1156,STATEN ISLAND,New Dorp Beach,Mexican,1
+1157,STATEN ISLAND,Bay Terrace,Italian,4
+1158,STATEN ISLAND,Bay Terrace,Pizza,2
+1159,STATEN ISLAND,Bay Terrace,Asian,1
+1160,STATEN ISLAND,Bay Terrace,Chinese,1
+1161,STATEN ISLAND,Bay Terrace,Japanese,1
+1162,STATEN ISLAND,Huguenot,Pizza,4
+1163,STATEN ISLAND,Huguenot,American,1
+1164,STATEN ISLAND,Huguenot,Asian,1
+1165,STATEN ISLAND,Huguenot,Chinese,1
+1166,STATEN ISLAND,Pleasant Plains,Chinese,2
+1167,STATEN ISLAND,Pleasant Plains,Diner,2
+1168,STATEN ISLAND,Pleasant Plains,Italian,2
+1169,STATEN ISLAND,Pleasant Plains,Pizza,2
+1170,STATEN ISLAND,Pleasant Plains,American,1
+1171,STATEN ISLAND,Butler Manor,Italian,3
+1172,STATEN ISLAND,Butler Manor,Chinese,2
+1173,STATEN ISLAND,Butler Manor,Pizza,2
+1174,STATEN ISLAND,Butler Manor,American,1
+1175,STATEN ISLAND,Butler Manor,Asian,1
+1176,STATEN ISLAND,Charleston,Diner,2
+1177,STATEN ISLAND,Charleston,Italian,2
+1178,STATEN ISLAND,Charleston,Pizza,2
+1179,STATEN ISLAND,Charleston,American,1
+1180,STATEN ISLAND,Charleston,Chinese,1
+1181,STATEN ISLAND,Rossville,Chinese,1
+1182,STATEN ISLAND,Arden Heights,Pizza,4
+1183,STATEN ISLAND,Arden Heights,Asian,2
+1184,STATEN ISLAND,Arden Heights,Sushi,2
+1185,STATEN ISLAND,Arden Heights,Chinese,1
+1186,STATEN ISLAND,Arden Heights,Italian,1
+1187,STATEN ISLAND,Greenridge,Asian,1
+1188,STATEN ISLAND,Greenridge,Chinese,1
+1189,STATEN ISLAND,Greenridge,Pizza,1
+1190,STATEN ISLAND,Heartland Village,Chinese,3
+1191,STATEN ISLAND,Heartland Village,Pizza,2
+1192,STATEN ISLAND,Heartland Village,Asian,1
+1193,STATEN ISLAND,Heartland Village,Diner,1
+1194,STATEN ISLAND,Heartland Village,Hookah Bar,1
+1195,STATEN ISLAND,Chelsea,Italian,2
+1196,STATEN ISLAND,Chelsea,Spanish,2
+1197,STATEN ISLAND,Bloomfield,Italian,1
+1198,STATEN ISLAND,Bulls Head,Pizza,3
+1199,STATEN ISLAND,Bulls Head,Chinese,2
+1200,STATEN ISLAND,Bulls Head,Japanese,2
+1201,STATEN ISLAND,Bulls Head,Breakfast,1
+1202,STATEN ISLAND,Bulls Head,Coffee Shop,1
+1203,MANHATTAN,Carnegie Hill,Italian,8
+1204,MANHATTAN,Carnegie Hill,Diner,6
+1205,MANHATTAN,Carnegie Hill,Chinese,5
+1206,MANHATTAN,Carnegie Hill,Pizza,3
+1207,MANHATTAN,Carnegie Hill,Mexican,3
+1208,MANHATTAN,Noho,Chinese,13
+1209,MANHATTAN,Noho,Shop,5
+1210,MANHATTAN,Noho,Italian,5
+1211,MANHATTAN,Noho,Dim Sum,4
+1212,MANHATTAN,Noho,Tapas,2
+1213,MANHATTAN,Civic Center,Chinese,17
+1214,MANHATTAN,Civic Center,Italian,5
+1215,MANHATTAN,Civic Center,Dim Sum,4
+1216,MANHATTAN,Civic Center,Seafood,3
+1217,MANHATTAN,Civic Center,New American,2
+1218,MANHATTAN,Midtown South,American,6
+1219,MANHATTAN,Midtown South,Pub,5
+1220,MANHATTAN,Midtown South,Italian,5
+1221,MANHATTAN,Midtown South,Irish,3
+1222,MANHATTAN,Midtown South,Bar,3
+1223,STATEN ISLAND,Richmond Town,Italian,3
+1224,STATEN ISLAND,Richmond Town,Pizza,3
+1225,STATEN ISLAND,Richmond Town,Asian,1
+1226,STATEN ISLAND,Richmond Town,Japanese,1
+1227,STATEN ISLAND,Richmond Town,Russian,1
+1228,STATEN ISLAND,Shore Acres,Italian,6
+1229,STATEN ISLAND,Shore Acres,Chinese,4
+1230,STATEN ISLAND,Shore Acres,Pizza,2
+1231,STATEN ISLAND,Shore Acres,Mediterranean,1
+1232,STATEN ISLAND,Shore Acres,Spanish,1
+1233,STATEN ISLAND,Clifton,Chinese,3
+1234,STATEN ISLAND,Clifton,Italian,3
+1235,STATEN ISLAND,Clifton,Spanish,3
+1236,STATEN ISLAND,Clifton,Mexican,2
+1237,STATEN ISLAND,Clifton,New American,2
+1238,STATEN ISLAND,Concord,Chinese,5
+1239,STATEN ISLAND,Concord,Italian,4
+1240,STATEN ISLAND,Concord,Pizza,3
+1241,STATEN ISLAND,Concord,American,2
+1242,STATEN ISLAND,Concord,Asian,1
+1243,STATEN ISLAND,Emerson Hill,Chinese,4
+1244,STATEN ISLAND,Emerson Hill,American,2
+1245,STATEN ISLAND,Emerson Hill,Italian,2
+1246,STATEN ISLAND,Emerson Hill,Pizza,2
+1247,STATEN ISLAND,Emerson Hill,Asian,1
+1248,STATEN ISLAND,Randall Manor,Chinese,6
+1249,STATEN ISLAND,Randall Manor,Sri Lankan,3
+1250,STATEN ISLAND,Randall Manor,Mexican,2
+1251,STATEN ISLAND,Randall Manor,African,1
+1252,STATEN ISLAND,Randall Manor,Caribbean,1
+1253,STATEN ISLAND,Howland Hook,Pizza,3
+1254,STATEN ISLAND,Howland Hook,Spanish,2
+1255,STATEN ISLAND,Howland Hook,Chinese,1
+1256,STATEN ISLAND,Howland Hook,Karaoke,1
+1257,STATEN ISLAND,Howland Hook,Mexican,1
+1258,STATEN ISLAND,Elm Park,Chinese,4
+1259,STATEN ISLAND,Elm Park,Italian,4
+1260,STATEN ISLAND,Elm Park,Pizza,4
+1261,STATEN ISLAND,Elm Park,Mexican,2
+1262,STATEN ISLAND,Elm Park,Spanish,2
+1263,BROOKLYN,Remsen Village,Chinese,12
+1264,BROOKLYN,Remsen Village,Caribbean,9
+1265,BROOKLYN,Remsen Village,Sandwiches,3
+1266,BROOKLYN,Remsen Village,Bakery,2
+1267,BROOKLYN,Remsen Village,African,1
+1268,BROOKLYN,New Lots,Chinese,12
+1269,BROOKLYN,New Lots,Caribbean,4
+1270,BROOKLYN,New Lots,Spanish,4
+1271,BROOKLYN,New Lots,Latin American,3
+1272,BROOKLYN,New Lots,Asian,2
+1273,BROOKLYN,Paerdegat Basin,Chinese,11
+1274,BROOKLYN,Paerdegat Basin,Caribbean,10
+1275,BROOKLYN,Paerdegat Basin,Breakfast,2
+1276,BROOKLYN,Paerdegat Basin,Italian,2
+1277,BROOKLYN,Paerdegat Basin,Sandwiches,2
+1278,BROOKLYN,Mill Basin,Chinese,7
+1279,BROOKLYN,Mill Basin,Italian,7
+1280,BROOKLYN,Mill Basin,Caribbean,3
+1281,BROOKLYN,Mill Basin,Breakfast,2
+1282,BROOKLYN,Mill Basin,Japanese,2
+1283,QUEENS,Jamaica Hills,Chinese,10
+1284,QUEENS,Jamaica Hills,Indian,7
+1285,QUEENS,Jamaica Hills,Latin American,3
+1286,QUEENS,Jamaica Hills,Spanish,3
+1287,QUEENS,Jamaica Hills,Pizza,3
+1288,QUEENS,Utopia,Chinese,16
+1289,QUEENS,Utopia,Pizza,9
+1290,QUEENS,Utopia,Sandwiches,4
+1291,QUEENS,Utopia,Middle Eastern,3
+1292,QUEENS,Utopia,Italian,2
+1293,QUEENS,Pomonok,Chinese,15
+1294,QUEENS,Pomonok,Pizza,10
+1295,QUEENS,Pomonok,Sandwiches,4
+1296,QUEENS,Pomonok,Middle Eastern,3
+1297,QUEENS,Pomonok,Italian,2
+1298,QUEENS,Astoria Heights,Chinese,6
+1299,QUEENS,Astoria Heights,Middle Eastern,4
+1300,QUEENS,Astoria Heights,Mexican,4
+1301,QUEENS,Astoria Heights,Greek,3
+1302,QUEENS,Astoria Heights,Hookah Bar,3
+1303,BRONX,Claremont Village,Chinese,14
+1304,BRONX,Claremont Village,Mexican,6
+1305,BRONX,Claremont Village,African,5
+1306,BRONX,Claremont Village,Latin American,4
+1307,BRONX,Claremont Village,Spanish,3
+1308,BRONX,Concourse Village,Chinese,11
+1309,BRONX,Concourse Village,Spanish,6
+1310,BRONX,Concourse Village,Latin American,5
+1311,BRONX,Concourse Village,Pizza,4
+1312,BRONX,Concourse Village,African,3
+1313,BRONX,Mount Eden,Chinese,12
+1314,BRONX,Mount Eden,Spanish,6
+1315,BRONX,Mount Eden,Latin American,5
+1316,BRONX,Mount Eden,Seafood,4
+1317,BRONX,Mount Eden,Mexican,3
+1318,BRONX,Mount Hope,Chinese,12
+1319,BRONX,Mount Hope,Spanish,6
+1320,BRONX,Mount Hope,Caribbean,3
+1321,BRONX,Mount Hope,Mexican,3
+1322,BRONX,Mount Hope,African,2
+1323,MANHATTAN,Sutton Place,American,7
+1324,MANHATTAN,Sutton Place,Italian,6
+1325,MANHATTAN,Sutton Place,Diner,5
+1326,MANHATTAN,Sutton Place,Japanese,3
+1327,MANHATTAN,Sutton Place,Pub,3
+1328,QUEENS,Hunters Point,Chinese,9
+1329,QUEENS,Hunters Point,American,5
+1330,QUEENS,Hunters Point,Italian,5
+1331,QUEENS,Hunters Point,Sandwiches,3
+1332,QUEENS,Hunters Point,Diner,2
+1333,MANHATTAN,Turtle Bay,American,9
+1334,MANHATTAN,Turtle Bay,Diner,5
+1335,MANHATTAN,Turtle Bay,Italian,3
+1336,MANHATTAN,Turtle Bay,Japanese,3
+1337,MANHATTAN,Turtle Bay,Chinese,2
+1338,MANHATTAN,Tudor City,American,8
+1339,MANHATTAN,Tudor City,Pub,4
+1340,MANHATTAN,Tudor City,Italian,4
+1341,MANHATTAN,Tudor City,Diner,3
+1342,MANHATTAN,Tudor City,Irish,2
+1343,MANHATTAN,Stuyvesant Town,Italian,6
+1344,MANHATTAN,Stuyvesant Town,American,5
+1345,MANHATTAN,Stuyvesant Town,Chinese,4
+1346,MANHATTAN,Stuyvesant Town,Shop,3
+1347,MANHATTAN,Stuyvesant Town,New American,3
+1348,MANHATTAN,Flatiron,Italian,8
+1349,MANHATTAN,Flatiron,American,4
+1350,MANHATTAN,Flatiron,Pub,3
+1351,MANHATTAN,Flatiron,Bar,2
+1352,MANHATTAN,Flatiron,Tapas,2
+1353,QUEENS,Sunnyside Gardens,Pizza,4
+1354,QUEENS,Sunnyside Gardens,Mexican,4
+1355,QUEENS,Sunnyside Gardens,Chinese,4
+1356,QUEENS,Sunnyside Gardens,Indian,3
+1357,QUEENS,Sunnyside Gardens,Filipino,2
+1358,QUEENS,Blissville,Chinese,7
+1359,QUEENS,Blissville,Pizza,6
+1360,QUEENS,Blissville,Indian,3
+1361,QUEENS,Blissville,Italian,3
+1362,QUEENS,Blissville,Deli / Bodega,2
+1363,BROOKLYN,Fulton Ferry,Chinese,19
+1364,BROOKLYN,Fulton Ferry,Dim Sum,4
+1365,BROOKLYN,Fulton Ferry,Italian,2
+1366,BROOKLYN,Fulton Ferry,Seafood,2
+1367,BROOKLYN,Fulton Ferry,Pizza,2
+1368,BROOKLYN,Vinegar Hill,Chinese,8
+1369,BROOKLYN,Vinegar Hill,Diner,4
+1370,BROOKLYN,Vinegar Hill,Mexican,4
+1371,BROOKLYN,Vinegar Hill,Asian,2
+1372,BROOKLYN,Vinegar Hill,Bar,2
+1373,BROOKLYN,Weeksville,Caribbean,18
+1374,BROOKLYN,Weeksville,Chinese,5
+1375,BROOKLYN,Weeksville,Spanish,4
+1376,BROOKLYN,Weeksville,Asian,3
+1377,BROOKLYN,Weeksville,American,2
+1378,BROOKLYN,Broadway Junction,Chinese,11
+1379,BROOKLYN,Broadway Junction,Caribbean,8
+1380,BROOKLYN,Broadway Junction,Latin American,4
+1381,BROOKLYN,Broadway Junction,Asian,3
+1382,BROOKLYN,Broadway Junction,Spanish,3
+1383,BROOKLYN,Dumbo,Chinese,18
+1384,BROOKLYN,Dumbo,Dim Sum,4
+1385,BROOKLYN,Dumbo,Asian,2
+1386,BROOKLYN,Dumbo,Mexican,2
+1387,BROOKLYN,Dumbo,Diner,2
+1388,STATEN ISLAND,Manor Heights,Pizza,2
+1389,STATEN ISLAND,Manor Heights,American,1
+1390,STATEN ISLAND,Manor Heights,Chinese,1
+1391,STATEN ISLAND,Manor Heights,Italian,1
+1392,STATEN ISLAND,Manor Heights,Japanese,1
+1393,STATEN ISLAND,Willowbrook,Pizza,3
+1394,STATEN ISLAND,Willowbrook,American,1
+1395,STATEN ISLAND,Willowbrook,Chinese,1
+1396,STATEN ISLAND,Willowbrook,Italian,1
+1397,STATEN ISLAND,Willowbrook,Japanese,1
+1398,STATEN ISLAND,Sandy Ground,Chinese,1
+1399,STATEN ISLAND,Egbertville,Pizza,5
+1400,STATEN ISLAND,Egbertville,Asian,2
+1401,STATEN ISLAND,Egbertville,Italian,2
+1402,STATEN ISLAND,Egbertville,Deli / Bodega,1
+1403,STATEN ISLAND,Egbertville,Japanese,1
+1404,BROOKLYN,Homecrest,Chinese,8
+1405,BROOKLYN,Homecrest,Turkish,4
+1406,BROOKLYN,Homecrest,American,3
+1407,BROOKLYN,Homecrest,Russian,3
+1408,BROOKLYN,Homecrest,Eastern European,3
+1409,QUEENS,Middle Village,Chinese,13
+1410,QUEENS,Middle Village,Pizza,9
+1411,QUEENS,Middle Village,Italian,3
+1412,QUEENS,Middle Village,Japanese,3
+1413,QUEENS,Middle Village,American,2
+1414,STATEN ISLAND,Prince's Bay,Chinese,2
+1415,STATEN ISLAND,Prince's Bay,Pizza,2
+1416,STATEN ISLAND,Prince's Bay,American,1
+1417,STATEN ISLAND,Prince's Bay,Asian,1
+1418,STATEN ISLAND,Lighthouse Hill,Asian,1
+1419,STATEN ISLAND,Lighthouse Hill,Italian,1
+1420,STATEN ISLAND,Lighthouse Hill,Japanese,1
+1421,STATEN ISLAND,Lighthouse Hill,Pizza,1
+1422,STATEN ISLAND,Lighthouse Hill,Russian,1
+1423,STATEN ISLAND,Richmond Valley,Italian,4
+1424,STATEN ISLAND,Richmond Valley,Diner,2
+1425,STATEN ISLAND,Richmond Valley,Pizza,2
+1426,STATEN ISLAND,Richmond Valley,American,1
+1427,STATEN ISLAND,Richmond Valley,Asian,1
+1428,QUEENS,Malba,Chinese,7
+1429,QUEENS,Malba,Pizza,5
+1430,QUEENS,Malba,Asian,3
+1431,QUEENS,Malba,Japanese,3
+1432,QUEENS,Malba,Korean,2
+1433,BROOKLYN,Highland Park,Chinese,8
+1434,BROOKLYN,Highland Park,Latin American,8
+1435,BROOKLYN,Highland Park,Caribbean,6
+1436,BROOKLYN,Highland Park,Spanish,4
+1437,BROOKLYN,Highland Park,Asian,2
+1438,BROOKLYN,Madison,Chinese,8
+1439,BROOKLYN,Madison,Diner,3
+1440,BROOKLYN,Madison,Japanese,3
+1441,BROOKLYN,Madison,Pizza,3
+1442,BROOKLYN,Madison,American,2

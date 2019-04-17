@@ -1,0 +1,165 @@
+,Borough,Neighborhood,Venue_Category,Total_Count
+0,BRONX,Co-op City,Mall,4
+1,BRONX,Eastchester,Mall,2
+2,BRONX,Fieldston,Mall,1
+3,BRONX,Riverdale,Mall,1
+4,MANHATTAN,Marble Hill,Mall,1
+5,BRONX,Baychester,Mall,3
+6,BRONX,Pelham Parkway,Mall,1
+7,BRONX,Bedford Park,Mall,1
+8,BRONX,University Heights,Mall,1
+9,BRONX,Fordham,Mall,1
+10,BRONX,East Tremont,Mall,2
+11,BRONX,West Farms,Mall,3
+12,BRONX,High  Bridge,Mall,2
+13,BRONX,Melrose,Mall,2
+14,BRONX,Longwood,Mall,1
+15,BRONX,Hunts Point,Mall,1
+16,BRONX,Morrisania,Mall,1
+17,BRONX,Westchester Square,Mall,1
+18,BRONX,Van Nest,Mall,3
+19,BRONX,Morris Park,Mall,1
+20,BRONX,Belmont,Mall,2
+21,BRONX,North Riverdale,Mall,1
+22,BRONX,Pelham Bay,Mall,1
+23,BRONX,Schuylerville,Mall,1
+24,BRONX,Castle Hill,Mall,1
+25,BRONX,Pelham Gardens,Mall,3
+26,BRONX,Concourse,Mall,1
+27,BRONX,Unionport,Mall,1
+28,BROOKLYN,Bay Ridge,Mall,2
+29,BROOKLYN,Sunset Park,Mall,3
+30,BROOKLYN,Greenpoint,Mall,1
+31,BROOKLYN,Brighton Beach,Mall,1
+32,BROOKLYN,Crown Heights,Mall,1
+33,BROOKLYN,Prospect Heights,Mall,1
+34,BROOKLYN,Williamsburg,Mall,4
+35,BROOKLYN,Bushwick,Mall,3
+36,BROOKLYN,Bedford Stuyvesant,Mall,3
+37,BROOKLYN,Brooklyn Heights,Mall,4
+38,BROOKLYN,Cobble Hill,Mall,2
+39,BROOKLYN,Carroll Gardens,Mall,1
+40,BROOKLYN,Gowanus,Mall,1
+41,BROOKLYN,Fort Greene,Mall,2
+42,BROOKLYN,Park Slope,Mall,1
+43,BROOKLYN,East New York,Mall,1
+44,BROOKLYN,Starrett City,Mall,4
+45,BROOKLYN,Canarsie,Mall,3
+46,BROOKLYN,Flatlands,Mall,1
+47,BROOKLYN,Mill Island,Mall,1
+48,BROOKLYN,Coney Island,Mall,1
+49,BROOKLYN,Borough Park,Mall,2
+50,BROOKLYN,Dyker Heights,Mall,1
+51,BROOKLYN,Marine Park,Mall,1
+52,BROOKLYN,Clinton Hill,Mall,2
+53,BROOKLYN,Downtown,Mall,2
+54,BROOKLYN,Boerum Hill,Mall,2
+55,BROOKLYN,Bergen Beach,Mall,1
+56,BROOKLYN,Georgetown,Mall,2
+57,BROOKLYN,Spring Creek,Mall,3
+58,BROOKLYN,East Williamsburg,Mall,4
+59,BROOKLYN,North Side,Mall,4
+60,BROOKLYN,South Side,Mall,4
+61,BROOKLYN,Navy Yard,Mall,2
+62,BROOKLYN,Fort Hamilton,Mall,1
+63,MANHATTAN,Chinatown,Mall,7
+64,MANHATTAN,Washington Heights,Mall,1
+65,MANHATTAN,Central Harlem,Mall,1
+66,MANHATTAN,Yorkville,Mall,1
+67,MANHATTAN,Lenox Hill,Mall,1
+68,MANHATTAN,Roosevelt Island,Mall,2
+69,MANHATTAN,Upper West Side,Mall,1
+70,MANHATTAN,Clinton,Mall,2
+71,MANHATTAN,Midtown,Mall,4
+72,MANHATTAN,Murray Hill,Mall,4
+73,MANHATTAN,Chelsea,Mall,2
+74,MANHATTAN,Greenwich Village,Mall,3
+75,MANHATTAN,East Village,Mall,3
+76,MANHATTAN,Lower East Side,Mall,1
+77,MANHATTAN,Tribeca,Mall,7
+78,MANHATTAN,Little Italy,Mall,7
+79,MANHATTAN,Soho,Mall,6
+80,MANHATTAN,West Village,Mall,1
+81,MANHATTAN,Manhattan Valley,Mall,1
+82,MANHATTAN,Gramercy,Mall,3
+83,MANHATTAN,Battery Park City,Mall,6
+84,MANHATTAN,Financial District,Mall,7
+85,QUEENS,Astoria,Mall,3
+86,QUEENS,Woodside,Mall,2
+87,QUEENS,Jackson Heights,Mall,2
+88,QUEENS,Elmhurst,Mall,3
+89,QUEENS,South Corona,Mall,3
+90,QUEENS,Forest Hills,Mall,1
+91,QUEENS,Downtown Flushing,Mall,8
+92,QUEENS,Long Island City,Mall,1
+93,QUEENS,Maspeth,Mall,1
+94,QUEENS,Ridgewood,Mall,1
+95,QUEENS,Glendale,Mall,1
+96,QUEENS,Rego Park,Mall,3
+97,QUEENS,College Point,Mall,1
+98,QUEENS,Whitestone,Mall,4
+99,QUEENS,Bayside,Mall,1
+100,QUEENS,Auburndale,Mall,1
+101,QUEENS,Glen Oaks,Mall,1
+102,QUEENS,Fresh Meadows,Mall,1
+103,QUEENS,Briarwood,Mall,2
+104,QUEENS,Jamaica Center,Mall,2
+105,QUEENS,Hollis,Mall,1
+106,QUEENS,South Jamaica,Mall,2
+107,QUEENS,St. Albans,Mall,1
+108,QUEENS,Rochdale,Mall,1
+109,QUEENS,Springfield Gardens,Mall,1
+110,QUEENS,Rosedale,Mall,1
+111,QUEENS,Far Rockaway,Mall,1
+112,QUEENS,Steinway,Mall,2
+113,QUEENS,Beechhurst,Mall,2
+114,QUEENS,Bay Terrace,Mall,1
+115,QUEENS,Edgemere,Mall,1
+116,QUEENS,Murray Hill,Mall,7
+117,QUEENS,Floral Park,Mall,1
+118,QUEENS,Holliswood,Mall,1
+119,QUEENS,Jamaica Estates,Mall,1
+120,QUEENS,Queensboro Hill,Mall,6
+121,QUEENS,Ravenswood,Mall,2
+122,QUEENS,Laurelton,Mall,1
+123,QUEENS,Lefrak City,Mall,3
+124,STATEN ISLAND,New Springville,Mall,4
+125,STATEN ISLAND,New Dorp,Mall,1
+126,STATEN ISLAND,Oakwood,Mall,1
+127,STATEN ISLAND,Woodrow,Mall,2
+128,BROOKLYN,Wingate,Mall,1
+129,BROOKLYN,Rugby,Mall,1
+130,STATEN ISLAND,Grant City,Mall,1
+131,STATEN ISLAND,New Dorp Beach,Mall,1
+132,STATEN ISLAND,Pleasant Plains,Mall,1
+133,STATEN ISLAND,Charleston,Mall,2
+134,STATEN ISLAND,Rossville,Mall,1
+135,STATEN ISLAND,Arden Heights,Mall,1
+136,STATEN ISLAND,Greenridge,Mall,1
+137,STATEN ISLAND,Heartland Village,Mall,5
+138,MANHATTAN,Noho,Mall,3
+139,MANHATTAN,Civic Center,Mall,8
+140,MANHATTAN,Midtown South,Mall,3
+141,BROOKLYN,New Lots,Mall,3
+142,BROOKLYN,Paerdegat Basin,Mall,3
+143,BROOKLYN,Mill Basin,Mall,2
+144,QUEENS,Jamaica Hills,Mall,2
+145,QUEENS,Utopia,Mall,1
+146,QUEENS,Pomonok,Mall,1
+147,QUEENS,Astoria Heights,Mall,2
+148,BRONX,Claremont Village,Mall,3
+149,BRONX,Concourse Village,Mall,1
+150,MANHATTAN,Sutton Place,Mall,2
+151,MANHATTAN,Turtle Bay,Mall,2
+152,MANHATTAN,Tudor City,Mall,4
+153,MANHATTAN,Stuyvesant Town,Mall,1
+154,MANHATTAN,Flatiron,Mall,3
+155,QUEENS,Sunnyside Gardens,Mall,1
+156,BROOKLYN,Fulton Ferry,Mall,6
+157,BROOKLYN,Vinegar Hill,Mall,2
+158,BROOKLYN,Weeksville,Mall,1
+159,BROOKLYN,Dumbo,Mall,5
+160,STATEN ISLAND,Sandy Ground,Mall,2
+161,QUEENS,Middle Village,Mall,2
+162,STATEN ISLAND,Richmond Valley,Mall,1
+163,QUEENS,Malba,Mall,4

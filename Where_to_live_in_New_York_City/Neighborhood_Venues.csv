@@ -1,0 +1,296 @@
+,College/University,Mall/Big Shopping Complex,Park,Neighborhood,Borough
+0,,,1.0,Annadale,STATEN ISLAND
+1,,1.0,5.0,Arden Heights,STATEN ISLAND
+2,1.0,,2.0,Arlington,STATEN ISLAND
+3,1.0,,3.0,Arrochar,STATEN ISLAND
+4,1.0,,1.0,Arverne,QUEENS
+5,1.0,2.0,9.0,Astoria Heights,QUEENS
+6,2.0,3.0,12.0,Astoria,QUEENS
+7,,1.0,2.0,Auburndale,QUEENS
+8,1.0,,14.0,Bath Beach,BROOKLYN
+9,,6.0,17.0,Battery Park City,MANHATTAN
+10,,2.0,6.0,Bay Ridge,BROOKLYN
+11,,1.0,6.0,Bay Terrace,QUEENS
+12,,,6.0,Bay Terrace,STATEN ISLAND
+13,,3.0,4.0,Baychester,BRONX
+14,,1.0,3.0,Bayside,QUEENS
+15,,1.0,11.0,Bedford Park,BRONX
+16,1.0,3.0,12.0,Bedford Stuyvesant,BROOKLYN
+17,1.0,2.0,6.0,Beechhurst,QUEENS
+18,1.0,,6.0,Bellaire,QUEENS
+19,,,3.0,Belle Harbor,QUEENS
+20,1.0,,2.0,Bellerose,QUEENS
+21,,2.0,15.0,Belmont,BRONX
+22,1.0,,15.0,Bensonhurst,BROOKLYN
+23,,1.0,3.0,Bergen Beach,BROOKLYN
+24,1.0,,8.0,Blissville,QUEENS
+25,,,1.0,Bloomfield,STATEN ISLAND
+26,,2.0,8.0,Boerum Hill,BROOKLYN
+27,,2.0,3.0,Borough Park,BROOKLYN
+28,,2.0,8.0,Briarwood,QUEENS
+29,1.0,1.0,8.0,Brighton Beach,BROOKLYN
+30,,,1.0,Broad Channel,QUEENS
+31,1.0,,12.0,Broadway Junction,BROOKLYN
+32,,4.0,23.0,Brooklyn Heights,BROOKLYN
+33,,,4.0,Brookville,QUEENS
+34,1.0,,11.0,Brownsville,BROOKLYN
+35,,,5.0,Bulls Head,STATEN ISLAND
+36,1.0,3.0,12.0,Bushwick,BROOKLYN
+37,,,4.0,Butler Manor,STATEN ISLAND
+38,1.0,,3.0,Cambria Heights,QUEENS
+39,,3.0,4.0,Canarsie,BROOKLYN
+40,,,10.0,Carnegie Hill,MANHATTAN
+41,,1.0,14.0,Carroll Gardens,BROOKLYN
+42,,1.0,11.0,Castle Hill,BRONX
+43,1.0,,4.0,Castleton Corners,STATEN ISLAND
+44,,1.0,15.0,Central Harlem,MANHATTAN
+45,,2.0,,Charleston,STATEN ISLAND
+46,,2.0,17.0,Chelsea,MANHATTAN
+47,,,3.0,Chelsea,STATEN ISLAND
+48,1.0,7.0,25.0,Chinatown,MANHATTAN
+49,,,3.0,City Island,BRONX
+50,,,4.0,City Line,BROOKLYN
+51,,8.0,23.0,Civic Center,MANHATTAN
+52,,3.0,20.0,Claremont Village,BRONX
+53,,,12.0,Clason Point,BRONX
+54,1.0,,5.0,Clifton,STATEN ISLAND
+55,,2.0,11.0,Clinton Hill,BROOKLYN
+56,,2.0,8.0,Clinton,MANHATTAN
+57,,4.0,5.0,Co-op City,BRONX
+58,,2.0,17.0,Cobble Hill,BROOKLYN
+59,,1.0,10.0,College Point,QUEENS
+60,1.0,,2.0,Concord,STATEN ISLAND
+61,,1.0,14.0,Concourse Village,BRONX
+62,,1.0,13.0,Concourse,BRONX
+63,1.0,1.0,13.0,Coney Island,BROOKLYN
+64,,,6.0,Country Club,BRONX
+65,1.0,1.0,10.0,Crown Heights,BROOKLYN
+66,,,5.0,Cypress Hills,BROOKLYN
+67,,,8.0,Ditmas Park,BROOKLYN
+68,1.0,,,Dongan Hills,STATEN ISLAND
+69,,,7.0,Douglaston,QUEENS
+70,,8.0,4.0,Downtown Flushing,QUEENS
+71,,2.0,13.0,Downtown,BROOKLYN
+72,,5.0,25.0,Dumbo,BROOKLYN
+73,,1.0,10.0,Dyker Heights,BROOKLYN
+74,1.0,,8.0,East Elmhurst,QUEENS
+75,,,8.0,East Flatbush,BROOKLYN
+76,,,10.0,East Harlem,MANHATTAN
+77,,1.0,7.0,East New York,BROOKLYN
+78,,2.0,18.0,East Tremont,BRONX
+79,,3.0,18.0,East Village,MANHATTAN
+80,1.0,4.0,12.0,East Williamsburg,BROOKLYN
+81,,2.0,4.0,Eastchester,BRONX
+82,,,7.0,Edenwald,BRONX
+83,1.0,1.0,2.0,Edgemere,QUEENS
+84,1.0,,6.0,Edgewater Park,BRONX
+85,,,1.0,Egbertville,STATEN ISLAND
+86,1.0,,5.0,Elm Park,STATEN ISLAND
+87,2.0,3.0,11.0,Elmhurst,QUEENS
+88,,,3.0,Eltingville,STATEN ISLAND
+89,1.0,,2.0,Emerson Hill,STATEN ISLAND
+90,1.0,1.0,3.0,Far Rockaway,QUEENS
+91,,1.0,14.0,Fieldston,BRONX
+92,,7.0,19.0,Financial District,MANHATTAN
+93,,,8.0,Flatbush,BROOKLYN
+94,,3.0,13.0,Flatiron,MANHATTAN
+95,,1.0,5.0,Flatlands,BROOKLYN
+96,1.0,1.0,2.0,Floral Park,QUEENS
+97,,1.0,13.0,Fordham,BRONX
+98,1.0,,9.0,Forest Hills Gardens,QUEENS
+99,1.0,1.0,6.0,Forest Hills,QUEENS
+100,,2.0,8.0,Fort Greene,BROOKLYN
+101,,1.0,7.0,Fort Hamilton,BROOKLYN
+102,,1.0,7.0,Fresh Meadows,QUEENS
+103,,6.0,21.0,Fulton Ferry,BROOKLYN
+104,,2.0,4.0,Georgetown,BROOKLYN
+105,,,10.0,Gerritsen Beach,BROOKLYN
+106,1.0,1.0,3.0,Glen Oaks,QUEENS
+107,1.0,1.0,6.0,Glendale,QUEENS
+108,,1.0,6.0,Gowanus,BROOKLYN
+109,,3.0,10.0,Gramercy,MANHATTAN
+110,1.0,,7.0,Graniteville,STATEN ISLAND
+111,,1.0,2.0,Grant City,STATEN ISLAND
+112,1.0,,2.0,Grasmere,STATEN ISLAND
+113,1.0,,8.0,Gravesend,BROOKLYN
+114,,,6.0,Great Kills,STATEN ISLAND
+115,1.0,1.0,13.0,Greenpoint,BROOKLYN
+116,,1.0,5.0,Greenridge,STATEN ISLAND
+117,,3.0,25.0,Greenwich Village,MANHATTAN
+118,1.0,,8.0,Grymes Hill,STATEN ISLAND
+119,,,14.0,Hamilton Heights,MANHATTAN
+120,,5.0,3.0,Heartland Village,STATEN ISLAND
+121,,2.0,19.0,High  Bridge,BRONX
+122,,,10.0,Highland Park,BROOKLYN
+123,,,5.0,Hillcrest,QUEENS
+124,1.0,1.0,3.0,Hollis,QUEENS
+125,1.0,1.0,4.0,Holliswood,QUEENS
+126,1.0,,5.0,Homecrest,BROOKLYN
+127,,,5.0,Howard Beach,QUEENS
+128,,,6.0,Howland Hook,STATEN ISLAND
+129,,,4.0,Huguenot,STATEN ISLAND
+130,1.0,,19.0,Hunters Point,QUEENS
+131,,1.0,16.0,Hunts Point,BRONX
+132,,,10.0,Inwood,MANHATTAN
+133,2.0,2.0,10.0,Jackson Heights,QUEENS
+134,,2.0,9.0,Jamaica Center,QUEENS
+135,,1.0,6.0,Jamaica Estates,QUEENS
+136,,2.0,7.0,Jamaica Hills,QUEENS
+137,,,3.0,Kensington,BROOKLYN
+138,1.0,,14.0,Kew Gardens Hills,QUEENS
+139,1.0,,10.0,Kew Gardens,QUEENS
+140,,,17.0,Kingsbridge,BRONX
+141,,1.0,6.0,Laurelton,QUEENS
+142,1.0,3.0,6.0,Lefrak City,QUEENS
+143,1.0,1.0,9.0,Lenox Hill,MANHATTAN
+144,,,5.0,Lighthouse Hill,STATEN ISLAND
+145,,,9.0,Lincoln Square,MANHATTAN
+146,,,5.0,Lindenwood,QUEENS
+147,,7.0,24.0,Little Italy,MANHATTAN
+148,,,7.0,Little Neck,QUEENS
+149,1.0,1.0,11.0,Long Island City,QUEENS
+150,,1.0,20.0,Longwood,BRONX
+151,,1.0,19.0,Lower East Side,MANHATTAN
+152,,,5.0,Madison,BROOKLYN
+153,,4.0,10.0,Malba,QUEENS
+154,1.0,,4.0,Manhattan Beach,BROOKLYN
+155,,,3.0,Manhattan Terrace,BROOKLYN
+156,,1.0,14.0,Manhattan Valley,MANHATTAN
+157,,,20.0,Manhattanville,MANHATTAN
+158,,1.0,16.0,Marble Hill,MANHATTAN
+159,,1.0,6.0,Marine Park,BROOKLYN
+160,1.0,,3.0,Mariner's Harbor,STATEN ISLAND
+161,2.0,1.0,10.0,Maspeth,QUEENS
+162,,2.0,15.0,Melrose,BRONX
+163,1.0,2.0,8.0,Middle Village,QUEENS
+164,,,2.0,Midland Beach,STATEN ISLAND
+165,,3.0,9.0,Midtown South,MANHATTAN
+166,,4.0,6.0,Midtown,MANHATTAN
+167,,,7.0,Midwood,BROOKLYN
+168,,2.0,5.0,Mill Basin,BROOKLYN
+169,,1.0,4.0,Mill Island,BROOKLYN
+170,1.0,,18.0,Morningside Heights,MANHATTAN
+171,,,18.0,Morris Heights,BRONX
+172,,1.0,3.0,Morris Park,BRONX
+173,,1.0,20.0,Morrisania,BRONX
+174,,,11.0,Mott Haven,BRONX
+175,,,16.0,Mount Eden,BRONX
+176,,,13.0,Mount Hope,BRONX
+177,,4.0,9.0,Murray Hill,MANHATTAN
+178,,7.0,5.0,Murray Hill,QUEENS
+179,,2.0,17.0,Navy Yard,BROOKLYN
+180,,,2.0,Neponsit,QUEENS
+181,1.0,,7.0,New Brighton,STATEN ISLAND
+182,,1.0,2.0,New Dorp Beach,STATEN ISLAND
+183,,1.0,2.0,New Dorp,STATEN ISLAND
+184,,3.0,5.0,New Lots,BROOKLYN
+185,,4.0,3.0,New Springville,STATEN ISLAND
+186,,3.0,19.0,Noho,MANHATTAN
+187,1.0,,8.0,North Corona,QUEENS
+188,,1.0,5.0,North Riverdale,BRONX
+189,,4.0,15.0,North Side,BROOKLYN
+190,,,12.0,Norwood,BRONX
+191,1.0,,6.0,Oakland Gardens,QUEENS
+192,,1.0,2.0,Oakwood,STATEN ISLAND
+193,1.0,,18.0,Ocean Hill,BROOKLYN
+194,,,4.0,Ocean Parkway,BROOKLYN
+195,1.0,,1.0,Old Town,STATEN ISLAND
+196,,,12.0,Olinville,BRONX
+197,,,3.0,Ozone Park,QUEENS
+198,,3.0,3.0,Paerdegat Basin,BROOKLYN
+199,1.0,,2.0,Park Hill,STATEN ISLAND
+200,,1.0,3.0,Park Slope,BROOKLYN
+201,,,4.0,Parkchester,BRONX
+202,,1.0,5.0,Pelham Bay,BRONX
+203,,3.0,2.0,Pelham Gardens,BRONX
+204,,1.0,3.0,Pelham Parkway,BRONX
+205,,1.0,1.0,Pleasant Plains,STATEN ISLAND
+206,,1.0,8.0,Pomonok,QUEENS
+207,1.0,,7.0,Port Ivory,STATEN ISLAND
+208,,,9.0,Port Morris,BRONX
+209,2.0,,6.0,Port Richmond,STATEN ISLAND
+210,,,5.0,Prince's Bay,STATEN ISLAND
+211,1.0,1.0,4.0,Prospect Heights,BROOKLYN
+212,,,9.0,Prospect Lefferts Gardens,BROOKLYN
+213,,,7.0,Prospect Park South,BROOKLYN
+214,1.0,,3.0,Queens Village,QUEENS
+215,1.0,6.0,11.0,Queensboro Hill,QUEENS
+216,1.0,,8.0,Randall Manor,STATEN ISLAND
+217,1.0,2.0,14.0,Ravenswood,QUEENS
+218,,,10.0,Red Hook,BROOKLYN
+219,1.0,3.0,6.0,Rego Park,QUEENS
+220,1.0,,10.0,Remsen Village,BROOKLYN
+221,,,6.0,Richmond Hill,QUEENS
+222,,,2.0,Richmond Town,STATEN ISLAND
+223,,1.0,1.0,Richmond Valley,STATEN ISLAND
+224,,1.0,10.0,Ridgewood,QUEENS
+225,,1.0,16.0,Riverdale,BRONX
+226,,1.0,7.0,Rochdale,QUEENS
+227,,,2.0,Rockaway Park,QUEENS
+228,1.0,2.0,11.0,Roosevelt Island,MANHATTAN
+229,1.0,,5.0,Rosebank,STATEN ISLAND
+230,,1.0,5.0,Rosedale,QUEENS
+231,,1.0,7.0,Rossville,STATEN ISLAND
+232,1.0,1.0,9.0,Rugby,BROOKLYN
+233,,2.0,2.0,Sandy Ground,STATEN ISLAND
+234,1.0,1.0,4.0,Schuylerville,BRONX
+235,1.0,,8.0,Sea Gate,BROOKLYN
+236,,,1.0,Seaside,QUEENS
+237,1.0,,9.0,Sheepshead Bay,BROOKLYN
+238,1.0,,3.0,Shore Acres,STATEN ISLAND
+239,1.0,,5.0,Silver Lake,STATEN ISLAND
+240,,6.0,25.0,Soho,MANHATTAN
+241,1.0,,1.0,Somerville,QUEENS
+242,,,18.0,Soundview,BRONX
+243,,,2.0,South Beach,STATEN ISLAND
+244,1.0,3.0,7.0,South Corona,QUEENS
+245,,2.0,11.0,South Jamaica,QUEENS
+246,,,6.0,South Ozone Park,QUEENS
+247,,4.0,18.0,South Side,BROOKLYN
+248,,3.0,6.0,Spring Creek,BROOKLYN
+249,,1.0,6.0,Springfield Gardens,QUEENS
+250,,,13.0,Spuyten Duyvil,BRONX
+251,,1.0,6.0,St. Albans,QUEENS
+252,1.0,,5.0,St. George,STATEN ISLAND
+253,1.0,,7.0,Stapleton,STATEN ISLAND
+254,,4.0,4.0,Starrett City,BROOKLYN
+255,1.0,2.0,12.0,Steinway,QUEENS
+256,,1.0,13.0,Stuyvesant Town,MANHATTAN
+257,2.0,1.0,11.0,Sunnyside Gardens,QUEENS
+258,2.0,,8.0,Sunnyside,QUEENS
+259,1.0,,2.0,Sunnyside,STATEN ISLAND
+260,,3.0,8.0,Sunset Park,BROOKLYN
+261,1.0,2.0,9.0,Sutton Place,MANHATTAN
+262,1.0,,6.0,Throgs Neck,BRONX
+263,1.0,,8.0,Tompkinsville,STATEN ISLAND
+264,,,5.0,Tottenville,STATEN ISLAND
+265,,,3.0,Travis,STATEN ISLAND
+266,,7.0,22.0,Tribeca,MANHATTAN
+267,1.0,4.0,10.0,Tudor City,MANHATTAN
+268,1.0,2.0,8.0,Turtle Bay,MANHATTAN
+269,,1.0,7.0,Unionport,BRONX
+270,,1.0,12.0,University Heights,BRONX
+271,,,12.0,Upper East Side,MANHATTAN
+272,,1.0,14.0,Upper West Side,MANHATTAN
+273,,1.0,9.0,Utopia,QUEENS
+274,,3.0,5.0,Van Nest,BRONX
+275,,2.0,27.0,Vinegar Hill,BROOKLYN
+276,,,3.0,Wakefield,BRONX
+277,,1.0,19.0,Washington Heights,MANHATTAN
+278,1.0,1.0,14.0,Weeksville,BROOKLYN
+279,2.0,,10.0,West Brighton,STATEN ISLAND
+280,,3.0,11.0,West Farms,BRONX
+281,,1.0,19.0,West Village,MANHATTAN
+282,,1.0,6.0,Westchester Square,BRONX
+283,1.0,,4.0,Westerleigh,STATEN ISLAND
+284,,4.0,5.0,Whitestone,QUEENS
+285,,,7.0,Williamsbridge,BRONX
+286,1.0,4.0,16.0,Williamsburg,BROOKLYN
+287,,,3.0,Willowbrook,STATEN ISLAND
+288,,,4.0,Windsor Terrace,BROOKLYN
+289,1.0,1.0,11.0,Wingate,BROOKLYN
+290,,,9.0,Woodhaven,QUEENS
+291,,,9.0,Woodlawn,BRONX
+292,,2.0,2.0,Woodrow,STATEN ISLAND
+293,2.0,2.0,14.0,Woodside,QUEENS
+294,,1.0,8.0,Yorkville,MANHATTAN
