@@ -1,0 +1,9 @@
+    
+Date : 2nd May 2019
+Creator : Ankur Arya
+
+Title: Web_Scraping_K_Means_Toronto
+
+This work is done as part of IBM training on machine learning. Web data on neighborhood information
+on Toronto. Foursquare API is used to get attractions in neighborhoods and k-means classification is 
+used for making clusters of neighborhoods. Check out the self explainatory Jupyter Notebooks.
