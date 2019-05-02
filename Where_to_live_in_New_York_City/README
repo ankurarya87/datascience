@@ -1,0 +1,13 @@
+Date : 2nd May 2019
+Creator : Ankur Arya
+
+Title : Where_to_live_in_New_York_City 
+
+A data-based approach is used to search best place to live in New York City (NYC). The search is 
+done by using real and recent data obtained from NYC Open Data, Zillow, Google and Foursquare. 
+Types of data include residential property prices, crime reported to NYPD, real traffic-based 
+commute time, restaurant cuisines, shopping complexes, parks and education institutions.                                
+
+A detail report is very informative - Where_to_Live_in_New_York_City.pdf                                    
+
+Jupyter notebook (30Mb) downloaded for viewing offline - Where_to_Live_in_New_York_City.ipynb
