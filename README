@@ -1,7 +1,7 @@
 Date : 2nd May 2019
 Creator : Ankur Arya
 
-In repository 'datascience' are selected projects are uploaded. Project folders with short description listed below :
+In this repository 'datascience', selected projects are uploaded. Project folders with short description are listed below.
 
 1) NYC_Crime_Data : Complains reported to NYPD in 2018 is downloaded from NYC Open Data and analyzed for some interesting facts 
                     and data visualization. Check out the jupyter notebook - NYC_Crime_Data_Analysis.ipynb 
